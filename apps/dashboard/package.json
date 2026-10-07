@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev -H 127.0.0.1",
-    "build": "next build --webpack",
+    "build": "next build --webpack && node ./scripts/ensure-nft.mjs",
     "start": "next start -H 127.0.0.1",
     "typecheck": "next typegen && tsc --noEmit",
     "lint": "eslint .",
