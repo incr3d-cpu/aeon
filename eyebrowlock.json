@@ -2667,6 +2667,70 @@
       ],
       "contentHash": "sha256-349ae83cfa9c3c1bc1d2da278ece86db40ae6c6be73c2a494f22517b3c9c8845",
       "discoveredFrom": "skills/feedback-builder/SKILL.md"
+    },
+    {
+      "id": "2f3973c694b17989",
+      "tool": "aeon",
+      "scope": "project:.",
+      "type": "skill",
+      "name": "clawhunter-bounties",
+      "source": {
+        "kind": "local",
+        "ref": "skills/clawhunter-bounties"
+      },
+      "capabilities": {
+        "network": [
+          "clawhunter.fun"
+        ]
+      },
+      "files": [
+        {
+          "path": "SKILL.md",
+          "hash": "5410b7d087ed570f2dbb8b20c354121fdbd231c6a1585b4ca557511da06a7db8"
+        },
+        {
+          "path": "metadata.json",
+          "hash": "3ec4b75d9f846ede6a745cc5d46afce01d41450ffce755139efc4bcdb26989fd"
+        },
+        {
+          "path": "references/research.md",
+          "hash": "aae90b4c68f73a8f378209770599b5f9077e9679a2044d990bc4b417453f8953"
+        }
+      ],
+      "contentHash": "sha256-048096317426a2e1201b151b02d62bee1171b7365fa7a33e5e054d8904db16d0",
+      "discoveredFrom": "skills/clawhunter-bounties/SKILL.md"
+    },
+    {
+      "id": "c31f3b1ba3cab819",
+      "tool": "aeon",
+      "scope": "project:.",
+      "type": "skill",
+      "name": "clawhunter-content-studio",
+      "source": {
+        "kind": "local",
+        "ref": "skills/clawhunter-content-studio"
+      },
+      "capabilities": {
+        "network": [
+          "clawhunter.fun"
+        ]
+      },
+      "files": [
+        {
+          "path": "SKILL.md",
+          "hash": "40a3694d6d3c67b3f0dd2f341246e4fcddd060b71cc04f456e5674d2c3dabdbd"
+        },
+        {
+          "path": "metadata.json",
+          "hash": "29b352eeef4960db28fc067578a434fe3f25e57d2e545e84052a1f77423cd596"
+        },
+        {
+          "path": "references/visual.md",
+          "hash": "d2f8c5ba9e4d53652b36117dc3bb9f8b166cdd6428952404a79793c3e73f7441"
+        }
+      ],
+      "contentHash": "sha256-e206a9be9341cf963c8b56f0d164e5acb3cfbead3e9d9975fd8ced7d6dc73891",
+      "discoveredFrom": "skills/clawhunter-content-studio/SKILL.md"
     }
   ]
 }
