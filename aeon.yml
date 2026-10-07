@@ -64,7 +64,7 @@ skills:
   pack-submit: { enabled: false, schedule: "workflow_dispatch", var: "" } # on-demand — publish a local skill as a community pack + submit registry PR; var: skill-slug [--repo o/r] [--no-register] [--dry-run]
 
   # --- X / social (5 PM UTC) ---
-  fetch-tweets: { enabled: false, schedule: "0 17 * * *", var: "" } # curate X/Twitter. var: keyword:<q> | topic:<t> | account:<handle> (empty=digest tracked accounts) | list:<ids>[|topic] | agent-buzz[:<t>]. Optional XAI_API_KEY.
+  fetch-tweets: { enabled: true, schedule: "0 17 * * *", var: "" } # curate X/Twitter. var: keyword:<q> | topic:<t> | account:<handle> (empty=digest tracked accounts) | list:<ids>[|topic] | agent-buzz[:<t>]. Optional XAI_API_KEY.
   reply-maker: { enabled: false, schedule: "0 17 * * *", var: "" } # draft X replies. var: empty=discover reply-worthy tweets | @handle | <listID> | <topic> | from-logs (reply to flagged log opportunities). Optional XAI_API_KEY.
 
   # --- Content distribution (runs 30 min after article-generating skills) ---
