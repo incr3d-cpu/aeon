@@ -7,6 +7,10 @@ import { resolve } from 'path'
 const repoRoot = resolve(__dirname, '..', '..')
 
 const nextConfig: NextConfig = {
+  // OpenNext copies traced files into `.next/standalone/...`. Without this,
+  // that dest dir never exists and copyFileSync throws ENOENT on
+  // instrumentation.js.nft.json even when the source file is present.
+  output: 'standalone',
   turbopack: { root: repoRoot },
   outputFileTracingRoot: repoRoot,
   // Next 16.3 writes AGENTS.md and CLAUDE.md into this folder on every
