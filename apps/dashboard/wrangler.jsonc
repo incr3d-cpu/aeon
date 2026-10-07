@@ -1,9 +1,8 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "aeon",
-  "main": "../webhook/src/worker.js",
+  "main": "./telegram-worker.js",
   "compatibility_date": "2025-01-01",
-  "compatibility_flags": ["nodejs_compat"],
   "observability": {
     "enabled": true
   }
