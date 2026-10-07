@@ -1,0 +1,20 @@
+[
+  {
+    "skill_name": "clawhunter-bounties",
+    "source_repo": "clawhunter/clawhunter-skills",
+    "source_path": "skills/clawhunter-bounties/SKILL.md",
+    "branch": "main",
+    "commit_sha": "d231eff9d4aa7236dec2841155444b600418c127",
+    "imported_at": "2026-10-07T19:29:47Z",
+    "pack": "clawhunter-skills"
+  },
+  {
+    "skill_name": "clawhunter-content-studio",
+    "source_repo": "clawhunter/clawhunter-skills",
+    "source_path": "skills/clawhunter-content-studio/SKILL.md",
+    "branch": "main",
+    "commit_sha": "d231eff9d4aa7236dec2841155444b600418c127",
+    "imported_at": "2026-10-07T19:29:48Z",
+    "pack": "clawhunter-skills"
+  }
+]
