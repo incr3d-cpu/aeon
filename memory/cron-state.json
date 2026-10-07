@@ -27,5 +27,9 @@
     "total_failures": 0,
     "consecutive_failures": 0,
     "success_rate": 1
+  },
+  "fetch-tweets": {
+    "last_dispatch": "2026-10-07T23:15:38Z",
+    "last_status": "dispatched"
   }
 }
