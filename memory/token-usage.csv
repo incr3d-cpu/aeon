@@ -1,2 +1,3 @@
 date,skill,model,input_tokens,output_tokens,cache_read,cache_creation
 2026-10-07,install-skill,grok-4.7,222282,34605,3453312,0
+2026-10-07,strategy-builder,grok-4.7,67759,6281,498944,0
