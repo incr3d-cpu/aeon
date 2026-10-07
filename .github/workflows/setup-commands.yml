@@ -110,3 +110,22 @@ jobs:
           # Show the commands menu next to the message field (default type; explicit here).
           api("setChatMenuButton", {"menu_button": {"type": "commands"}})
           PY
+
+      - name: Point Telegram at Cloudflare Worker (instant mode)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_WEBHOOK_SECRET: ${{ secrets.TELEGRAM_WEBHOOK_SECRET }}
+          TELEGRAM_WEBHOOK_URL: ${{ vars.TELEGRAM_WEBHOOK_URL }}
+        run: |
+          if [ -z "${TELEGRAM_BOT_TOKEN}" ] || [ -z "${TELEGRAM_WEBHOOK_SECRET}" ] || [ -z "${TELEGRAM_WEBHOOK_URL}" ]; then
+            echo "skip setWebhook — need TELEGRAM_BOT_TOKEN + TELEGRAM_WEBHOOK_SECRET + vars.TELEGRAM_WEBHOOK_URL"
+            exit 0
+          fi
+          echo "setWebhook url=${TELEGRAM_WEBHOOK_URL}"
+          curl -sS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/setWebhook" \
+            --data-urlencode "url=${TELEGRAM_WEBHOOK_URL}" \
+            --data-urlencode "secret_token=${TELEGRAM_WEBHOOK_SECRET}"
+          echo
+          curl -sS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getWebhookInfo"
+          echo
+
