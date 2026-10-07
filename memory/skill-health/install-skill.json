@@ -1,0 +1,16 @@
+{
+  "skill": "install-skill",
+  "last_analyzed": "2026-10-07T19:38:06Z",
+  "quality_score": 4,
+  "assessment": "Concise install receipt matches the repo: clawhunter-skills (2 skills) is present, disabled, in the Installed pack, with no Actions secrets and x402 paid calls, plus the enable decision the operator needs.",
+  "flags": [],
+  "avg_score": 4,
+  "history": [
+    {
+      "date": "2026-10-07",
+      "score": 4,
+      "ts": "2026-10-07T19:38:06Z",
+      "harness": "grok"
+    }
+  ]
+}

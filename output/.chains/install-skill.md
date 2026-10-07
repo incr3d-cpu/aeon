@@ -1,0 +1,1 @@
+Installed & merged clawhunter-skills (2 skills) to main — they land disabled in the Installed pack; enable the pack in the dashboard, then flip enabled: true. No Actions secrets required (paid calls use x402).
