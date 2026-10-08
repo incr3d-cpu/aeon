@@ -83,6 +83,7 @@ jobs:
             # Owner user id: whoever is allowed to command the bot. Defaults to the
             # chat id (correct for a 1:1 DM, where chat.id == user.id); in a group set
             # TELEGRAM_ALLOWED_USER_ID so a button tap by a non-owner member is ignored.
+            source "${GITHUB_WORKSPACE}/scripts/telegram-allowed.sh"
             TG_OWNER_UID="${TELEGRAM_ALLOWED_USER_ID:-$TELEGRAM_CHAT_ID}"
             # A webhook and getUpdates are mutually exclusive: once a webhook is
             # set (instant mode, see webhook/), getUpdates returns 409. Detect it
@@ -116,7 +117,7 @@ jobs:
                   # Gate on chat AND user: the chat must be the owner's, and the tapping
                   # user must be the owner — otherwise any member of a group chat could
                   # dispatch skills / schedule crons just by tapping a posted button.
-                  if [ "$CB_CHAT" = "$TELEGRAM_CHAT_ID" ] && [ "$CB_FROM" = "$TG_OWNER_UID" ]; then
+                  if [ "$CB_CHAT" = "$TELEGRAM_CHAT_ID" ] && telegram_user_allowed "$CB_FROM"; then
                     TG_CALLBACKS=$(echo "$TG_CALLBACKS" | jq --arg d "$CB_DATA" '. + [$d]')
                     echo "Telegram callback: $CB_DATA"
                   elif [ "$CB_CHAT" = "$TELEGRAM_CHAT_ID" ]; then
@@ -133,7 +134,7 @@ jobs:
                 # Same owner gate as callbacks: right chat AND the owner user. In a 1:1
                 # DM both equal TELEGRAM_CHAT_ID; in a group a non-owner member is dropped.
                 [ "$CHAT" != "$TELEGRAM_CHAT_ID" ] && continue
-                [ "$FROM" != "$TG_OWNER_UID" ] && continue
+                telegram_user_allowed "$FROM" || continue
 
                 REPLY_TO=$(echo "$RESPONSE" | jq -r ".result[$i].message.reply_to_message.text // empty")
                 if [[ "$REPLY_TO" =~ \[[a-zA-Z0-9_-]+::[a-zA-Z0-9_-]+\] ]]; then
@@ -315,14 +316,15 @@ jobs:
         run: |
           CHAT_ID=$(printf '%s' "$_P_CHAT_ID" | jq -r 'tostring' 2>/dev/null || echo "null")
           FROM_ID=$(printf '%s' "$_P_FROM_ID" | jq -r 'tostring' 2>/dev/null || echo "null")
+          source "${GITHUB_WORKSPACE}/scripts/telegram-allowed.sh"
           OWNER_UID="${TELEGRAM_ALLOWED_USER_ID:-$TELEGRAM_CHAT_ID}"
           # Defence in depth — the Worker already gates on chat + user; re-check both.
           if [ -n "${TELEGRAM_CHAT_ID:-}" ] && [ "$CHAT_ID" != "null" ] && [ "$CHAT_ID" != "$TELEGRAM_CHAT_ID" ]; then
             echo "::warning::route: chat_id '$CHAT_ID' is not the owner chat — ignoring"
             exit 0
           fi
-          if [ -n "$OWNER_UID" ] && [ "$FROM_ID" != "null" ] && [ "$FROM_ID" != "$OWNER_UID" ]; then
-            echo "::warning::route: from_id '$FROM_ID' is not the owner user — ignoring (set TELEGRAM_ALLOWED_USER_ID to command from a group)"
+          if [ -n "$OWNER_UID" ] && [ "$FROM_ID" != "null" ] && ! telegram_user_allowed "$FROM_ID"; then
+            echo "::warning::route: from_id '$FROM_ID' is not an allowed user — ignoring (set TELEGRAM_ALLOWED_USER_ID to a comma-separated id list)"
             exit 0
           fi
           TEXT=$(printf '%s' "$_P_TEXT" | jq -r 'if . == null then "" else . end')
@@ -362,9 +364,11 @@ jobs:
           _INPUT_MESSAGE: ${{ inputs.message }}
           _INPUT_SOURCE: ${{ inputs.source }}
           _PAYLOAD_MESSAGE: ${{ toJson(github.event.client_payload.message) }}
+          _PAYLOAD_FROM: ${{ toJson(github.event.client_payload.from_id) }}
         run: |
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
             MESSAGE=$(printf '%s' "$_PAYLOAD_MESSAGE" | jq -r '.')
+            FROM_ID=$(printf '%s' "$_PAYLOAD_FROM" | jq -r 'tostring' 2>/dev/null || echo "")
             TYPE="${{ github.event.action }}"
             SOURCE="webhook"
             case "$TYPE" in
@@ -375,10 +379,12 @@ jobs:
           else
             MESSAGE="$_INPUT_MESSAGE"
             SOURCE="$_INPUT_SOURCE"
+            FROM_ID=""
           fi
 
           if [ -n "$MESSAGE" ] && [ "$MESSAGE" != "null" ]; then
             echo "source=$SOURCE" >> "$GITHUB_OUTPUT"
+            echo "from_id=$FROM_ID" >> "$GITHUB_OUTPUT"
             echo "message<<ENDOFMESSAGE" >> "$GITHUB_OUTPUT"
             echo "$MESSAGE" >> "$GITHUB_OUTPUT"
             echo "ENDOFMESSAGE" >> "$GITHUB_OUTPUT"
@@ -598,6 +604,7 @@ jobs:
           ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
           _MSG_SOURCE: ${{ steps.msg.outputs.source }}
           _MSG_MESSAGE: ${{ steps.msg.outputs.message }}
+          _MSG_FROM_ID: ${{ steps.msg.outputs.from_id }}
         run: |
           TODAY=$(date -u +%Y-%m-%d)
           CONFIG_MODEL=$(grep -E '^model:' aeon.yml | sed 's/^model: *//' | tr -d ' ')
@@ -716,19 +723,21 @@ jobs:
 
           SOURCE="$_MSG_SOURCE"
           MESSAGE="$_MSG_MESSAGE"
-          PROMPT="Today is $TODAY. You received this message from the user on ${SOURCE}:
+          FROM_ID="$_MSG_FROM_ID"
+          PROMPT="Today is $TODAY. You received this message from the user on ${SOURCE} (telegram from_id=${FROM_ID:-unknown}):
 
           \"$MESSAGE\"
 
-          Read memory/MEMORY.md for context. Look at the available skills in skills/ to understand what you can do.
+          Read STRATEGY.md and memory/MEMORY.md. Map from_id to the operator table (Mathieu 5021587553 @biberoni, Lippit 1307960296 @lippit1, Cetardio 8725715639 @cetardio). Look at skills/ for what you can run.
 
           Interpret what the user wants and act on it:
-          - If they want you to run a skill (e.g. \"write an article about X\", \"send me a digest\"), read that skill file and execute it.
+          - If they want you to run a skill, read that skill file and execute it.
           - If they want information or have a question, research it and respond.
           - If they want you to remember something, update memory/MEMORY.md.
+          - Memecoin / CA analysis: research, then ./notify tagging the asker AND @cetardio so you can discuss in-thread and land a conclusion. Use @usernames from STRATEGY.md.
           - For anything else, do your best and explain what you did.
 
-          Always send your response back via ./notify so the user sees it."
+          Always send your response back via ./notify so the user sees it. Only reply in the group when addressed (already gated inbound)."
           # Unified execution: EVERY harness runs through harness-adapter's
           # run-harness, the same way aeon.yml runs a skill — one
           # {result, usage{...}} envelope, so the token/notify handling below is

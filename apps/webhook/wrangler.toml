@@ -1,4 +1,4 @@
-name = "aeon-telegram-webhook"
+name = "aeon"
 main = "src/worker.js"
 compatibility_date = "2025-01-01"
 # nodejs_compat: required by @microlabs/otel-cf-workers (AsyncLocalStorage-based
@@ -10,8 +10,8 @@ compatibility_flags = ["nodejs_compat"]
 #   npx wrangler kv namespace create REPLAY_GUARD --preview
 [[kv_namespaces]]
 binding = "REPLAY_GUARD"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
-preview_id = "REPLACE_WITH_KV_PREVIEW_NAMESPACE_ID"
+id = "c71f25fc80584f9380e49c1ab2067776"
+preview_id = "fe2325366a6f4b299a279a7fac83de3b"
 
 # Apart from the KV binding above, this Worker reads its config from environment
 # variables / secrets. The "Deploy to Cloudflare" wizard prompts for them

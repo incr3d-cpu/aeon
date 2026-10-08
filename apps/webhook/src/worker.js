@@ -21,11 +21,10 @@
  * Required vars/secrets (the deploy wizard prompts for them; see .dev.vars.example):
  *   TELEGRAM_BOT_TOKEN        bot token from @BotFather
  *   TELEGRAM_CHAT_ID          the only chat allowed to command the agent
- *   TELEGRAM_ALLOWED_USER_ID  (optional) the only USER allowed to command the agent.
- *                             Defaults to TELEGRAM_CHAT_ID (correct for a 1:1 DM). Set
- *                             it to your numeric user id when TELEGRAM_CHAT_ID is a
- *                             group, so a non-owner member can't drive the bot by
- *                             tapping a posted button. Buttons fail closed until set.
+ *   TELEGRAM_ALLOWED_USER_ID  (optional) numeric user id(s) allowed to command the
+ *                             agent. Comma-separated list ok. Defaults to
+ *                             TELEGRAM_CHAT_ID (correct for a 1:1 DM). Required
+ *                             for groups — otherwise every from.id fails closed.
  *   TELEGRAM_WEBHOOK_SECRET   shared secret for setWebhook(secret_token) — required
  *   GITHUB_REPO               "owner/repo" of your Aeon fork
  *   GITHUB_TOKEN              GitHub PAT — fine-grained with Contents: read/write
@@ -103,25 +102,48 @@ const handler = {
   },
 };
 
+function allowedUserIds(env) {
+  const raw = String(env.TELEGRAM_ALLOWED_USER_ID || env.TELEGRAM_CHAT_ID || "");
+  return raw.split(/[,\s]+/).map((s) => s.trim()).filter(Boolean);
+}
+
+function isAllowedUser(id, env) {
+  return allowedUserIds(env).includes(String(id));
+}
+
+function groupAddressedToBot(message, env) {
+  const text = message.text || "";
+  if (text.startsWith("/")) return true;
+  if (message.reply_to_message?.from?.is_bot) return true;
+  const uname = String(env.TELEGRAM_BOT_USERNAME || "")
+    .replace(/^@/, "")
+    .toLowerCase();
+  if (!uname) return false;
+  const needle = `@${uname}`;
+  for (const e of message.entities || []) {
+    if (e.type !== "mention") continue;
+    const m = text.slice(e.offset, e.offset + e.length).toLowerCase();
+    if (m === needle) return true;
+  }
+  return text.toLowerCase().includes(needle);
+}
+
 // Classify and act on one already-authenticated, already-parsed Update.
 // Split out of fetch() so the replay guard above can wrap every path (button
 // tap, message, ignored-sender) with one dedupe decision at a single point.
 async function handleUpdate(env, update) {
   const owner = String(env.TELEGRAM_CHAT_ID);
-  // Owner *user* id. `owner` above gates the chat; this gates the tapping/sending
-  // user. Defaults to the chat id, which is exactly the owner's id in a 1:1 DM
-  // (chat.id == user.id there), so DM setups need no extra config. In a group the
-  // negative chat id never equals a positive user id, so buttons fail closed until
-  // TELEGRAM_ALLOWED_USER_ID is set — stopping any group member from commanding
-  // the bot just by tapping a posted button.
-  const ownerUid = String(env.TELEGRAM_ALLOWED_USER_ID || env.TELEGRAM_CHAT_ID);
+  // Owner *user* id(s). `owner` above gates the chat; this gates the tapping/sending
+  // user. Comma-separated TELEGRAM_ALLOWED_USER_ID. Defaults to the chat id (1:1 DM).
+  // In a group the negative chat id never equals a positive user id, so the list
+  // is required — otherwise every from.id fails closed.
 
   // --- Inline button tap -------------------------------------------------
   const cb = update?.callback_query;
   if (cb) {
     // Stop the client's spinner regardless of who sent it.
     await answerCallback(env, cb.id);
-    if (String(cb.message?.chat?.id) !== owner || String(cb.from?.id) !== ownerUid) {
+    if (String(cb.message?.chat?.id) !== owner || !isAllowedUser(cb.from?.id, env)) {
       return new Response("ignored", { status: 200 });
     }
     return dispatch(env, "telegram-callback", {
@@ -137,7 +159,7 @@ async function handleUpdate(env, update) {
   if (!message?.text) {
     return new Response("ignored", { status: 200 });
   }
-  if (String(message.chat?.id) !== owner || String(message.from?.id) !== ownerUid) {
+  if (String(message.chat?.id) !== owner || !isAllowedUser(message.from?.id, env)) {
     // Keep the bot's reply rate high (BotFather flags "too few replies") without
     // acting on strangers. Private chats only, to avoid replying into groups.
     // The reply only goes out when the whole chat is a non-owner private DM — never
@@ -145,6 +167,14 @@ async function handleUpdate(env, update) {
     if (message.chat?.type === "private" && String(message.chat?.id) !== owner) {
       await sendMessage(env, message.chat.id, "This bot is private.");
     }
+    return new Response("ignored", { status: 200 });
+  }
+
+  // Groups: do not LLM every line of chatter. Only /commands, @bot mentions,
+  // or replies to the bot. Otherwise a busy group floods GitHub Actions and
+  // the bot never replies in time.
+  const isGroup = message.chat?.type === "group" || message.chat?.type === "supergroup";
+  if (isGroup && !groupAddressedToBot(message, env)) {
     return new Response("ignored", { status: 200 });
   }
 
