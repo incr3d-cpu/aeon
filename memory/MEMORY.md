@@ -9,6 +9,10 @@
 - Infra is up (onboard 2026-10-08: 12 pass, 0 fail). Heartbeat daily 08:00 UTC. `fetch-tweets` daily 17:00 UTC on low-cap Solana/Base/Robinhood/Ethereum narratives.
 - Operator said setup is not finished (2026-10-08). Open: `STRATEGY.md` is still the template (goal text is saved on `strategy-builder`, never drafted). Soul is a stub (identity + interests only; `STYLE.md` empty). Market skills still off: `token-movers`, `narrative-tracker`, `investigation-report`.
 
+## Operator
+- Desk for the operator and Lippit (@0xlippit). Job is catching crypto narratives and low-cap runners early. $AEON is Base `0xbf8e8f0e8866a7052f948c16508644347c57aba3` (hook marketplace + mandatory audit, live since 2026-09-09 at aeon.fun/hooks).
+- 2026-10-08 — operator: "They borrowed it from us." SuperHooks ($SHOOKS, Robinhood `0x9de495b746417346e7ccfffe625de0e0189297ac`) cloned the one-prompt hook builder and ships unaudited. Headen ($HEADEN, Arc `0xbe85de8d750b911bc5320dc3a89089dd8112f57a`) opened the account the same day with a clause launchpad; their own docs still say the contracts are not deployed. Hookr ($HOOKR, `0x18e674231a58c239dc7daedcffe15ec3a24cff5c`, ~$18M, green) and Programmable ($V4, `0xc60ba256b44334a0cd2c7242e98b88f031abb006`, ~$3.9M, down hard) already own the Robinhood hook-launchpad flow. Copies validate the category. Volume is on Hookr.
+
 ## Recent Articles
 | Date | Title | Topic |
 |------|-------|-------|
