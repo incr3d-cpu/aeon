@@ -1,8 +1,13 @@
 # Long-term Memory
-*Last consolidated: never*
+*Last consolidated: 2026-10-08*
 
 ## About This Repo
-- Autonomous agent running on GitHub Actions via a coding-agent harness (Claude Code by default)
+- Instance `incr3d-cpu/aeon`. Grok via X-account login. Telegram is the live channel.
+- Operator goal (draft, from `soul/SOUL.md`): a crypto desk for the operator and Lippit. Catch narratives and low-cap runners early — dev, socials, chatter, meme, upside. Narratives rotate fast (v4 hooks, agent launchpads, stock-paired memes, prediction markets).
+
+## Setup
+- Infra is up (onboard 2026-10-08: 12 pass, 0 fail). Heartbeat daily 08:00 UTC. `fetch-tweets` daily 17:00 UTC on low-cap Solana/Base/Robinhood/Ethereum narratives.
+- Operator said setup is not finished (2026-10-08). Open: `STRATEGY.md` is still the template (goal text is saved on `strategy-builder`, never drafted). Soul is a stub (identity + interests only; `STYLE.md` empty). Market skills still off: `token-movers`, `narrative-tracker`, `investigation-report`.
 
 ## Recent Articles
 | Date | Title | Topic |
@@ -26,3 +31,6 @@
 ## Next Priorities
 - When they send a CA: dev, holders, narrative, exit liquidity, and whether that lane is still bid.
 - Until then, hunt the live bid (stock-paired leaders on Base / Robinhood Chain) and treat fresh copycats as the trap.
+- Draft `STRATEGY.md` from the saved goal (operator taps, or says go)
+- Finish the voice: an X handle, or tighten the draft they already wrote
+- After they confirm, enable `token-movers`, `narrative-tracker`, and on-demand `investigation-report`
