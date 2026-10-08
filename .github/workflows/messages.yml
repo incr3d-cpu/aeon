@@ -660,9 +660,15 @@ jobs:
             RM=$(jq -n --arg p "$PLACEHOLDER" '{force_reply:true} + (if $p!="" then {input_field_placeholder:$p} else {} end)')
           fi
           if [ -n "${TELEGRAM_BOT_TOKEN:-}" ] && [ -n "${TELEGRAM_CHAT_ID:-}" ]; then
-            curl -sf -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-              -H "Content-Type: application/json" \
-              -d "$(jq -n --arg chat "$TELEGRAM_CHAT_ID" --arg text "$MSG" --argjson rm "$RM" '{chat_id: $chat, text: $text, parse_mode: "Markdown"} + (if $rm then {reply_markup: $rm} else {} end)')" > /dev/null || true
+            TG_PAYLOAD=$(jq -n --arg chat "$TELEGRAM_CHAT_ID" --arg text "$MSG" --argjson rm "$RM" \
+              '{chat_id: $chat, text: $text} + (if $rm then {reply_markup: $rm} else {} end)')
+            TG_BODY=$(curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" -d "$TG_PAYLOAD" || true)
+            TG_OK=$(printf '%s' "$TG_BODY" | jq -r '.ok // false' 2>/dev/null || echo false)
+            echo "notify: telegram ok=$TG_OK desc=$(printf '%s' "$TG_BODY" | jq -r '.description // .result.message_id // empty' 2>/dev/null)"
+            if [ "$TG_OK" = "true" ]; then
+              echo ok > notify-sent
+            fi
           fi
           if [ -n "${DISCORD_WEBHOOK_URL:-}" ]; then
             curl -sf -X POST "$DISCORD_WEBHOOK_URL" \
@@ -797,6 +803,25 @@ jobs:
           rm -f "$HARNESS_ERR"
 
           echo "$CLAUDE_OUTPUT" | jq -r '.result // empty'
+
+          # Grok's ./notify runs inside the harness sandbox and often never
+          # reaches Telegram (curl blocked or swallowed). Always deliver the
+          # reply from this runner if the agent did not stamp notify-sent.
+          if [ ! -f notify-sent ] && [ -n "${TELEGRAM_BOT_TOKEN:-}" ] && [ -n "${TELEGRAM_CHAT_ID:-}" ]; then
+            RESULT=$(echo "$CLAUDE_OUTPUT" | jq -r '.result // empty')
+            if [ -n "$RESULT" ]; then
+              # Prefer a short tail — grok dumps chain-of-thought into .result
+              TG_TEXT=$(printf '%s' "$RESULT" | tail -c 3500)
+              TG_BODY=$(curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+                -H "Content-Type: application/json" \
+                -d "$(jq -n --arg chat "$TELEGRAM_CHAT_ID" --arg text "$TG_TEXT" '{chat_id:$chat, text:$text}')" || true)
+              echo "fallback-notify: ok=$(printf '%s' "$TG_BODY" | jq -r '.ok // false') desc=$(printf '%s' "$TG_BODY" | jq -r '.description // .result.message_id // empty')"
+            else
+              echo "fallback-notify: empty grok result, nothing to send"
+            fi
+          else
+            echo "fallback-notify: skipped (notify-sent=$( [ -f notify-sent ] && echo yes || echo no ))"
+          fi
 
           INPUT_TOKENS=$(echo "$CLAUDE_OUTPUT" | jq '.usage.input_tokens // 0')
           OUTPUT_TOKENS=$(echo "$CLAUDE_OUTPUT" | jq '.usage.output_tokens // 0')
