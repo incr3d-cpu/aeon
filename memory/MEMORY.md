@@ -28,6 +28,9 @@
 ## Lessons Learned
 - A miss with no ticker is a request for the next setup. Log the stance, map where size is, and get the CA before autopsying the last one.
 
+## Active context
+- 2026-10-08: FOMO the app (fomo.family), not a ticker. Copy-flow is the exit. 30d fees $28.68M / volume $5.47B; heat has rotated back to Solana. See [FOMO](/topics/fomo.md).
+
 ## Next Priorities
 - When they send a CA: dev, holders, narrative, exit liquidity, and whether that lane is still bid.
 - Until then, hunt the live bid (stock-paired leaders on Base / Robinhood Chain) and treat fresh copycats as the trap.
