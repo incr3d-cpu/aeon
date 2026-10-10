@@ -1,42 +1,42 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-09)*
-_Sentiment split — RH Chain's 100-day party vs a 94% Pons fee crash; tokenized stocks are the live bid on Base and Solana while USG still dumps BTC._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-10)*
+_Saturday split — Solana hooks and the FOMO app still print; RH Chain recaps day 100; tokenized-stock flow printed on BNB, not SOL/ETH._
 
-*RH 100-day lap, trenches cooling*
-1. x.com/vladtenev — CEO frames day 100 as a reputation bet by builders, not a product recap, while the tape is still red.
-Likes: 3128 | RTs: 298 | Replies: 735
-[View tweet](https://x.com/vladtenev/status/2108598214274462039)
+*Solana hooks take the volume*
+1. x.com/Hoookedpad — 11-day print: 548,943 SOL traded, 1,027 tokens, 46 hooks live, 64.2M $HOOKED burned. Solana's hook lane has a fee printer that isn't Pump.
+Likes: 193 | RTs: 44 | Replies: 64
+[View tweet](https://x.com/Hoookedpad/status/2108600474551062673)
 
-2. x.com/StarPlatinum_ — Coinbase listed $PONS this week; the RH app still only lists $CASHCAT natively. Calls that distribution gap the bear case on the 100-day print.
-Likes: 163 | RTs: 3 | Replies: 65
-[View tweet](https://x.com/StarPlatinum_/status/2108505166978990120)
+2. x.com/iruletrenches — Claims $HOOKED already does 95% of Solana hook volume and is Meteora's #1 project. Category is concentrating, not spreading.
+Likes: 107 | RTs: 16 | Replies: 26
+[View tweet](https://x.com/iruletrenches/status/2108935237095026698)
 
-3. x.com/ClutchMarkets — Q4 $STONKBROKER plan is inbound teams plus DeFi use-cases for Stock Tokens; treats day 100 as the start of the protocol layer.
-Likes: 122 | RTs: 36 | Replies: 36
-[View tweet](https://x.com/ClutchMarkets/status/2108624397355393050)
+*FOMO and Pump own Saturday's tape*
+3. x.com/Pumpfun — House account posting "comfy in spot": memes undervalued 100x. Official account treating a red Saturday as a bid, not a recap.
+Likes: 359 | RTs: 30 | Replies: 219
+[View tweet](https://x.com/Pumpfun/status/2108988125074563284)
 
-*Pump.fun takes the fee back*
-4. x.com/wyckoffweb — Sept 7: Pons $1.47M / StonkFun $1.20M / Pump $934k daily. Now Pump $1.72M, StonkFun $285k, Pons $81k — Pons −94%, Pump +84%.
-Likes: 133 | RTs: 8 | Replies: 50
-[View tweet](https://x.com/wyckoffweb/status/2108482184386396370)
+4. x.com/fomo — Product push: the "Most held" tab is the conviction screen. FOMO is indexing holders, not just launches.
+Likes: 408 | RTs: 35 | Replies: 119
+[View tweet](https://x.com/fomo/status/2108943692790895061)
 
-5. x.com/a1lon9 — Posts Pump.fun's own Callout Rewards table against the viral "rewarding scammers" screenshot; says the original used median plus a 500m filter to tank optics.
-Likes: 848 | RTs: 69 | Replies: 913
-[View tweet](https://x.com/a1lon9/status/2108618810420846647)
+5. x.com/crypto_bitlord7 — Top 25 Pump deployers extracted $128M across 770k tokens; only 6 ever hit $20M MC. Dilution is the product.
+Likes: 322 | RTs: 37 | Replies: 110
+[View tweet](https://x.com/crypto_bitlord7/status/2108510581364015535)
 
-*Tokenized stocks: Base names vs Solana holders*
-6. x.com/jessepollak — Base tokenized-stock catalog went 4→40→250 this month — the name-count race, not volume.
-Likes: 243 | RTs: 28 | Replies: 68
-[View tweet](https://x.com/jessepollak/status/2108615599098359981)
+*RH Chain recaps day 100*
+6. x.com/RobinhoodCrypto — Day-100 merch sold out; "onto the next 100 days." Marketing the lap, not a new runner.
+Likes: 289 | RTs: 16 | Replies: 85
+[View tweet](https://x.com/RobinhoodCrypto/status/2108612751203467364)
 
-7. x.com/solana — September closed with 1M tokenized-stock wallets and $4.4B volume — holder count is the Solana boast vs Base's name count.
-Likes: 286 | RTs: 33 | Replies: 95
-[View tweet](https://x.com/solana/status/2108587858500161689)
+7. x.com/RobinHubHB — First public RH eco tier list: Pons/Virtuals/Lighter as blue chip; Hookr sits in "Strong Builders." Local canon still ranks Hookr second-tier.
+Likes: 59 | RTs: 5 | Replies: 47
+[View tweet](https://x.com/RobinHubHB/status/2108957063007363525)
 
-*Solana ships 200ms; USG still feeding the book*
-8. x.com/solana — SIMD-0525 done: slots 400→200ms, epochs ~1 day. Shipping the rail while meme fees rotate back to Pump.
-Likes: 412 | RTs: 56 | Replies: 99
-[View tweet](https://x.com/solana/status/2108571454061125969)
+*Tokenized-stock flow left SOL/ETH*
+8. x.com/RWAFoundation_ — 24h tokenized-stock mcap: BNB +$43.6M, AVAX +$29.7M, SOL +$4.8M, ETH +$4.3M. Yesterday's name-count race didn't win today's print.
+Likes: 58 | RTs: 5 | Replies: 9
+[View tweet](https://x.com/RWAFoundation_/status/2108963714951168349)
 
-9. x.com/lookonchain — USG parked 17,733 BTC + 750 WBTC ($1.54B) at Coinbase Prime in 3 days; BTC −6.9% over the same window.
-Likes: 363 | RTs: 49 | Replies: 53
-[View tweet](https://x.com/lookonchain/status/2108396256301289765)
+9. x.com/TedPillows — Bitfinex ETH longs stacking while spot sits near $2,500. The perp bid is ETH, not a trench coin.
+Likes: 586 | RTs: 42 | Replies: 64
+[View tweet](https://x.com/TedPillows/status/2108968490984214552)

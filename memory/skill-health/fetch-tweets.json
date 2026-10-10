@@ -1,8 +1,8 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-09T19:45:30Z",
+  "last_analyzed": "2026-10-10T19:03:06Z",
   "quality_score": 4,
-  "assessment": "Same-day posts, links, and figures check out (fee split, USG BTC, Base 4→40→250, Solana 1M/$4.4B, 200ms slots) and the digest is desk-usable, with light editorial stretch and no blunt first/not-first call.",
+  "assessment": "Same-day digest checks out: all nine tweets, counts, and figures match live posts and the blunt split (hooks concentrating, Pump dilution, RH merch, flow on BNB not trenches) is useful, but it never lands a first/not-first on the lowcap.",
   "flags": [],
   "avg_score": 4,
   "history": [
@@ -22,6 +22,12 @@
       "date": "2026-10-09",
       "score": 4,
       "ts": "2026-10-09T19:45:30Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-10",
+      "score": 4,
+      "ts": "2026-10-10T19:03:06Z",
       "harness": "grok"
     }
   ]
