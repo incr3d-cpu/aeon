@@ -1,42 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-10)*
-_Saturday split — Solana hooks and the FOMO app still print; RH Chain recaps day 100; tokenized-stock flow printed on BNB, not SOL/ETH._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-11)*
+_Sunday split — Pump is paying for follower PnL not volume; Solana hooks shipped anti-bundle; Base is yelling tokenized-equity supercycle while FOMO rank 21 is two shawarmas._
 
-*Solana hooks take the volume*
-1. x.com/Hoookedpad — 11-day print: 548,943 SOL traded, 1,027 tokens, 46 hooks live, 64.2M $HOOKED burned. Solana's hook lane has a fee printer that isn't Pump.
-Likes: 193 | RTs: 44 | Replies: 64
-[View tweet](https://x.com/Hoookedpad/status/2108600474551062673)
+*Pump rewires who gets paid*
+1. x.com/a1lon9 — Callout Rewards overhaul: lowcap callouts get nerfed, volume stops being the payout driver, and you only earn if the people who followed the call made money.
+Likes: 3924 | RTs: 333 | Replies: 1270
+[View tweet](https://x.com/a1lon9/status/2109011262763831476)
 
-2. x.com/iruletrenches — Claims $HOOKED already does 95% of Solana hook volume and is Meteora's #1 project. Category is concentrating, not spreading.
-Likes: 107 | RTs: 16 | Replies: 26
-[View tweet](https://x.com/iruletrenches/status/2108935237095026698)
+2. x.com/a1lon9 — Custom pairs are the revival mechanic for dead runners; a small paired ecosystem is harder to vamp than a single stagnant coin.
+Likes: 288 | RTs: 25 | Replies: 143
+[View tweet](https://x.com/a1lon9/status/2109342719621353786)
 
-*FOMO and Pump own Saturday's tape*
-3. x.com/Pumpfun — House account posting "comfy in spot": memes undervalued 100x. Official account treating a red Saturday as a bid, not a recap.
-Likes: 359 | RTs: 30 | Replies: 219
-[View tweet](https://x.com/Pumpfun/status/2108988125074563284)
+3. x.com/stitchdegen — Custom pairs have been live over a month and still have not printed a $20M. The mechanic is live; the runners are not.
+Likes: 20 | RTs: 5 | Replies: 16
+[View tweet](https://x.com/stitchdegen/status/2109343824011296824)
 
-4. x.com/fomo — Product push: the "Most held" tab is the conviction screen. FOMO is indexing holders, not just launches.
-Likes: 408 | RTs: 35 | Replies: 119
-[View tweet](https://x.com/fomo/status/2108943692790895061)
+*Hooks close the bundle hole*
+4. x.com/Hoookedpad — New hook: Block Zero Protection. Launch block allows only the dev buy; every other buy, bundles included, is refused by the token. Dev bag cannot be split to side wallets — only sold in view.
+Likes: 197 | RTs: 34 | Replies: 19
+[View tweet](https://x.com/Hoookedpad/status/2109125361606799809)
 
-5. x.com/crypto_bitlord7 — Top 25 Pump deployers extracted $128M across 770k tokens; only 6 ever hit $20M MC. Dilution is the product.
-Likes: 322 | RTs: 37 | Replies: 110
-[View tweet](https://x.com/crypto_bitlord7/status/2108510581364015535)
+5. x.com/Hoookedpad — 66.39M HOOKED burned (6.64% of supply) on $453K of buybacks. The Solana hook printer is still eating supply on a Sunday.
+Likes: 123 | RTs: 23 | Replies: 32
+[View tweet](https://x.com/Hoookedpad/status/2109313085060026740)
 
-*RH Chain recaps day 100*
-6. x.com/RobinhoodCrypto — Day-100 merch sold out; "onto the next 100 days." Marketing the lap, not a new runner.
-Likes: 289 | RTs: 16 | Replies: 85
-[View tweet](https://x.com/RobinhoodCrypto/status/2108612751203467364)
+*Tokenized equity is the bid*
+6. x.com/jessepollak — One-line call: "Tokenized equity supercycle." Follow-up: every stock from every country is coming onchain on Base.
+Likes: 496 | RTs: 50 | Replies: 96
+[View tweet](https://x.com/jessepollak/status/2109294039015240174)
 
-7. x.com/RobinHubHB — First public RH eco tier list: Pons/Virtuals/Lighter as blue chip; Hookr sits in "Strong Builders." Local canon still ranks Hookr second-tier.
-Likes: 59 | RTs: 5 | Replies: 47
-[View tweet](https://x.com/RobinHubHB/status/2108957063007363525)
+7. x.com/Stockify_fi — Stockify folds into The Stonks Exchange. Same $STFY payouts in real stocks, now with $STONKEX in the index. Base's stock-paired lane is consolidating pads, not adding them.
+Likes: 109 | RTs: 43 | Replies: 13
+[View tweet](https://x.com/Stockify_fi/status/2109263597431861534)
 
-*Tokenized-stock flow left SOL/ETH*
-8. x.com/RWAFoundation_ — 24h tokenized-stock mcap: BNB +$43.6M, AVAX +$29.7M, SOL +$4.8M, ETH +$4.3M. Yesterday's name-count race didn't win today's print.
-Likes: 58 | RTs: 5 | Replies: 9
-[View tweet](https://x.com/RWAFoundation_/status/2108963714951168349)
+8. x.com/Stonks_Exchange — 131 stocks listed; most have never traded onchain. First memestock pairs still open on $WMT, $ARM, $SKHY.
+Likes: 106 | RTs: 20 | Replies: 8
+[View tweet](https://x.com/Stonks_Exchange/status/2109003029202485451)
 
-9. x.com/TedPillows — Bitfinex ETH longs stacking while spot sits near $2,500. The perp bid is ETH, not a trench coin.
-Likes: 586 | RTs: 42 | Replies: 64
-[View tweet](https://x.com/TedPillows/status/2108968490984214552)
+*Trenches are cheap, RH is shipping*
+9. x.com/iruletrenches — Two shawarmas of PnL is enough for FOMO rank 21. The leaderboard is cheap because the tape is dead.
+Likes: 284 | RTs: 6 | Replies: 70
+[View tweet](https://x.com/iruletrenches/status/2109316298517958913)
+
+10. x.com/Hookrfun — HookrBook: 24 Uniswap v4 hook recipes, live builder walkthroughs, agent-readable docs. Product is moving on Robinhood; flow is not.
+Likes: 156 | RTs: 33 | Replies: 14
+[View tweet](https://x.com/Hookrfun/status/2109131083518214588)
