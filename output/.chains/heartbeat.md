@@ -1,6 +1,10 @@
-I'll run the ambient fleet check: read memory and recent logs, then check skill health, PRs, issues, and regenerate the status page.Fleet state is present and some skills have completed runs. Next I’ll read recent logs, open issues, and live PRs so the status page matches the current checks.Three Dependabot PRs are still stalled, and that finding was already logged in the last 48 hours. I’ll refresh the status page and record the check without sending another notification.🟡 WATCH. Three Dependabot PRs are still stalled. Notification skipped (same items logged in the last 48h). Status page regenerated.
+The heartbeat skill is the ambient fleet check (empty selector). I'll read memory, cron state, and the schedule, then regenerate the status page.Three Dependabot PRs are still stalled past 24 hours. That same finding is already in the last 48 hours of logs, so I will refresh the status page and skip a new notification.🟡 WATCH. Three Dependabot PRs are still open with no updates since 2026-10-07 18:32 UTC (~91h).
 
-- **P0:** clear. No failed, stuck, or chronic skills. Heartbeat last succeeded 2026-10-09 14:34 UTC (~18h ago).
-- **P1:** PR #1 (mcp-server deps), PR #2 (dashboard deps), and PR #3 (webhook wrangler) opened 2026-10-07 18:32 UTC and have had no updates since. Open ~62h. No urgent issues.
-- **P2 / P3:** no flagged memory items. `fetch-tweets` and `heartbeat` are inside 2× their daily interval.
-- **STATUS_PAGE=WATCH** — wrote `docs/status.md`. Next scheduled run: `fetch-tweets` at 17:00 UTC. No token report, so the Token pulse section is omitted.
+- **P0:** clear. No failed, stuck, or chronically failing skills. Heartbeat last succeeded 2026-10-10 08:56 UTC.
+- **P1:** PR #1 (mcp-server deps), PR #2 (dashboard deps), PR #3 (webhook wrangler). No urgent issues.
+- **P2:** nothing flagged in memory.
+- **P3:** `fetch-tweets` and `heartbeat` are inside 2× their daily interval. On-demand skills are not overdue.
+
+Notification skipped. The same stall was logged on 2026-10-10 08:54 UTC, inside the 48h dedup window.
+
+`docs/status.md` updated at 2026-10-11 13:27 UTC. Next scheduled run is `fetch-tweets` at 17:00 UTC. No token pulse — no `token-report` article on disk. Logged under `memory/logs/2026-10-11.md`.
