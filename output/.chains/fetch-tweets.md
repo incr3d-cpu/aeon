@@ -1,46 +1,42 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-11)*
-_Sunday split — Pump is paying for follower PnL not volume; Solana hooks shipped anti-bundle; Base is yelling tokenized-equity supercycle while FOMO rank 21 is two shawarmas._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-12)*
+_Monday split — Pump is cleaning slop callers and going cross-chain, Hooked shipped covered calls, and Base's TVL flip is the cover for tokenized-stock credit._
 
-*Pump rewires who gets paid*
-1. x.com/a1lon9 — Callout Rewards overhaul: lowcap callouts get nerfed, volume stops being the payout driver, and you only earn if the people who followed the call made money.
-Likes: 3924 | RTs: 333 | Replies: 1270
-[View tweet](https://x.com/a1lon9/status/2109011262763831476)
+*Callout pay, any chain, $BATON*
+1. x.com/a1lon9 — Walks back the Sunday microcap-nerf panic: the $20k→$20m threshold stays unpublished so extraordinary calls can still get paid, but volume-farming callouts are dead.
+Likes: 1041 | RTs: 69 | Replies: 491
+[View tweet](https://x.com/a1lon9/status/2109726327561486404)
 
-2. x.com/a1lon9 — Custom pairs are the revival mechanic for dead runners; a small paired ecosystem is harder to vamp than a single stagnant coin.
-Likes: 288 | RTs: 25 | Replies: 143
-[View tweet](https://x.com/a1lon9/status/2109342719621353786)
+2. x.com/VenomCrypto_ — Pump's in-app cross-chain is the product: he hasn't used a bridge in months. House account replies from the Pump app — hunt any chain.
+Likes: 162 | RTs: 9 | Replies: 33
+[View tweet](https://x.com/VenomCrypto_/status/2109694824261587105)
 
-3. x.com/stitchdegen — Custom pairs have been live over a month and still have not printed a $20M. The mechanic is live; the runners are not.
-Likes: 20 | RTs: 5 | Replies: 16
-[View tweet](https://x.com/stitchdegen/status/2109343824011296824)
+3. x.com/dippy_eth — $BATON is the custom-pair flagship at $15m (vs $AI at $400m) and is in every Pump ad. Reads it as the house token for the pairs meta, the way $TROLL was sent at $USELESS.
+Likes: 89 | RTs: 5 | Replies: 11
+[View tweet](https://x.com/dippy_eth/status/2109748342565781790)
 
-*Hooks close the bundle hole*
-4. x.com/Hoookedpad — New hook: Block Zero Protection. Launch block allows only the dev buy; every other buy, bundles included, is refused by the token. Dev bag cannot be split to side wallets — only sold in view.
-Likes: 197 | RTs: 34 | Replies: 19
-[View tweet](https://x.com/Hoookedpad/status/2109125361606799809)
+*Hooks become options*
+4. x.com/Hoookedpad — New Options hook: holders sell covered calls on their own bag (price, size, expiry), premium in SOL, works with stock pairs. 5% of every payment buys back and burns HOOKED. First Solana transfer hook that is a derivatives primitive, not anti-snipe.
+Likes: 139 | RTs: 35 | Replies: 54
+[View tweet](https://x.com/Hoookedpad/status/2109685828377080198)
 
-5. x.com/Hoookedpad — 66.39M HOOKED burned (6.64% of supply) on $453K of buybacks. The Solana hook printer is still eating supply on a Sunday.
-Likes: 123 | RTs: 23 | Replies: 32
-[View tweet](https://x.com/Hoookedpad/status/2109313085060026740)
+*Base takes TVL, stocks become credit*
+5. x.com/CryptoKaleo — The TVL flip (Base > Solana) is the headline; the trade is Robinhood Chain still at 15% of Base TVL while HOOD is 2x COIN mcap.
+Likes: 114 | RTs: 7 | Replies: 28
+[View tweet](https://x.com/CryptoKaleo/status/2109755218762375442)
 
-*Tokenized equity is the bid*
-6. x.com/jessepollak — One-line call: "Tokenized equity supercycle." Follow-up: every stock from every country is coming onchain on Base.
-Likes: 496 | RTs: 50 | Replies: 96
-[View tweet](https://x.com/jessepollak/status/2109294039015240174)
+6. x.com/jessepollak — Grow Credit is the unlock: tokenized stocks as collateral for local-currency loans at ~1.4%, so any brokerage can sit on Base rails.
+Likes: 125 | RTs: 6 | Replies: 45
+[View tweet](https://x.com/jessepollak/status/2109695312508199206)
 
-7. x.com/Stockify_fi — Stockify folds into The Stonks Exchange. Same $STFY payouts in real stocks, now with $STONKEX in the index. Base's stock-paired lane is consolidating pads, not adding them.
-Likes: 109 | RTs: 43 | Replies: 13
-[View tweet](https://x.com/Stockify_fi/status/2109263597431861534)
+7. x.com/lookonchain — Base App led protocol revenue last week (+519%) while stables contracted $856m and public cos dumped 89 BTC. The bid is the app, not BTC.
+Likes: 93 | RTs: 8 | Replies: 46
+[View tweet](https://x.com/lookonchain/status/2109659806974001330)
 
-8. x.com/Stonks_Exchange — 131 stocks listed; most have never traded onchain. First memestock pairs still open on $WMT, $ARM, $SKHY.
-Likes: 106 | RTs: 20 | Replies: 8
-[View tweet](https://x.com/Stonks_Exchange/status/2109003029202485451)
+*Solana still owns the equity tape*
+8. x.com/solana — Official account amplifying Solana Institute CEO: the compelling 18-month story outside the US is trading tokens and tokenized US equities onchain.
+Likes: 226 | RTs: 30 | Replies: 100
+[View tweet](https://x.com/solana/status/2109742693245153564)
 
-*Trenches are cheap, RH is shipping*
-9. x.com/iruletrenches — Two shawarmas of PnL is enough for FOMO rank 21. The leaderboard is cheap because the tape is dead.
-Likes: 284 | RTs: 6 | Replies: 70
-[View tweet](https://x.com/iruletrenches/status/2109316298517958913)
-
-10. x.com/Hookrfun — HookrBook: 24 Uniswap v4 hook recipes, live builder walkthroughs, agent-readable docs. Product is moving on Robinhood; flow is not.
-Likes: 156 | RTs: 33 | Replies: 14
-[View tweet](https://x.com/Hookrfun/status/2109131083518214588)
+9. x.com/Jeremybtc — Counter to the TVL flip: 1M wallets already hold tokenized stocks, more than half of 2026 tokenized-equity volume settled on Solana, stables at $17.5B, onchain lending at $5B.
+Likes: 120 | RTs: 6 | Replies: 91
+[View tweet](https://x.com/Jeremybtc/status/2109616839722737720)
