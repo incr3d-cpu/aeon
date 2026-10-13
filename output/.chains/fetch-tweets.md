@@ -1,42 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-12)*
-_Monday split — Pump is cleaning slop callers and going cross-chain, Hooked shipped covered calls, and Base's TVL flip is the cover for tokenized-stock credit._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-13)*
+_Tuesday split — tokenized stocks got real Aave yield on Base, Solana's lowcap tape rotated into privacy, and Robinhood's house accounts finally said more is coming as Pair Tokens went live._
 
-*Callout pay, any chain, $BATON*
-1. x.com/a1lon9 — Walks back the Sunday microcap-nerf panic: the $20k→$20m threshold stays unpublished so extraordinary calls can still get paid, but volume-farming callouts are dead.
-Likes: 1041 | RTs: 69 | Replies: 491
-[View tweet](https://x.com/a1lon9/status/2109726327561486404)
+*Stocks become collateral*
+1. x.com/aave — DAO funded 3% incentives on Coinbase tokenized stocks on Base. First real yield program on stock tokens; non-US only.
+Likes: 295 | RTs: 19 | Replies: 11
+[View tweet](https://x.com/aave/status/2110034817911804043)
 
-2. x.com/VenomCrypto_ — Pump's in-app cross-chain is the product: he hasn't used a bridge in months. House account replies from the Pump app — hunt any chain.
-Likes: 162 | RTs: 9 | Replies: 33
-[View tweet](https://x.com/VenomCrypto_/status/2109694824261587105)
+2. x.com/zensei — Solana added 95.7k stock-token holders in 7 days; Backpack alone was 58.5% of that print.
+Likes: 74 | RTs: 14 | Replies: 12
+[View tweet](https://x.com/zensei/status/2109947401842893044)
 
-3. x.com/dippy_eth — $BATON is the custom-pair flagship at $15m (vs $AI at $400m) and is in every Pump ad. Reads it as the house token for the pairs meta, the way $TROLL was sent at $USELESS.
-Likes: 89 | RTs: 5 | Replies: 11
-[View tweet](https://x.com/dippy_eth/status/2109748342565781790)
+*Robinhood tees the next drop*
+3. x.com/RobinhoodCrypto — Official "just getting started" video. House is back on the timeline after weeks of "RH isn't supporting the chain."
+Likes: 1719 | RTs: 232 | Replies: 276
+[View tweet](https://x.com/RobinhoodCrypto/status/2109741246948180425)
 
-*Hooks become options*
-4. x.com/Hoookedpad — New Options hook: holders sell covered calls on their own bag (price, size, expiry), premium in SOL, works with stock pairs. 5% of every payment buys back and burns HOOKED. First Solana transfer hook that is a derivatives primitive, not anti-snipe.
-Likes: 139 | RTs: 35 | Replies: 54
-[View tweet](https://x.com/Hoookedpad/status/2109685828377080198)
+4. x.com/vladtenev — Plan is RWA plus plugging the chain into the brokerage app millions already use, not more meme tweets.
+Likes: 1230 | RTs: 177 | Replies: 232
+[View tweet](https://x.com/vladtenev/status/2109700037861310828)
 
-*Base takes TVL, stocks become credit*
-5. x.com/CryptoKaleo — The TVL flip (Base > Solana) is the headline; the trade is Robinhood Chain still at 15% of Base TVL while HOOD is 2x COIN mcap.
-Likes: 114 | RTs: 7 | Replies: 28
-[View tweet](https://x.com/CryptoKaleo/status/2109755218762375442)
+5. x.com/ClutchMarkets — Pair Tokens live today on Hookr: Battle, Strategy, Fractional 404, Smart LP tradable from the swap box. The primitive, not the slogan.
+Likes: 81 | RTs: 25 | Replies: 24
+[View tweet](https://x.com/ClutchMarkets/status/2110062378025144450)
 
-6. x.com/jessepollak — Grow Credit is the unlock: tokenized stocks as collateral for local-currency loans at ~1.4%, so any brokerage can sit on Base rails.
-Likes: 125 | RTs: 6 | Replies: 45
-[View tweet](https://x.com/jessepollak/status/2109695312508199206)
+*Privacy is the Solana lowcap*
+6. x.com/MarcellxMarcell — $MASK is #1 on DefiLlama privacy fees with $180k in 7 days, more than Arbitrum's whole chain over 30d, at ~$18–20M mcap.
+Likes: 521 | RTs: 23 | Replies: 63
+[View tweet](https://x.com/MarcellxMarcell/status/2109960740924735634)
 
-7. x.com/lookonchain — Base App led protocol revenue last week (+519%) while stables contracted $856m and public cos dumped 89 BTC. The bid is the app, not BTC.
-Likes: 93 | RTs: 8 | Replies: 46
-[View tweet](https://x.com/lookonchain/status/2109659806974001330)
+7. x.com/UmbraPrivacy — Umbra v2 is live: private transfers and swaps on Solana as a product, not a ticker.
+Likes: 230 | RTs: 44 | Replies: 72
+[View tweet](https://x.com/UmbraPrivacy/status/2110021310671913044)
 
-*Solana still owns the equity tape*
-8. x.com/solana — Official account amplifying Solana Institute CEO: the compelling 18-month story outside the US is trading tokens and tokenized US equities onchain.
-Likes: 226 | RTs: 30 | Replies: 100
-[View tweet](https://x.com/solana/status/2109742693245153564)
+8. x.com/stitchdegen — $VEIL is the hot Pump token at $7.1M; app volume is ~$18k and the anonymity set is ~500. Narrative is running ahead of usage; Chrome extension is the next 24h catalyst.
+Likes: 49 | RTs: 7 | Replies: 30
+[View tweet](https://x.com/stitchdegen/status/2110046184295498107)
 
-9. x.com/Jeremybtc — Counter to the TVL flip: 1M wallets already hold tokenized stocks, more than half of 2026 tokenized-equity volume settled on Solana, stables at $17.5B, onchain lending at $5B.
-Likes: 120 | RTs: 6 | Replies: 91
-[View tweet](https://x.com/Jeremybtc/status/2109616839722737720)
+*Pump still pays conviction*
+9. x.com/Pumpfun — House account amplifying a 2-month-old $CATE callout still +$85k and held. The rewards rewrite from Sunday is the product.
+Likes: 298 | RTs: 67 | Replies: 124
+[View tweet](https://x.com/Pumpfun/status/2110050310232342864)
+
+10. x.com/fomo — Search now covers tokens, perps, traders, and clans. Discovery is the app's next surface after copy-trading.
+Likes: 284 | RTs: 22 | Replies: 79
+[View tweet](https://x.com/fomo/status/2110030298356318680)
