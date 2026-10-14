@@ -1,46 +1,42 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-13)*
-_Tuesday split — tokenized stocks got real Aave yield on Base, Solana's lowcap tape rotated into privacy, and Robinhood's house accounts finally said more is coming as Pair Tokens went live._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-14)*
+_Tokenized stocks got official liquidity while Solana's tape is still privacy, and Pump is selling 119k new app users into a dead market._
 
-*Stocks become collateral*
-1. x.com/aave — DAO funded 3% incentives on Coinbase tokenized stocks on Base. First real yield program on stock tokens; non-US only.
-Likes: 295 | RTs: 19 | Replies: 11
-[View tweet](https://x.com/aave/status/2110034817911804043)
+*Stocks get real markets*
+1. x.com/Ondo — Hits $4B TVL; $1.3B of it is tokenized stocks/ETFs, 1M holders, RFQ into TradFi liquidity, transferable on Solana/ETH/BNB.
+Likes: 642 | RTs: 101 | Replies: 53
+[View tweet](https://x.com/Ondo/status/2110378961129652608)
 
-2. x.com/zensei — Solana added 95.7k stock-token holders in 7 days; Backpack alone was 58.5% of that print.
-Likes: 74 | RTs: 14 | Replies: 12
-[View tweet](https://x.com/zensei/status/2109947401842893044)
+2. x.com/RobinhoodCrypto — House account endorses Ramses as the stock-token DEX on RH chain. Ramses claims $2.5B+ volume and 30+ stock tokens.
+Likes: 514 | RTs: 67 | Replies: 97
+[View tweet](https://x.com/RobinhoodCrypto/status/2110408568037933335)
 
-*Robinhood tees the next drop*
-3. x.com/RobinhoodCrypto — Official "just getting started" video. House is back on the timeline after weeks of "RH isn't supporting the chain."
-Likes: 1719 | RTs: 232 | Replies: 276
-[View tweet](https://x.com/RobinhoodCrypto/status/2109741246948180425)
+3. x.com/standard_rsv — First 3 country markets live; claims the deepest stock-token pools on Robinhood Chain for those names.
+Likes: 160 | RTs: 16 | Replies: 27
+[View tweet](https://x.com/standard_rsv/status/2110416286421540912)
 
-4. x.com/vladtenev — Plan is RWA plus plugging the chain into the brokerage app millions already use, not more meme tweets.
-Likes: 1230 | RTs: 177 | Replies: 232
-[View tweet](https://x.com/vladtenev/status/2109700037861310828)
+*Pump sells onboarding, not price*
+4. x.com/a1lon9 — 119k first-time Pump app users in the first two weeks of October. House thesis: onboarding now, price later.
+Likes: 823 | RTs: 71 | Replies: 458
+[View tweet](https://x.com/a1lon9/status/2110438963060375791)
 
-5. x.com/ClutchMarkets — Pair Tokens live today on Hookr: Battle, Strategy, Fractional 404, Smart LP tradable from the swap box. The primitive, not the slogan.
-Likes: 81 | RTs: 25 | Replies: 24
-[View tweet](https://x.com/ClutchMarkets/status/2110062378025144450)
+5. x.com/solana — Official account restates the 2020 vision as internet capital markets / onchain NASDAQ. Bandwidth and latency are the trade.
+Likes: 204 | RTs: 23 | Replies: 76
+[View tweet](https://x.com/solana/status/2110433799033213407)
 
-*Privacy is the Solana lowcap*
-6. x.com/MarcellxMarcell — $MASK is #1 on DefiLlama privacy fees with $180k in 7 days, more than Arbitrum's whole chain over 30d, at ~$18–20M mcap.
-Likes: 521 | RTs: 23 | Replies: 63
-[View tweet](https://x.com/MarcellxMarcell/status/2109960740924735634)
+*Privacy still owns the Solana tape*
+6. x.com/veilzk — Chrome extension is live. They bought back and burned $10k of $VEIL after the fact so it could not be front-run.
+Likes: 117 | RTs: 21 | Replies: 46
+[View tweet](https://x.com/veilzk/status/2110409721752735970)
 
-7. x.com/UmbraPrivacy — Umbra v2 is live: private transfers and swaps on Solana as a product, not a ticker.
-Likes: 230 | RTs: 44 | Replies: 72
-[View tweet](https://x.com/UmbraPrivacy/status/2110021310671913044)
+7. x.com/heat — $MASK AMA: Robinhood Chain integration is live, Solana hinted as soon as this week, points program this week. DefiLlama #1 privacy fees include ZEC rewards in the print.
+Likes: 66 | RTs: 15 | Replies: 8
+[View tweet](https://x.com/heat/status/2110394215683215626)
 
-8. x.com/stitchdegen — $VEIL is the hot Pump token at $7.1M; app volume is ~$18k and the anonymity set is ~500. Narrative is running ahead of usage; Chrome extension is the next 24h catalyst.
-Likes: 49 | RTs: 7 | Replies: 30
-[View tweet](https://x.com/stitchdegen/status/2110046184295498107)
+8. x.com/SatoshiOwl — $VEIL sitting ~$6.7M MC with $5.7M 24h volume after the overnight run. ZK privacy layer, live on mainnet, audited.
+Likes: 51 | RTs: 22 | Replies: 18
+[View tweet](https://x.com/SatoshiOwl/status/2110439979247694302)
 
-*Pump still pays conviction*
-9. x.com/Pumpfun — House account amplifying a 2-month-old $CATE callout still +$85k and held. The rewards rewrite from Sunday is the product.
-Likes: 298 | RTs: 67 | Replies: 124
-[View tweet](https://x.com/Pumpfun/status/2110050310232342864)
-
-10. x.com/fomo — Search now covers tokens, perps, traders, and clans. Discovery is the app's next surface after copy-trading.
-Likes: 284 | RTs: 22 | Replies: 79
-[View tweet](https://x.com/fomo/status/2110030298356318680)
+*Hooks go made-to-order*
+9. x.com/Hoookedpad — Solana hook pad is now taking custom-built hooks: they design and ship mechanics that do not exist yet, then incubate the launch.
+Likes: 101 | RTs: 21 | Replies: 69
+[View tweet](https://x.com/Hoookedpad/status/2110414923389882487)
