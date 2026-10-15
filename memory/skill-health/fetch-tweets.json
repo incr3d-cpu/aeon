@@ -1,10 +1,12 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-14T19:37:26Z",
-  "quality_score": 4,
-  "assessment": "All nine same-day tweets, links, and figures check out, and the narrative split is useful, but promo-account market prints and no blunt first/not-first filter keep it short of excellent.",
-  "flags": [],
-  "avg_score": 4,
+  "last_analyzed": "2026-10-15T18:46:15Z",
+  "quality_score": 2,
+  "assessment": "Seven of eight linked tweets, IDs, and engagement counts check out, but the digest asserts $MASK as the unnamed ~$28M privacy coin when that post never names a ticker.",
+  "flags": [
+    "unverifiable_claim"
+  ],
+  "avg_score": 3.78,
   "history": [
     {
       "date": "2026-10-07",
@@ -52,6 +54,12 @@
       "date": "2026-10-14",
       "score": 4,
       "ts": "2026-10-14T19:37:26Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-15",
+      "score": 2,
+      "ts": "2026-10-15T18:46:15Z",
       "harness": "grok"
     }
   ]
