@@ -1,12 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-15T18:46:15Z",
-  "quality_score": 2,
-  "assessment": "Seven of eight linked tweets, IDs, and engagement counts check out, but the digest asserts $MASK as the unnamed ~$28M privacy coin when that post never names a ticker.",
-  "flags": [
-    "unverifiable_claim"
-  ],
-  "avg_score": 3.78,
+  "last_analyzed": "2026-10-16T19:04:04Z",
+  "quality_score": 4,
+  "assessment": "All nine links are real 2026-10-16 posts and the load-bearing figures match the sources; a tight, usable desk scan whose strongest line is the FTR insider-exit note.",
+  "flags": [],
+  "avg_score": 3.8,
   "history": [
     {
       "date": "2026-10-07",
@@ -60,6 +58,12 @@
       "date": "2026-10-15",
       "score": 2,
       "ts": "2026-10-15T18:46:15Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-16",
+      "score": 4,
+      "ts": "2026-10-16T19:04:04Z",
       "harness": "grok"
     }
   ]
