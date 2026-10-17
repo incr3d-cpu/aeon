@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-16T19:04:04Z",
+  "last_analyzed": "2026-10-17T17:31:00Z",
   "quality_score": 4,
-  "assessment": "All nine links are real 2026-10-16 posts and the load-bearing figures match the sources; a tight, usable desk scan whose strongest line is the FTR insider-exit note.",
+  "assessment": "Nine linked posts match live X (IDs, dates, figures, engagement within a few likes) and the privacy/weekend-stocks/hooks frame is desk-useful; Veil’s 30-day fee schedule and the Alpenglow date are slightly over-attributed to the linked posts.",
   "flags": [],
-  "avg_score": 3.8,
+  "avg_score": 3.82,
   "history": [
     {
       "date": "2026-10-07",
@@ -64,6 +64,12 @@
       "date": "2026-10-16",
       "score": 4,
       "ts": "2026-10-16T19:04:04Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-17",
+      "score": 4,
+      "ts": "2026-10-17T17:31:00Z",
       "harness": "grok"
     }
   ]
