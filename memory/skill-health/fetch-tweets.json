@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-17T17:31:00Z",
+  "last_analyzed": "2026-10-18T19:24:27Z",
   "quality_score": 4,
-  "assessment": "Nine linked posts match live X (IDs, dates, figures, engagement within a few likes) and the privacy/weekend-stocks/hooks frame is desk-useful; Veil’s 30-day fee schedule and the Alpenglow date are slightly over-attributed to the linked posts.",
+  "assessment": "Dated 2026-10-18 digest checks out: all 10 status links, engagement counts, and the Veil/MASK/Ondo/Base/Alpenglow figures match the live posts, and the MASK fee split is a useful blunt read for the desk. The pump item overreads a one-line 'return to animals?' post as a confirmed first rotation since custom-pairs.",
   "flags": [],
-  "avg_score": 3.82,
+  "avg_score": 3.83,
   "history": [
     {
       "date": "2026-10-07",
@@ -70,6 +70,12 @@
       "date": "2026-10-17",
       "score": 4,
       "ts": "2026-10-17T17:31:00Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-18",
+      "score": 4,
+      "ts": "2026-10-18T19:24:27Z",
       "harness": "grok"
     }
   ]

@@ -1,42 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-17)*
-_Privacy is still the bid — MASK repriced to $44m while Veil Pro goes live Monday — and tokenized stocks are the weekend tape, with MAG7 proving v4 hooks can mint an index with no LP._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-18)*
+_Tokenized stocks own the Sunday tape, privacy gets two Monday product drops while MASK's fee print gets picked apart, and Pump just rotated the house back to animals three days before Alpenglow._
 
-*Privacy reprices while product ships*
-1. x.com/theunipcs — Updates yesterday's $23.5m MASK print to $44m and stacks it against a $78B privacy sector while DeFiLlama still ranks it #1 on 7d/30d fees — Solana still not live.
-Likes: 399 | RTs: 55 | Replies: 131
-[View tweet](https://x.com/theunipcs/status/2111477682407936162)
+*Privacy ships Monday, fee print gets a quality check*
+1. x.com/veilzk — Week-one print: 13k holders, $40k revenue, $20M traded; Veil Pro, a revenue dashboard, and app-store filings land Monday with buybacks.
+Likes: 232 | RTs: 15 | Replies: 47
+[View tweet](https://x.com/veilzk/status/2111844254712832381)
 
-2. x.com/veilzk — Turns $VEIL into a fee-waiver: stake $300 for 30 days and shield/trade/DCA/withdraw fees go to 0% starting Monday 19 Oct 16:41 UTC.
-Likes: 189 | RTs: 28 | Replies: 62
-[View tweet](https://x.com/veilzk/status/2111400396602417408)
+2. x.com/NullMaskio — Season One starts Monday: 100M MASK (10% supply) over 90 days, 1 point per $10 withdrawn, pre-Oct 19 withdrawals count double. Solana still not live.
+Likes: 193 | RTs: 52 | Replies: 14
+[View tweet](https://x.com/NullMaskio/status/2111530742111195561)
 
-*Stocks trade through the weekend*
-3. x.com/solana — Q3 print for the desk: app revenue $299.1M (+48% QoQ), tokenized equities $7.1B for the quarter ($4.4B in September alone), 36% of all spot DEX.
-Likes: 905 | RTs: 127 | Replies: 208
-[View tweet](https://x.com/solana/status/2111171260038410549)
+3. x.com/jussy_world — DeFiLlama #1 is mostly circular: 73% of October MASK "fees" is ZEC the team wallet earns for holding MASK; only $172k (27%) came from an $80k privacy pool.
+Likes: 142 | RTs: 13 | Replies: 26
+[View tweet](https://x.com/jussy_world/status/2111766275315949580)
 
-4. x.com/Ondo — Mag7, gold, silver, IBIT and EETH trade 24/7 on Solana, Ethereum and BNB while the cash market is shut.
-Likes: 586 | RTs: 89 | Replies: 41
-[View tweet](https://x.com/Ondo/status/2111191987873542592)
+*Tokenized stocks own Sunday*
+4. x.com/solana — Sunday product video is stocks, not memes — 24/7, 365, while US cash markets are shut.
+Likes: 357 | RTs: 44 | Replies: 156
+[View tweet](https://x.com/solana/status/2111878008785019251)
 
-5. x.com/solana — Alpenglow is dated: Oct 21, targeting 150ms finality.
-Likes: 278 | RTs: 24 | Replies: 126
-[View tweet](https://x.com/solana/status/2111463304027947493)
+5. x.com/Ondo — Crossed $4B TVL ($1.3B+ stocks/ETFs, 1M holders) and lined up Goldman (growth), Morgan Stanley (Q1 2027 ATS), and BNY/Citadel using tokenized T-bills as overnight collateral.
+Likes: 296 | RTs: 45 | Replies: 33
+[View tweet](https://x.com/Ondo/status/2111862462739833190)
 
-*Pump is still eating its own float*
-6. x.com/a1lon9 — Custom Pairs already pulled 0.33% of $PUMP float (~$5.9M) out of circulation in a cold tape; the claim is lowcaps that become pairs capture the routed buy pressure.
-Likes: 955 | RTs: 97 | Replies: 392
-[View tweet](https://x.com/a1lon9/status/2110876217591177396)
+6. x.com/base — Weekly print: Earn & Borrow is live, Base is #2 DeFi TVL at $6.1B, Coinbase tokenized stocks did a $21M weekend DEX median, Pendle listed GOOGLc/NVDAc options.
+Likes: 364 | RTs: 71 | Replies: 91
+[View tweet](https://x.com/base/status/2111394308897030346)
 
-*Hooks consolidate on a quiet RH tape*
-7. x.com/0xDeployer — MAG7 is a Uniswap v4 hook index on Robinhood Chain: one tx buys 7 stocks, 0.30% of every trade accretes to holders, no LP required.
-Likes: 171 | RTs: 15 | Replies: 41
-[View tweet](https://x.com/0xDeployer/status/2111341988364870052)
+*Alpenglow is three days out*
+7. x.com/solana — Weekly print dates Alpenglow to Oct 21, lists Hong Kong's second spot SOL ETF (Pando), and shows tokenized equity holders at an ATH of 1.4M with 65% of volume outside US hours.
+Likes: 572 | RTs: 91 | Replies: 202
+[View tweet](https://x.com/solana/status/2111837474079293847)
 
-8. x.com/tmel0211 — Dry-tape rule for hooks: $HOOKR on RH is the lane; Solana $HOOKED and $BORDR only work when liquidity is abundant.
-Likes: 33 | RTs: 2 | Replies: 28
-[View tweet](https://x.com/tmel0211/status/2111349168484888973)
+8. x.com/bw_solana — Alpenglow v4.3.2 test-cluster migration succeeded. Anza CEO: all systems go, four days to mainnet.
+Likes: 202 | RTs: 33 | Replies: 25
+[View tweet](https://x.com/bw_solana/status/2111543725306564965)
 
-9. x.com/cudadotfamily — CUDA is an agent launchpad landing on Robinhood Network: launch a token and attach an autonomous trading agent in the same product.
-Likes: 85 | RTs: 34 | Replies: 35
-[View tweet](https://x.com/cudadotfamily/status/2111472311358652768)
+*Pump house rotated to animals*
+9. x.com/Pumpfun — House just called the meta back to animals — 1.9k likes in hours, the first pump.fun rotation signal since the custom-pairs print.
+Likes: 1959 | RTs: 342 | Replies: 905
+[View tweet](https://x.com/Pumpfun/status/2111878516275105943)
+
+10. x.com/a1lon9 — $50 Apple Pay match is worldwide but gated on 5 trading days in 10 — retention and anti-fraud, not a giveaway.
+Likes: 646 | RTs: 43 | Replies: 303
+[View tweet](https://x.com/a1lon9/status/2111518969324577087)
