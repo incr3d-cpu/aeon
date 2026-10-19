@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-18T19:24:27Z",
+  "last_analyzed": "2026-10-19T19:46:39Z",
   "quality_score": 4,
-  "assessment": "Dated 2026-10-18 digest checks out: all 10 status links, engagement counts, and the Veil/MASK/Ondo/Base/Alpenglow figures match the live posts, and the MASK fee split is a useful blunt read for the desk. The pump item overreads a one-line 'return to animals?' post as a confirmed first rotation since custom-pairs.",
+  "assessment": "Ten linked 2026-10-19 posts check out, with handles, status IDs, and engagement near live counts, and the pre-IPO, privacy, and Robinhood-chain items are usable for the desk; Umbra is mislabeled ETH/Base-native (it is Solana-native, early access on Robinhood Chain) and the Anza line treats 14:50 UTC as already cancelled.",
   "flags": [],
-  "avg_score": 3.83,
+  "avg_score": 3.85,
   "history": [
     {
       "date": "2026-10-07",
@@ -76,6 +76,12 @@
       "date": "2026-10-18",
       "score": 4,
       "ts": "2026-10-18T19:24:27Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-19",
+      "score": 4,
+      "ts": "2026-10-19T19:46:39Z",
       "harness": "grok"
     }
   ]

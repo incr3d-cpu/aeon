@@ -1,46 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-18)*
-_Tokenized stocks own the Sunday tape, privacy gets two Monday product drops while MASK's fee print gets picked apart, and Pump just rotated the house back to animals three days before Alpenglow._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-19)*
+_Monday shipped product, not memes — Pump opened pre-IPO pairs, privacy apps went live on Solana and Robinhood Chain, and Alpenglow is tracking earlier than Wednesday._
 
-*Privacy ships Monday, fee print gets a quality check*
-1. x.com/veilzk — Week-one print: 13k holders, $40k revenue, $20M traded; Veil Pro, a revenue dashboard, and app-store filings land Monday with buybacks.
-Likes: 232 | RTs: 15 | Replies: 47
-[View tweet](https://x.com/veilzk/status/2111844254712832381)
+*Pre-IPO pairs are the new stock-meta*
+1. x.com/Pumpfun — Stock-paired memes jumped from Mag7/NVDA to pre-IPO names: OpenAI, Anthropic, Anduril, Neuralink, Figure AI, Kalshi, Polymarket and Oura now sit as pair assets on the house pad.
+Likes: 431 | RTs: 47 | Replies: 185
+[View tweet](https://x.com/Pumpfun/status/2112239830797287674)
 
-2. x.com/NullMaskio — Season One starts Monday: 100M MASK (10% supply) over 90 days, 1 point per $10 withdrawn, pre-Oct 19 withdrawals count double. Solana still not live.
-Likes: 193 | RTs: 52 | Replies: 14
-[View tweet](https://x.com/NullMaskio/status/2111530742111195561)
+2. x.com/RWAFoundation_ — RWA desk confirms the mechanic: launch memecoins paired with PreStocks on the world's biggest launchpad.
+Likes: 17 | RTs: 5 | Replies: 1
+[View tweet](https://x.com/RWAFoundation_/status/2112255573102092640)
 
-3. x.com/jussy_world — DeFiLlama #1 is mostly circular: 73% of October MASK "fees" is ZEC the team wallet earns for holding MASK; only $172k (27%) came from an $80k privacy pool.
-Likes: 142 | RTs: 13 | Replies: 26
-[View tweet](https://x.com/jussy_world/status/2111766275315949580)
+*Privacy products ship Monday*
+3. x.com/NullMaskio — Season One is live: 1 point per $10 withdrawn, pre-today withdrawals count double, points convert to $MASK over 90 days.
+Likes: 145 | RTs: 38 | Replies: 11
+[View tweet](https://x.com/NullMaskio/status/2112184724685005027)
 
-*Tokenized stocks own Sunday*
-4. x.com/solana — Sunday product video is stocks, not memes — 24/7, 365, while US cash markets are shut.
-Likes: 357 | RTs: 44 | Replies: 156
-[View tweet](https://x.com/solana/status/2111878008785019251)
+4. x.com/UmbraPrivacy — Privacy layer that was ETH/Base-native is taking early-access signups on Robinhood Chain, powered by Nimbus.
+Likes: 121 | RTs: 22 | Replies: 34
+[View tweet](https://x.com/UmbraPrivacy/status/2112227278524666079)
 
-5. x.com/Ondo — Crossed $4B TVL ($1.3B+ stocks/ETFs, 1M holders) and lined up Goldman (growth), Morgan Stanley (Q1 2027 ATS), and BNY/Citadel using tokenized T-bills as overnight collateral.
-Likes: 296 | RTs: 45 | Replies: 33
-[View tweet](https://x.com/Ondo/status/2111862462739833190)
+5. x.com/veilzk — The Monday fee-waiver is live: lock ~$300 of $VEIL for 30 days and shield/trade/DCA/withdraw fees go to 0.
+Likes: 89 | RTs: 21 | Replies: 57
+[View tweet](https://x.com/veilzk/status/2112227293141868637)
 
-6. x.com/base — Weekly print: Earn & Borrow is live, Base is #2 DeFi TVL at $6.1B, Coinbase tokenized stocks did a $21M weekend DEX median, Pendle listed GOOGLc/NVDAc options.
-Likes: 364 | RTs: 71 | Replies: 91
-[View tweet](https://x.com/base/status/2111394308897030346)
+*Solana infra is running hot*
+6. x.com/solana — Q3 already printed 8.92B non-vote txs, +104% vs Q4 2025 — throughput is in the books two days before Alpenglow.
+Likes: 229 | RTs: 31 | Replies: 105
+[View tweet](https://x.com/solana/status/2112251409924280535)
 
-*Alpenglow is three days out*
-7. x.com/solana — Weekly print dates Alpenglow to Oct 21, lists Hong Kong's second spot SOL ETF (Pando), and shows tokenized equity holders at an ATH of 1.4M with 65% of volume outside US hours.
-Likes: 572 | RTs: 91 | Replies: 202
-[View tweet](https://x.com/solana/status/2111837474079293847)
+7. x.com/anza_xyz — Epoch 1064 is coming in early because slots are running faster than projected; updated countdown Tuesday morning. Wednesday 14:50 UTC is no longer the number.
+Likes: 95 | RTs: 18 | Replies: 15
+[View tweet](https://x.com/anza_xyz/status/2112246102506565825)
 
-8. x.com/bw_solana — Alpenglow v4.3.2 test-cluster migration succeeded. Anza CEO: all systems go, four days to mainnet.
-Likes: 202 | RTs: 33 | Replies: 25
-[View tweet](https://x.com/bw_solana/status/2111543725306564965)
+*TradFi pipes + RH tape*
+8. x.com/base — Thunes is plugging Base stablecoins into its global payout rails — cross-border, not a DEX print.
+Likes: 164 | RTs: 24 | Replies: 40
+[View tweet](https://x.com/base/status/2112223365461414067)
 
-*Pump house rotated to animals*
-9. x.com/Pumpfun — House just called the meta back to animals — 1.9k likes in hours, the first pump.fun rotation signal since the custom-pairs print.
-Likes: 1959 | RTs: 342 | Replies: 905
-[View tweet](https://x.com/Pumpfun/status/2111878516275105943)
+9. x.com/AltcoinDaily — JPM Coin hits Ethereum mainnet so institutional clients can move tokenized deposits 24/7 — they picked ETH.
+Likes: 126 | RTs: 23 | Replies: 32
+[View tweet](https://x.com/AltcoinDaily/status/2112251379951735020)
 
-10. x.com/a1lon9 — $50 Apple Pay match is worldwide but gated on 5 trading days in 10 — retention and anti-fraud, not a giveaway.
-Likes: 646 | RTs: 43 | Replies: 303
-[View tweet](https://x.com/a1lon9/status/2111518969324577087)
+10. x.com/birdeye_so — RH 24h leaders: Torchpad $9.84M, HOOKR still $25.92M, VRAX $5.16M — launchpad tokens, not animals.
+Likes: 33 | RTs: 9 | Replies: 5
+[View tweet](https://x.com/birdeye_so/status/2112101137834992054)
