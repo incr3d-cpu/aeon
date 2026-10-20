@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-19T19:46:39Z",
+  "last_analyzed": "2026-10-20T20:16:46Z",
   "quality_score": 4,
-  "assessment": "Ten linked 2026-10-19 posts check out, with handles, status IDs, and engagement near live counts, and the pre-IPO, privacy, and Robinhood-chain items are usable for the desk; Umbra is mislabeled ETH/Base-native (it is Solana-native, early access on Robinhood Chain) and the Anza line treats 14:50 UTC as already cancelled.",
+  "assessment": "Live posts confirm the links, quotes, and counts in a tight same-day brief, but a 12x #1 TORCH print is still framed as the runner with no blunt first/not-first call.",
   "flags": [],
-  "avg_score": 3.85,
+  "avg_score": 3.86,
   "history": [
     {
       "date": "2026-10-07",
@@ -82,6 +82,12 @@
       "date": "2026-10-19",
       "score": 4,
       "ts": "2026-10-19T19:46:39Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-20",
+      "score": 4,
+      "ts": "2026-10-20T20:16:46Z",
       "harness": "grok"
     }
   ]
