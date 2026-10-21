@@ -1,46 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-20)*
-_Alpenglow is a dated slot tomorrow, TORCH is the RH launchpad runner, and privacy is still printing fees with Solana not live yet._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-21)*
+_Alpenglow went live at slot 459,653,000 and co-founders want the beta tag dead; privacy dated Solana for Friday with fees already on-chain; RH Round 2 is being called while US issuers object to tokenized stocks._
 
-*Alpenglow is a dated slot*
-1. x.com/solana — House video puts the upgrade on the timeline: "Alpenglow tomorrow." Fast finality is now a dated marketing event, not a validator-only countdown.
-Likes: 609 | RTs: 49 | Replies: 148
-[View tweet](https://x.com/solana/status/2112586539024712138)
+*Alpenglow is live — kill beta*
+1. x.com/solana — House confirms the cutover: 12.8s → ~150ms finality, Anza-built. Fast finality is no longer a countdown.
+Likes: 1275 | RTs: 244 | Replies: 218
+[View tweet](https://x.com/solana/status/2112906742585512150)
 
-2. x.com/anza_xyz — Hard lock: slot 459,653,000, ~14:00 UTC Wed Oct 21. TowerBFT retires in one slot.
-Likes: 236 | RTs: 54 | Replies: 43
-[View tweet](https://x.com/anza_xyz/status/2112520675365900505)
+2. x.com/anza_xyz — Handoff print: genesis slot 459,653,000, epoch 1064, 654 validators, TowerBFT retired in 900ms.
+Likes: 76 | RTs: 5 | Replies: 8
+[View tweet](https://x.com/anza_xyz/status/2112905481476091961)
 
-3. x.com/SolanaFloor — 151 validators holding 20.3% of stake still missing Agave 4.3.2, a BLS key, or vote-account funds — they stop producing after the switch.
-Likes: 78 | RTs: 15 | Replies: 21
-[View tweet](https://x.com/SolanaFloor/status/2112498842474271206)
+3. x.com/toly — Direct ask to drop the explorer "beta" tag the chain has carried since 2020.
+Likes: 200 | RTs: 37 | Replies: 17
+[View tweet](https://x.com/toly/status/2112928264780230866)
 
-*TORCH is the RH pad*
-4. x.com/Torchpaddotfun — House account calling the flywheel live as $TORCH sits as GeckoTerminal's #1 trending token. Pad + terminal + TG bot on Robinhood Chain, burns on every trade.
-Likes: 169 | RTs: 43 | Replies: 45
-[View tweet](https://x.com/Torchpaddotfun/status/2112565829430849731)
+*Privacy dated Friday, fees public*
+4. x.com/NullMaskio — Dated slot: Solana deposits/shield/withdraw go live Oct 23 16:00 UTC — privacy tape moves from "this week" to a calendar event.
+Likes: 247 | RTs: 58 | Replies: 32
+[View tweet](https://x.com/NullMaskio/status/2112881522223243634)
 
-5. x.com/jussy_world — $TORCH 12x in a week ($1.4M → $18M). One $23k bag is +$400k without selling — the conviction print, not a volume screenshot.
-Likes: 30 | RTs: 2 | Replies: 9
-[View tweet](https://x.com/jussy_world/status/2112585067176632390)
+5. x.com/veilzk — Dashboard is live: $61k week-1 fees, $5M+ 24h volume, 20% of fees to $VEIL buyback/burn. Users stay private, revenue is public.
+Likes: 262 | RTs: 37 | Replies: 55
+[View tweet](https://x.com/veilzk/status/2112908460665053679)
 
-*Privacy prints before Solana*
-6. x.com/NullMaskio — Protocol crossed $1M lifetime revenue. First cumulative fee print; house says onchain privacy is no longer just a narrative.
-Likes: 223 | RTs: 46 | Replies: 16
-[View tweet](https://x.com/NullMaskio/status/2112448535866359925)
+*RH Round 2 is TORCH*
+6. x.com/econoar — EIP-1559 author calling RH "Round 2" now: tokenization decade vs traders who sold the FUD.
+Likes: 264 | RTs: 18 | Replies: 50
+[View tweet](https://x.com/econoar/status/2112933632671469950)
 
-7. x.com/heat — $21.1M volume / ~$105k fees in 5 days (~10% of FDV daily). Solana integration expected this week while $MASK already trades there.
-Likes: 73 | RTs: 14 | Replies: 8
-[View tweet](https://x.com/heat/status/2112603125253284272)
+7. x.com/ElCryptoDoc — $TORCH at $19M with a shot at #1 RH pad; the follow trade is pad spawns, first name $LYRO (fixed-rate BTC financing).
+Likes: 64 | RTs: 14 | Replies: 18
+[View tweet](https://x.com/ElCryptoDoc/status/2112885725775401253)
 
-8. x.com/veilzk — Revenue dashboard goes live tomorrow: every fee and tx in real time. Product after Monday's fee-waiver.
-Likes: 44 | RTs: 11 | Replies: 21
-[View tweet](https://x.com/veilzk/status/2112623053494726991)
+8. x.com/mikroweller — Record 24h flywheel print: $75k fees, $31.5k burned, $320k terminal volume.
+Likes: 47 | RTs: 17 | Replies: 13
+[View tweet](https://x.com/mikroweller/status/2112872149501231229)
 
-*Stocks trade through earnings*
-9. x.com/Ondo — 450+ tokenized stocks and ETFs now on Jumper across Solana, Ethereum, BNB Chain, and HyperEVM — one routing layer, not four apps.
-Likes: 300 | RTs: 36 | Replies: 20
-[View tweet](https://x.com/Ondo/status/2112586213739954215)
+*Tokenized stocks: volume vs issuer veto*
+9. x.com/Cointelegraph — RH tokenized-stock volume $11.31B in September while GS, MSFT, GOOGL, QCOM, CAT, MCD, WDC object to tokenized shares.
+Likes: 101 | RTs: 16 | Replies: 32
+[View tweet](https://x.com/Cointelegraph/status/2112929582558937247)
 
-10. x.com/base — House account using earnings season to sell 24/7 tokenized stocks on Base. The bid is the cash-market calendar.
-Likes: 125 | RTs: 16 | Replies: 39
-[View tweet](https://x.com/base/status/2112624434981085525)
+10. x.com/Zebec_HQ — AAPL, NVDA, AMZN, HOOD, CRCL xStocks now sit inside a SuperApp next to crypto — distribution, not a new listing.
+Likes: 231 | RTs: 78 | Replies: 16
+[View tweet](https://x.com/Zebec_HQ/status/2112944536909471868)

@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-20T20:16:46Z",
+  "last_analyzed": "2026-10-21T17:11:55Z",
   "quality_score": 4,
-  "assessment": "Live posts confirm the links, quotes, and counts in a tight same-day brief, but a 12x #1 TORCH print is still framed as the runner with no blunt first/not-first call.",
+  "assessment": "All ten posts, status IDs, and engagement figures match live 2026-10-21 tweets and the narrative grouping is usable, but the TORCH/LYRO block passes through same-day promoter FOMO without a first-or-not filter.",
   "flags": [],
-  "avg_score": 3.86,
+  "avg_score": 3.87,
   "history": [
     {
       "date": "2026-10-07",
@@ -88,6 +88,12 @@
       "date": "2026-10-20",
       "score": 4,
       "ts": "2026-10-20T20:16:46Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-21",
+      "score": 4,
+      "ts": "2026-10-21T17:11:55Z",
       "harness": "grok"
     }
   ]
