@@ -1,6 +1,9 @@
-I'll read the heartbeat skill and follow its instructions.The selector is empty, so this is the ambient fleet check. I'll load memory, cron state, and the skill config first.Cron state is present and the fleet has completed runs. Next I’ll check logs, issues, PRs, and the current status page.Stalled dependabot PRs are still the only finding, and they were already logged in the last 48 hours. I’ll refresh the status page and record the run without sending another notification.🟡 WATCH. Stalled dependabot PRs are the only finding. Notification skipped because the same three PRs were already logged within the last 48 hours.
+I'll run the ambient fleet check: read memory and cron state, then regenerate the public status page.Stalled dependabot PRs are still the only flag, and they were already logged in the last 48 hours, so I will refresh the status page and skip a duplicate notification.🟡 WATCH. Status page regenerated at `docs/status.md` (2026-10-21 12:08 UTC). Notification skipped — the same stall was logged within the last 48 hours.
 
-- 🟡 STALLED: PR #1 (mcp-server deps), PR #2 (dashboard deps), PR #3 (webhook wrangler) — opened 2026-10-07 18:32 UTC, open 305h, no updates since 2026-10-07.
-- P0 clear. No skill is failed, stuck, or chronically failing. Heartbeat last succeeded 2026-10-19 14:01 UTC.
-- No urgent issues. Open issue #5 (`health: fetch-tweets`) has no labels. No flagged memory items. `fetch-tweets` and `heartbeat` are inside 2× their daily interval.
-- STATUS_PAGE=WATCH — wrote `docs/status.md`. Next scheduled run: `fetch-tweets` at 17:00 UTC.
+**P0** clear. No failed, stuck, or chronic skills. Heartbeat last succeeded 2026-10-20 12:07 UTC. `fetch-tweets` last succeeded 2026-10-20 20:16 UTC. Both are inside twice their daily interval.
+
+**P1** three Dependabot PRs have been open since 2026-10-07 18:32 UTC (329h, no updates): #1 mcp-server deps, #2 dashboard deps, #3 webhook wrangler. Issue #5 `health: fetch-tweets` is open and unlabeled, so it is not urgent.
+
+**P2** nothing flagged in memory. **P3** no missing cron skills. On-demand skills `autoresearch` and `soul-builder` have not run yet.
+
+**Next scheduled run:** fetch-tweets at 17:00 UTC.
