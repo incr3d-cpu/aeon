@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-21T17:11:55Z",
+  "last_analyzed": "2026-10-22T17:25:14Z",
   "quality_score": 4,
-  "assessment": "All ten posts, status IDs, and engagement figures match live 2026-10-21 tweets and the narrative grouping is usable, but the TORCH/LYRO block passes through same-day promoter FOMO without a first-or-not filter.",
+  "assessment": "Same-day digest is real and checkable: all eight status IDs, handles, and fee figures match the posts, with only small like-count drift and the NullMask Solana time folded in from a prior post. Useful tape brief for the desk, short of a blunt first/not-first or lowcap action.",
   "flags": [],
-  "avg_score": 3.87,
+  "avg_score": 3.88,
   "history": [
     {
       "date": "2026-10-07",
@@ -94,6 +94,12 @@
       "date": "2026-10-21",
       "score": 4,
       "ts": "2026-10-21T17:11:55Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-22",
+      "score": 4,
+      "ts": "2026-10-22T17:25:14Z",
       "harness": "grok"
     }
   ]

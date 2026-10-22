@@ -1,46 +1,38 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-21)*
-_Alpenglow went live at slot 459,653,000 and co-founders want the beta tag dead; privacy dated Solana for Friday with fees already on-chain; RH Round 2 is being called while US issuers object to tokenized stocks._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-22)*
+_Day after Alpenglow, the tape rotated to product: Uniswap v4 is now an aggregator on ETH/Base/RH, Pump shipped EVM limit orders, TORCH is printing $30k/day, and privacy hit ATHs a day before NullMask lands on Solana._
 
-*Alpenglow is live — kill beta*
-1. x.com/solana — House confirms the cutover: 12.8s → ~150ms finality, Anza-built. Fast finality is no longer a countdown.
-Likes: 1275 | RTs: 244 | Replies: 218
-[View tweet](https://x.com/solana/status/2112906742585512150)
+*Uniswap v4 is now an aggregator*
+1. x.com/Uniswap — v4 wraps 7 external venues covering 90% of DEX volume on Ethereum, Base and Robinhood Chain into native pools. Live today in the web app and API.
+Likes: 499 | RTs: 55 | Replies: 81
+[View tweet](https://x.com/Uniswap/status/2113269114017857808)
 
-2. x.com/anza_xyz — Handoff print: genesis slot 459,653,000, epoch 1064, 654 validators, TowerBFT retired in 900ms.
-Likes: 76 | RTs: 5 | Replies: 8
-[View tweet](https://x.com/anza_xyz/status/2112905481476091961)
+2. x.com/saintniko — Routing treats aggregator hooks as native liquidity, and those swaps pay protocol fees that burn UNI. First house-team take on why this hook matters.
+Likes: 129 | RTs: 10 | Replies: 17
+[View tweet](https://x.com/saintniko/status/2113278149614248375)
 
-3. x.com/toly — Direct ask to drop the explorer "beta" tag the chain has carried since 2020.
-Likes: 200 | RTs: 37 | Replies: 17
-[View tweet](https://x.com/toly/status/2112928264780230866)
+*Pump ships EVM limit orders*
+3. x.com/Pumpfun — First social trading app with take-profit and stop-loss on Robinhood, BSC, Base, HyperEVM, Arc and Ink. Solana desk can now babysit EVM tape.
+Likes: 494 | RTs: 68 | Replies: 178
+[View tweet](https://x.com/Pumpfun/status/2113310051431764026)
 
-*Privacy dated Friday, fees public*
-4. x.com/NullMaskio — Dated slot: Solana deposits/shield/withdraw go live Oct 23 16:00 UTC — privacy tape moves from "this week" to a calendar event.
-Likes: 247 | RTs: 58 | Replies: 32
-[View tweet](https://x.com/NullMaskio/status/2112881522223243634)
+4. x.com/a1lon9 — Two major drops in two days (Pump Bridge yesterday, EVM limits today). Claims every other social app sat on months of asks and shipped nothing.
+Likes: 426 | RTs: 33 | Replies: 296
+[View tweet](https://x.com/a1lon9/status/2113310581415403722)
 
-5. x.com/veilzk — Dashboard is live: $61k week-1 fees, $5M+ 24h volume, 20% of fees to $VEIL buyback/burn. Users stay private, revenue is public.
-Likes: 262 | RTs: 37 | Replies: 55
-[View tweet](https://x.com/veilzk/status/2112908460665053679)
+*TORCH flywheel is public*
+5. x.com/Torchpaddotfun — House print: ~$30k revenue/day, floor $10k burned/day. The RH pad is showing a fee flywheel, not a volume screenshot.
+Likes: 147 | RTs: 40 | Replies: 30
+[View tweet](https://x.com/Torchpaddotfun/status/2113252184666353683)
 
-*RH Round 2 is TORCH*
-6. x.com/econoar — EIP-1559 author calling RH "Round 2" now: tokenization decade vs traders who sold the FUD.
-Likes: 264 | RTs: 18 | Replies: 50
-[View tweet](https://x.com/econoar/status/2112933632671469950)
+6. x.com/log1_053 — 9/10 EVM pads lose creator fees when a 3rd party opens a cheaper unhooked pool. Torch moved the fee into the token contract so it cannot be routed around.
+Likes: 132 | RTs: 44 | Replies: 29
+[View tweet](https://x.com/log1_053/status/2113196156947747234)
 
-7. x.com/ElCryptoDoc — $TORCH at $19M with a shot at #1 RH pad; the follow trade is pad spawns, first name $LYRO (fixed-rate BTC financing).
-Likes: 64 | RTs: 14 | Replies: 18
-[View tweet](https://x.com/ElCryptoDoc/status/2112885725775401253)
+*Privacy ATHs, Solana is tomorrow*
+7. x.com/NullMaskio — New ATH: $6.3M private volume and $31.6k protocol fees in a single day. Season One points still running. Solana deposits are dated Oct 23 16:00 UTC.
+Likes: 174 | RTs: 43 | Replies: 14
+[View tweet](https://x.com/NullMaskio/status/2113179568148553816)
 
-8. x.com/mikroweller — Record 24h flywheel print: $75k fees, $31.5k burned, $320k terminal volume.
-Likes: 47 | RTs: 17 | Replies: 13
-[View tweet](https://x.com/mikroweller/status/2112872149501231229)
-
-*Tokenized stocks: volume vs issuer veto*
-9. x.com/Cointelegraph — RH tokenized-stock volume $11.31B in September while GS, MSFT, GOOGL, QCOM, CAT, MCD, WDC object to tokenized shares.
-Likes: 101 | RTs: 16 | Replies: 32
-[View tweet](https://x.com/Cointelegraph/status/2112929582558937247)
-
-10. x.com/Zebec_HQ — AAPL, NVDA, AMZN, HOOD, CRCL xStocks now sit inside a SuperApp next to crypto — distribution, not a new listing.
-Likes: 231 | RTs: 78 | Replies: 16
-[View tweet](https://x.com/Zebec_HQ/status/2112944536909471868)
+8. x.com/veilzk — Listed on DefiLlama with $17.5k fees in 24h, independently tracked onchain. Native Solana privacy is printing the day before NullMask arrives.
+Likes: 166 | RTs: 13 | Replies: 5
+[View tweet](https://x.com/veilzk/status/2113165137817596094)
