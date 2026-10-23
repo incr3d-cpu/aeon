@@ -1,8 +1,8 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-22T17:25:14Z",
+  "last_analyzed": "2026-10-23T20:10:35Z",
   "quality_score": 4,
-  "assessment": "Same-day digest is real and checkable: all eight status IDs, handles, and fee figures match the posts, with only small like-count drift and the NullMask Solana time folded in from a prior post. Useful tape brief for the desk, short of a blunt first/not-first or lowcap action.",
+  "assessment": "Nine same-day tweets check out (IDs, handles, engagement, and the Nullmask, JPM/MONY, Securitize/Sunrise, and TORCH claims); useful and sourced, with mild over-reads on the Veil teaser and the StonkFun-vs-RH line.",
   "flags": [],
   "avg_score": 3.88,
   "history": [
@@ -100,6 +100,12 @@
       "date": "2026-10-22",
       "score": 4,
       "ts": "2026-10-22T17:25:14Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-23",
+      "score": 4,
+      "ts": "2026-10-23T20:10:35Z",
       "harness": "grok"
     }
   ]

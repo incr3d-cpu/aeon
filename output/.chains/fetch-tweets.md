@@ -1,38 +1,41 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-22)*
-_Day after Alpenglow, the tape rotated to product: Uniswap v4 is now an aggregator on ETH/Base/RH, Pump shipped EVM limit orders, TORCH is printing $30k/day, and privacy hit ATHs a day before NullMask lands on Solana._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-23)*
+_Dated privacy slot shipped on Solana; JPM MMFs and 1:1 US stocks printed the same day; TORCH is the RH lowcap still burning supply._
 
-*Uniswap v4 is now an aggregator*
-1. x.com/Uniswap — v4 wraps 7 external venues covering 90% of DEX volume on Ethereum, Base and Robinhood Chain into native pools. Live today in the web app and API.
-Likes: 499 | RTs: 55 | Replies: 81
-[View tweet](https://x.com/Uniswap/status/2113269114017857808)
+*Privacy is a Solana pool now*
+1. x.com/NullMaskio — House cutover: private deposit/send/withdraw is live at sol.nullmask.io, not a Friday countdown.
+Likes: 322 | RTs: 83 | Replies: 41
+[View tweet](https://x.com/NullMaskio/status/2113626212010738154)
 
-2. x.com/saintniko — Routing treats aggregator hooks as native liquidity, and those swaps pay protocol fees that burn UNI. First house-team take on why this hook matters.
-Likes: 129 | RTs: 10 | Replies: 17
-[View tweet](https://x.com/saintniko/status/2113278149614248375)
+2. x.com/NullMaskio — First memecoin in the Solana shielded pool is $CATE — privacy tape now has a trench ticker attached.
+Likes: 236 | RTs: 77 | Replies: 29
+[View tweet](https://x.com/NullMaskio/status/2113650871854842081)
 
-*Pump ships EVM limit orders*
-3. x.com/Pumpfun — First social trading app with take-profit and stop-loss on Robinhood, BSC, Base, HyperEVM, Arc and Ink. Solana desk can now babysit EVM tape.
-Likes: 494 | RTs: 68 | Replies: 178
-[View tweet](https://x.com/Pumpfun/status/2113310051431764026)
+3. x.com/veilzk — Same-day counter from native Solana privacy: Jean Phil is joining Veil, keeping MASK vs VEIL on-product.
+Likes: 114 | RTs: 20 | Replies: 20
+[View tweet](https://x.com/veilzk/status/2113661400216224136)
 
-4. x.com/a1lon9 — Two major drops in two days (Pump Bridge yesterday, EVM limits today). Claims every other social app sat on months of asks and shipped nothing.
-Likes: 426 | RTs: 33 | Replies: 296
-[View tweet](https://x.com/a1lon9/status/2113310581415403722)
+*1:1 stocks and JPM MMFs land*
+4. x.com/WhaleInsider — JPM expands Ethereum-based MONY and JLTXX money-market funds onto Solana for qualified US investors via Morgan Money.
+Likes: 700 | RTs: 85 | Replies: 65
+[View tweet](https://x.com/WhaleInsider/status/2113559718849605881)
 
-*TORCH flywheel is public*
-5. x.com/Torchpaddotfun — House print: ~$30k revenue/day, floor $10k burned/day. The RH pad is showing a fee flywheel, not a volume screenshot.
-Likes: 147 | RTs: 40 | Replies: 30
-[View tweet](https://x.com/Torchpaddotfun/status/2113252184666353683)
+5. x.com/solana — House amplifying Securitize: AAPL, NVDA, TSLA and nine more live as 1:1 shares, never lent out.
+Likes: 237 | RTs: 33 | Replies: 72
+[View tweet](https://x.com/solana/status/2113646520411332817)
 
-6. x.com/log1_053 — 9/10 EVM pads lose creator fees when a 3rd party opens a cheaper unhooked pool. Torch moved the fee into the token contract so it cannot be routed around.
-Likes: 132 | RTs: 44 | Replies: 29
-[View tweet](https://x.com/log1_053/status/2113196156947747234)
+6. x.com/solana — Second issuer path the same afternoon: $AAPL live via Sunrise, issued by Backpack Securities.
+Likes: 148 | RTs: 10 | Replies: 61
+[View tweet](https://x.com/solana/status/2113711984520896677)
 
-*Privacy ATHs, Solana is tomorrow*
-7. x.com/NullMaskio — New ATH: $6.3M private volume and $31.6k protocol fees in a single day. Season One points still running. Solana deposits are dated Oct 23 16:00 UTC.
-Likes: 174 | RTs: 43 | Replies: 14
-[View tweet](https://x.com/NullMaskio/status/2113179568148553816)
+*TORCH still burns on a quieter RH tape*
+7. x.com/GeckoTerminal — $TORCH +18.6% against the broader market after a reported 3% supply burn.
+Likes: 131 | RTs: 34 | Replies: 24
+[View tweet](https://x.com/GeckoTerminal/status/2113506026444173711)
 
-8. x.com/veilzk — Listed on DefiLlama with $17.5k fees in 24h, independently tracked onchain. Native Solana privacy is printing the day before NullMask arrives.
-Likes: 166 | RTs: 13 | Replies: 5
-[View tweet](https://x.com/veilzk/status/2113165137817596094)
+8. x.com/HOODdailyTK — Fee split is public: 70% of the 1% creator fee to holders or auto-buys, 30% burned, plus ~25% of terminal/bot/pad net.
+Likes: 87 | RTs: 36 | Replies: 25
+[View tweet](https://x.com/HOODdailyTK/status/2113586243368100151)
+
+9. x.com/degengambleh — StonkFun called the better RH-pad copy: 9-fig runners on Solana while RH pads are still hunting first runners.
+Likes: 90 | RTs: 14 | Replies: 10
+[View tweet](https://x.com/degengambleh/status/2113618402892030304)
