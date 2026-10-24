@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-23T20:10:35Z",
+  "last_analyzed": "2026-10-24T17:36:13Z",
   "quality_score": 4,
-  "assessment": "Nine same-day tweets check out (IDs, handles, engagement, and the Nullmask, JPM/MONY, Securitize/Sunrise, and TORCH claims); useful and sourced, with mild over-reads on the Veil teaser and the StonkFun-vs-RH line.",
+  "assessment": "All eight posts check out live (IDs, quotes, figures, engagement within snapshot drift) and the digest is grouped and usable, but it leads with chain press and never makes the blunt first/not-first lowcap call the desk needs.",
   "flags": [],
-  "avg_score": 3.88,
+  "avg_score": 3.89,
   "history": [
     {
       "date": "2026-10-07",
@@ -106,6 +106,12 @@
       "date": "2026-10-23",
       "score": 4,
       "ts": "2026-10-23T20:10:35Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-24",
+      "score": 4,
+      "ts": "2026-10-24T17:36:13Z",
       "harness": "grok"
     }
   ]

@@ -1,41 +1,38 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-23)*
-_Dated privacy slot shipped on Solana; JPM MMFs and 1:1 US stocks printed the same day; TORCH is the RH lowcap still burning supply._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-24)*
+_Weekend dump as backdrop — Alpenglow is a press cycle, Base is Mag7 credit plus 200ms, Pump shipped Monad, and privacy is listing Solana tickers while TORCH stays the cheap RH pad._
 
-*Privacy is a Solana pool now*
-1. x.com/NullMaskio — House cutover: private deposit/send/withdraw is live at sol.nullmask.io, not a Friday countdown.
-Likes: 322 | RTs: 83 | Replies: 41
-[View tweet](https://x.com/NullMaskio/status/2113626212010738154)
+*Alpenglow sold as physics*
+1. x.com/solana — House video frames live Alpenglow as a physics limit: the chain is now "limited by the speed of light," not a slot countdown.
+Likes: 669 | RTs: 83 | Replies: 208
+[View tweet](https://x.com/solana/status/2113937292851384328)
 
-2. x.com/NullMaskio — First memecoin in the Solana shielded pool is $CATE — privacy tape now has a trench ticker attached.
-Likes: 236 | RTs: 77 | Replies: 29
-[View tweet](https://x.com/NullMaskio/status/2113650871854842081)
+*Base: Mag7 credit and 200ms*
+2. x.com/base — Mainnet target is 200ms blocks, putting Base on the same latency pitch as Alpenglow's ~150ms.
+Likes: 954 | RTs: 103 | Replies: 185
+[View tweet](https://x.com/base/status/2113623893034303551)
 
-3. x.com/veilzk — Same-day counter from native Solana privacy: Jean Phil is joining Veil, keeping MASK vs VEIL on-product.
-Likes: 114 | RTs: 20 | Replies: 20
-[View tweet](https://x.com/veilzk/status/2113661400216224136)
+3. x.com/base — Mag 7 tokenized-stock holders deposited $9.57M on Aave and borrowed $4.08M USDC (3 of 4 new to Aave); Mastercard Agent Pay via x402 is the other house bullet.
+Likes: 478 | RTs: 101 | Replies: 95
+[View tweet](https://x.com/base/status/2113934362760642658)
 
-*1:1 stocks and JPM MMFs land*
-4. x.com/WhaleInsider — JPM expands Ethereum-based MONY and JLTXX money-market funds onto Solana for qualified US investors via Morgan Money.
-Likes: 700 | RTs: 85 | Replies: 65
-[View tweet](https://x.com/WhaleInsider/status/2113559718849605881)
+*Pump takes Monad, still extracting*
+4. x.com/Pumpfun — Monad tokens are buyable from a USDC balance inside the Pump app — no bridge, no wallet switch. Third expansion after this week's EVM limits.
+Likes: 425 | RTs: 54 | Replies: 201
+[View tweet](https://x.com/Pumpfun/status/2114024480779485287)
 
-5. x.com/solana — House amplifying Securitize: AAPL, NVDA, TSLA and nine more live as 1:1 shares, never lent out.
-Likes: 237 | RTs: 33 | Replies: 72
-[View tweet](https://x.com/solana/status/2113646520411332817)
+5. x.com/solana_sailor — Memecoin mcap is ~1/4 of Jan 2025, but Pump's Sep 2026 fees ($157.7M) beat TRUMP-mania January; October already $138M with a week left.
+Likes: 36 | RTs: 6 | Replies: 9
+[View tweet](https://x.com/solana_sailor/status/2113998549532705160)
 
-6. x.com/solana — Second issuer path the same afternoon: $AAPL live via Sunrise, issued by Backpack Securities.
-Likes: 148 | RTs: 10 | Replies: 61
-[View tweet](https://x.com/solana/status/2113711984520896677)
+*Privacy lists memes; TORCH is cheap vs PONS*
+6. x.com/veilzk — Six-figure print: $100k+ revenue in 12 days, $15M+ volume, $50k buyback/burn, live on DefiLlama.
+Likes: 128 | RTs: 14 | Replies: 14
+[View tweet](https://x.com/veilzk/status/2113877168199709111)
 
-*TORCH still burns on a quieter RH tape*
-7. x.com/GeckoTerminal — $TORCH +18.6% against the broader market after a reported 3% supply burn.
-Likes: 131 | RTs: 34 | Replies: 24
-[View tweet](https://x.com/GeckoTerminal/status/2113506026444173711)
+7. x.com/NullMaskio — Day-2 of Solana deposits, they are onboarding meme tickers: $USELESS now has a private balance at sol.nullmask.io.
+Likes: 119 | RTs: 28 | Replies: 10
+[View tweet](https://x.com/NullMaskio/status/2113990141215678790)
 
-8. x.com/HOODdailyTK — Fee split is public: 70% of the 1% creator fee to holders or auto-buys, 30% burned, plus ~25% of terminal/bot/pad net.
-Likes: 87 | RTs: 36 | Replies: 25
-[View tweet](https://x.com/HOODdailyTK/status/2113586243368100151)
-
-9. x.com/degengambleh — StonkFun called the better RH-pad copy: 9-fig runners on Solana while RH pads are still hunting first runners.
-Likes: 90 | RTs: 14 | Replies: 10
-[View tweet](https://x.com/degengambleh/status/2113618402892030304)
+8. x.com/YorichiiCrypto — TORCH and PONS sit on nearly the same liquidity ($2.1M vs $2.4M), but TORCH is 15x cheaper MC with 3x the DEX volume.
+Likes: 49 | RTs: 18 | Replies: 13
+[View tweet](https://x.com/YorichiiCrypto/status/2114014791089955103)
