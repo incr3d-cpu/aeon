@@ -1,9 +1,10 @@
-I'll read the heartbeat skill and follow it.`${var}` is empty, so this is the ambient fleet check. I'll load memory, cron state, and the skill schedule first.Cron state is healthy. Next I’ll check open PRs, urgent issues, and the current time so the status page and any notification match the rules.Three Dependabot PRs are still stalled, and that finding was already logged in the last 48 hours, so I will refresh the status page and the log without sending another notification.🟡 WATCH. Three Dependabot PRs are still stalled. Notification skipped (already logged in the last 48 hours). Status page updated.
+The heartbeat skill is the ambient fleet check. I'll read memory, cron state, and the schedule config first.Stalled Dependabot PRs are still the only watch item, and they were already logged in the last 48 hours. I'll refresh the status page and record the run without sending another notification.🟡 WATCH. Three Dependabot PRs are still stalled, and the notification was skipped because the same finding is already in the last 48 hours of logs.
 
-**P0** is clear. No failed, stuck, or chronically failing skills. Heartbeat last succeeded 2026-10-23 12:02 UTC (~23h ago). `fetch-tweets` last succeeded 2026-10-23 20:10 UTC.
+**P1 — stalled PRs** (opened 2026-10-07 18:32 UTC, open 426h, no updates since that day):
+- PR #1 — mcp-server deps
+- PR #2 — dashboard deps
+- PR #3 — webhook wrangler
 
-**P1:** PR #1 (mcp-server deps), PR #2 (dashboard deps), and PR #3 (webhook wrangler) have been open since 2026-10-07 18:32 UTC (~400h) with no updates since that day. GitHub issue #5 (`health: fetch-tweets`) is open and unlabeled, so it is not urgent.
+P0 is clear: no failed, stuck, or chronic skills. Heartbeat last succeeded 2026-10-24 11:04 UTC (25h ago, inside the 36h self-check). No urgent issues. No flagged memory items. Cron skills are inside 2× their interval (`fetch-tweets` succeeded 19h ago; `heartbeat` is on its daily schedule).
 
-**P2 / P3:** No flagged memory items. Cron skills are inside 2× their interval. `autoresearch` and `soul-builder` are on-demand and have not run.
-
-`docs/status.md` is now 🟡 WATCH, updated 2026-10-24 11:03 UTC. Next scheduled run is `fetch-tweets` at 17:00 UTC. No token pulse (no `token-report` article). Logged to `memory/logs/2026-10-24.md`.
+`docs/status.md` is updated (2026-10-25 12:10 UTC). Next scheduled run is `fetch-tweets` at 17:00 UTC. No token report on disk, so the token pulse section is omitted. Logged to `memory/logs/2026-10-25.md`.
