@@ -1,38 +1,38 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-24)*
-_Weekend dump as backdrop — Alpenglow is a press cycle, Base is Mag7 credit plus 200ms, Pump shipped Monad, and privacy is listing Solana tickers while TORCH stays the cheap RH pad._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-25)*
+_Sunday is a house Alpenglow wrap — the live split is FOMO refusing new tokens while Pump adds MegaETH, and Base is the only major DEX book still expanding, on tokenized-stock listings._
 
-*Alpenglow sold as physics*
-1. x.com/solana — House video frames live Alpenglow as a physics limit: the chain is now "limited by the speed of light," not a slot countdown.
-Likes: 669 | RTs: 83 | Replies: 208
-[View tweet](https://x.com/solana/status/2113937292851384328)
+*Alpenglow sold as Sunday wrap*
+1. x.com/solana — Compresses the whole Alpenglow cycle to one number: 150ms finality. Highest-engagement post of the day.
+Likes: 2742 | RTs: 226 | Replies: 468
+[View tweet](https://x.com/solana/status/2114255670510043628)
 
-*Base: Mag7 credit and 200ms*
-2. x.com/base — Mainnet target is 200ms blocks, putting Base on the same latency pitch as Alpenglow's ~150ms.
-Likes: 954 | RTs: 103 | Replies: 185
-[View tweet](https://x.com/base/status/2113623893034303551)
+2. x.com/solana — Weekend wrap pairs Alpenglow with JPM MMFs live, VIDAx doing 2x traditional-exchange volume, and 1.5M tokenized-stock holders.
+Likes: 642 | RTs: 115 | Replies: 227
+[View tweet](https://x.com/solana/status/2114356314893689188)
 
-3. x.com/base — Mag 7 tokenized-stock holders deposited $9.57M on Aave and borrowed $4.08M USDC (3 of 4 new to Aave); Mastercard Agent Pay via x402 is the other house bullet.
-Likes: 478 | RTs: 101 | Replies: 95
-[View tweet](https://x.com/base/status/2113934362760642658)
+*FOMO shuts the faucet; Pump adds MegaETH*
+3. x.com/seyong — FOMO cofounder draws a hard line: too many tokens already, they will not launch more — the app bets on existing communities and social perps.
+Likes: 1659 | RTs: 111 | Replies: 355
+[View tweet](https://x.com/seyong/status/2114167887870980463)
 
-*Pump takes Monad, still extracting*
-4. x.com/Pumpfun — Monad tokens are buyable from a USDC balance inside the Pump app — no bridge, no wallet switch. Third expansion after this week's EVM limits.
-Likes: 425 | RTs: 54 | Replies: 201
-[View tweet](https://x.com/Pumpfun/status/2114024480779485287)
+4. x.com/Pumpfun — MegaETH is live in the Pump app the day after Monad; fourth chain expansion this week.
+Likes: 241 | RTs: 23 | Replies: 146
+[View tweet](https://x.com/Pumpfun/status/2114388007851823320)
 
-5. x.com/solana_sailor — Memecoin mcap is ~1/4 of Jan 2025, but Pump's Sep 2026 fees ($157.7M) beat TRUMP-mania January; October already $138M with a week left.
-Likes: 36 | RTs: 6 | Replies: 9
-[View tweet](https://x.com/solana_sailor/status/2113998549532705160)
+*Base is the only growing DEX book*
+5. x.com/stambouli_o1 — o1 registered another batch of Coinbase stock-token addresses on Base on a Sunday — the listing machine did not take the weekend off.
+Likes: 374 | RTs: 82 | Replies: 40
+[View tweet](https://x.com/stambouli_o1/status/2114386545046085711)
 
-*Privacy lists memes; TORCH is cheap vs PONS*
-6. x.com/veilzk — Six-figure print: $100k+ revenue in 12 days, $15M+ volume, $50k buyback/burn, live on DefiLlama.
-Likes: 128 | RTs: 14 | Replies: 14
-[View tweet](https://x.com/veilzk/status/2113877168199709111)
+6. x.com/1CrypticPoet — Base DEX volume is +9.5% this month; Ethereum -12%, Solana -21%, Robinhood Chain -45%. Only green major book.
+Likes: 78 | RTs: 10 | Replies: 30
+[View tweet](https://x.com/1CrypticPoet/status/2114387120156491988)
 
-7. x.com/NullMaskio — Day-2 of Solana deposits, they are onboarding meme tickers: $USELESS now has a private balance at sol.nullmask.io.
-Likes: 119 | RTs: 28 | Replies: 10
-[View tweet](https://x.com/NullMaskio/status/2113990141215678790)
+*TORCH airdrops; HOOKED burns 7.9%*
+7. x.com/Torchpaddotfun — TORCH beta airdrop is live — first house distribution on the RH pad, not just the burn loop.
+Likes: 128 | RTs: 37 | Replies: 54
+[View tweet](https://x.com/Torchpaddotfun/status/2114313023628185831)
 
-8. x.com/YorichiiCrypto — TORCH and PONS sit on nearly the same liquidity ($2.1M vs $2.4M), but TORCH is 15x cheaper MC with 3x the DEX volume.
-Likes: 49 | RTs: 18 | Replies: 13
-[View tweet](https://x.com/YorichiiCrypto/status/2114014791089955103)
+8. x.com/Hoookedpad — 78.96M HOOKED bought back and burned (7.896% of supply) for 4,282 SOL — Solana hook pad still extracting while RH TORCH starts an airdrop.
+Likes: 206 | RTs: 51 | Replies: 35
+[View tweet](https://x.com/Hoookedpad/status/2114053973909078416)
