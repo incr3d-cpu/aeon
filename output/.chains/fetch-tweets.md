@@ -1,38 +1,37 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-25)*
-_Sunday is a house Alpenglow wrap — the live split is FOMO refusing new tokens while Pump adds MegaETH, and Base is the only major DEX book still expanding, on tokenized-stock listings._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-26)*
+_Monday is a social-trading autopsy — FOMO's #3 got bubble-mapped, Pump listed a KOL coin, and the only new product is Anthropic pre-IPO perps plus NullMask private stocks Thursday._
 
-*Alpenglow sold as Sunday wrap*
-1. x.com/solana — Compresses the whole Alpenglow cycle to one number: 150ms finality. Highest-engagement post of the day.
-Likes: 2742 | RTs: 226 | Replies: 468
-[View tweet](https://x.com/solana/status/2114255670510043628)
+*Social-trading on trial*
+1. x.com/bubblemaps — Opens FOMO's #3 trader Solstice for bundling $STONKINU/$BOP/$QUEEF/$HEV: public wallet −$70k, connected wallets +$270k.
+Likes: 1202 | RTs: 114 | Replies: 208
+[View tweet](https://x.com/bubblemaps/status/2114773390414487697)
 
-2. x.com/solana — Weekend wrap pairs Alpenglow with JPM MMFs live, VIDAx doing 2x traditional-exchange volume, and 1.5M tokenized-stock holders.
-Likes: 642 | RTs: 115 | Replies: 227
-[View tweet](https://x.com/solana/status/2114356314893689188)
+2. x.com/fomo — Ships the next social-perp: Anthropic pre-IPO (ANT) at 10x, the day after the cofounder said they will not launch more tokens.
+Likes: 2165 | RTs: 2 | Replies: 10
+[View tweet](https://x.com/fomo/status/2114786585061548527)
 
-*FOMO shuts the faucet; Pump adds MegaETH*
-3. x.com/seyong — FOMO cofounder draws a hard line: too many tokens already, they will not launch more — the app bets on existing communities and social perps.
-Likes: 1659 | RTs: 111 | Replies: 355
-[View tweet](https://x.com/seyong/status/2114167887870980463)
+3. x.com/Pumpfun — DABAL is live on Pump with a KOL roster (ansem, cupsey, 0xSun) — same day traders hop from FOMO for incentives.
+Likes: 526 | RTs: 42 | Replies: 266
+[View tweet](https://x.com/Pumpfun/status/2114762063000346766)
 
-4. x.com/Pumpfun — MegaETH is live in the Pump app the day after Monad; fourth chain expansion this week.
-Likes: 241 | RTs: 23 | Replies: 146
-[View tweet](https://x.com/Pumpfun/status/2114388007851823320)
+*Privacy is the second half of tokenized stocks*
+4. x.com/NullMaskio — Private Stocks lands Thursday 29 Oct on Robinhood Chain, BNB, Solana and Base — deposit stock tokens, swap in the pool, withdraw to a clean address.
+Likes: 269 | RTs: 65 | Replies: 67
+[View tweet](https://x.com/NullMaskio/status/2114753257272913971)
 
-*Base is the only growing DEX book*
-5. x.com/stambouli_o1 — o1 registered another batch of Coinbase stock-token addresses on Base on a Sunday — the listing machine did not take the weekend off.
-Likes: 374 | RTs: 82 | Replies: 40
-[View tweet](https://x.com/stambouli_o1/status/2114386545046085711)
+5. x.com/MarcellxMarcell — Calls the cycle a privacy cycle and MASK his "comfiest hold until a billion" off NullMask's article.
+Likes: 336 | RTs: 20 | Replies: 47
+[View tweet](https://x.com/MarcellxMarcell/status/2114785583965090230)
 
-6. x.com/1CrypticPoet — Base DEX volume is +9.5% this month; Ethereum -12%, Solana -21%, Robinhood Chain -45%. Only green major book.
-Likes: 78 | RTs: 10 | Replies: 30
-[View tweet](https://x.com/1CrypticPoet/status/2114387120156491988)
+*Base pays the trenches; RH still selling stocks*
+6. x.com/base — Trencher Grant Program: $1k–$5k plus a TG line to the Base team for meme-community leads and Base-culture creators.
+Likes: 903 | RTs: 123 | Replies: 205
+[View tweet](https://x.com/base/status/2114709790471389318)
 
-*TORCH airdrops; HOOKED burns 7.9%*
-7. x.com/Torchpaddotfun — TORCH beta airdrop is live — first house distribution on the RH pad, not just the burn loop.
-Likes: 128 | RTs: 37 | Replies: 54
-[View tweet](https://x.com/Torchpaddotfun/status/2114313023628185831)
+7. x.com/RobinhoodCrypto — House account is still selling the Stock Token roadmap: more chain utility, more app integrations, more to build.
+Likes: 625 | RTs: 63 | Replies: 180
+[View tweet](https://x.com/RobinhoodCrypto/status/2114756024980693058)
 
-8. x.com/Hoookedpad — 78.96M HOOKED bought back and burned (7.896% of supply) for 4,282 SOL — Solana hook pad still extracting while RH TORCH starts an airdrop.
-Likes: 206 | RTs: 51 | Replies: 35
-[View tweet](https://x.com/Hoookedpad/status/2114053973909078416)
+8. x.com/Ondo — USDY takes #1 in tokenized U.S. Treasuries at $2.37B, 19,500 holders across 10+ chains.
+Likes: 230 | RTs: 27 | Replies: 16
+[View tweet](https://x.com/Ondo/status/2114764533680279938)
