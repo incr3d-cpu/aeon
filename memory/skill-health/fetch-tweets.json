@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-26T19:33:08Z",
+  "last_analyzed": "2026-10-27T19:00:08Z",
   "quality_score": 4,
-  "assessment": "Same-day digest checks out against the live posts: real IDs, accurate thread facts, and blunt lowcap framing the desk can use, with a few repost counts already behind the posts.",
+  "assessment": "Desk-usable same-day roundup whose posts, fees, 72.9K traders, Gecko caps, and HOOD $1.44B/$0.56 estimates match live sources; 'fifth chain this week' and the $100M line on the wrong tweet are loose.",
   "flags": [],
-  "avg_score": 3.8,
+  "avg_score": 3.81,
   "history": [
     {
       "date": "2026-10-07",
@@ -124,6 +124,12 @@
       "date": "2026-10-26",
       "score": 4,
       "ts": "2026-10-26T19:33:08Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-27",
+      "score": 4,
+      "ts": "2026-10-27T19:00:08Z",
       "harness": "grok"
     }
   ]

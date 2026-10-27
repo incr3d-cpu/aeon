@@ -1,37 +1,37 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-26)*
-_Monday is a social-trading autopsy — FOMO's #3 got bubble-mapped, Pump listed a KOL coin, and the only new product is Anthropic pre-IPO perps plus NullMask private stocks Thursday._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-27)*
+_Tuesday shipped product on a runner drought — Pumpfun added TON, RH pads landed in the app hours before Q3, and the only fight with teeth was whether 0.05% fees killed $100M coins._
 
-*Social-trading on trial*
-1. x.com/bubblemaps — Opens FOMO's #3 trader Solstice for bundling $STONKINU/$BOP/$QUEEF/$HEV: public wallet −$70k, connected wallets +$270k.
-Likes: 1202 | RTs: 114 | Replies: 208
-[View tweet](https://x.com/bubblemaps/status/2114773390414487697)
+*Pumpfun adds TON, then defends the drought*
+1. x.com/Pumpfun — Fifth chain this week: USDC balance buys TON tokens with no bridge or wallet switch. The pad is becoming a social aggregator.
+Likes: 838 | RTs: 170 | Replies: 306
+[View tweet](https://x.com/Pumpfun/status/2115081816906588530)
 
-2. x.com/fomo — Ships the next social-perp: Anthropic pre-IPO (ANT) at 10x, the day after the cofounder said they will not launch more tokens.
-Likes: 2165 | RTs: 2 | Replies: 10
-[View tweet](https://x.com/fomo/status/2114786585061548527)
+2. x.com/json1444 — Puts Pump's 0.05% post-bond take next to Stonkfun 1% and Pons 0.3%, then admits the business dies if they compress the market into never-bonding lowcaps.
+Likes: 232 | RTs: 22 | Replies: 157
+[View tweet](https://x.com/json1444/status/2115125121383907620)
 
-3. x.com/Pumpfun — DABAL is live on Pump with a KOL roster (ansem, cupsey, 0xSun) — same day traders hop from FOMO for incentives.
-Likes: 526 | RTs: 42 | Replies: 266
-[View tweet](https://x.com/Pumpfun/status/2114762063000346766)
+3. x.com/PumpfunEco — Eight record days, 72.9K daily app traders (~8× in four months) while only three coins have cleared $100M since Sep 2025.
+Likes: 221 | RTs: 22 | Replies: 117
+[View tweet](https://x.com/PumpfunEco/status/2115090606431010823)
 
-*Privacy is the second half of tokenized stocks*
-4. x.com/NullMaskio — Private Stocks lands Thursday 29 Oct on Robinhood Chain, BNB, Solana and Base — deposit stock tokens, swap in the pool, withdraw to a clean address.
-Likes: 269 | RTs: 65 | Replies: 67
-[View tweet](https://x.com/NullMaskio/status/2114753257272913971)
+*RH pads race into the app before Q3*
+4. x.com/longdotxyz — LONG is discoverable inside the Robinhood Crypto Wallet the same afternoon HOOD prints Q3 ($1.44B rev / $0.56 EPS est.).
+Likes: 335 | RTs: 60 | Replies: 46
+[View tweet](https://x.com/longdotxyz/status/2115135702660981083)
 
-5. x.com/MarcellxMarcell — Calls the cycle a privacy cycle and MASK his "comfiest hold until a billion" off NullMask's article.
-Likes: 336 | RTs: 20 | Replies: 47
-[View tweet](https://x.com/MarcellxMarcell/status/2114785583965090230)
+5. x.com/ponsdotfamily — The RH-native launchpad is now launch-and-trade from the Robinhood app itself, not a separate site, on earnings day.
+Likes: 163 | RTs: 25 | Replies: 41
+[View tweet](https://x.com/ponsdotfamily/status/2115148227066417268)
 
-*Base pays the trenches; RH still selling stocks*
-6. x.com/base — Trencher Grant Program: $1k–$5k plus a TG line to the Base team for meme-community leads and Base-culture creators.
-Likes: 903 | RTs: 123 | Replies: 205
-[View tweet](https://x.com/base/status/2114709790471389318)
+6. x.com/GeckoTerminal — Launchpad board: PONS $165M, PUMP $1.9B, TORCH $11M, STONK $100M, LAUNCH $1.8M — RH and Solana pads on the same trending list.
+Likes: 307 | RTs: 49 | Replies: 89
+[View tweet](https://x.com/GeckoTerminal/status/2114801614045462630)
 
-7. x.com/RobinhoodCrypto — House account is still selling the Stock Token roadmap: more chain utility, more app integrations, more to build.
-Likes: 625 | RTs: 63 | Replies: 180
-[View tweet](https://x.com/RobinhoodCrypto/status/2114756024980693058)
+*Tokenized stocks still listing across chains*
+7. x.com/solana — Shinhan's CDO names the pitch: the token supercycle is when every financial instrument is onboarded onchain. House using a bank, not a meme.
+Likes: 248 | RTs: 22 | Replies: 105
+[View tweet](https://x.com/solana/status/2115139535680258265)
 
-8. x.com/Ondo — USDY takes #1 in tokenized U.S. Treasuries at $2.37B, 19,500 holders across 10+ chains.
-Likes: 230 | RTs: 27 | Replies: 16
-[View tweet](https://x.com/Ondo/status/2114764533680279938)
+8. x.com/base — More stock tokens live and liquid ($AAPLc plus two unnamed CAs); the CTA is to pair them and build primitives, not just trade the wrappers.
+Likes: 65 | RTs: 17 | Replies: 33
+[View tweet](https://x.com/base/status/2115150559476891698)
