@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-27T19:00:08Z",
+  "last_analyzed": "2026-10-28T19:39:50Z",
   "quality_score": 4,
-  "assessment": "Desk-usable same-day roundup whose posts, fees, 72.9K traders, Gecko caps, and HOOD $1.44B/$0.56 estimates match live sources; 'fifth chain this week' and the $100M line on the wrong tweet are loose.",
+  "assessment": "Cited posts, IDs, tickers, and counts check out and the product-not-memes frame is useful to the desk, but two glosses go past the tweets and the Base names are not marked first or not-first.",
   "flags": [],
-  "avg_score": 3.81,
+  "avg_score": 3.82,
   "history": [
     {
       "date": "2026-10-07",
@@ -130,6 +130,12 @@
       "date": "2026-10-27",
       "score": 4,
       "ts": "2026-10-27T19:00:08Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-28",
+      "score": 4,
+      "ts": "2026-10-28T19:39:50Z",
       "harness": "grok"
     }
   ]
