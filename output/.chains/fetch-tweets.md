@@ -1,37 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-28)*
-_Wednesday shipped product, not memes — Pumpfun put Hyperliquid perps in the meme app, Robinhood listed 8 more stock tokens the pads paired by close, and Base's $worth 8x'd after a house reply._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-29)*
+_Thursday shipped privacy as a product — NullMask made 11 RH stock tokens private, ZEC pads printed, Base coalesced on $worth, and Solana spent the day arguing Mika's leaked key was staged._
 
-*Pumpfun turns the app into a perp desk*
-1. x.com/Pumpfun — Hyperliquid perps live in the Pumpfun app: long/short crypto, TSLA/NVDA, gold and SPX from the same USDC balance, no bridge.
-Likes: 1271 | RTs: 156 | Replies: 321
-[View tweet](https://x.com/Pumpfun/status/2115447518591103261)
+*Privacy ships: stocks go dark*
+1. x.com/NullMaskio — Private Stocks is live: 11 Robinhood Chain names, deposit/swap/withdraw without a public book. The Oct 26 promise landed on the day.
+Likes: 177 | RTs: 48 | Replies: 35
+[View tweet](https://x.com/NullMaskio/status/2115803589146968499)
 
-2. x.com/a1lon9 — Callout Rewards now pay perp callers the same way token callers already took $24M — followers tail the position, the caller eats nothing if they blow up.
-Likes: 470 | RTs: 32 | Replies: 267
-[View tweet](https://x.com/a1lon9/status/2115447899442045268)
+2. x.com/saplingdotcash — ZEC-native pad claims #1 privacy protocol by 24h revenue after one month: $37.5M traded, 21.8% of $SAPLING burned, $138k paid to holders.
+Likes: 134 | RTs: 49 | Replies: 19
+[View tweet](https://x.com/saplingdotcash/status/2115454536714445224)
 
-3. x.com/Pumpfun — Elysium (Hyperliquid's new L1) is booked day-0 on the Pumpfun app for Nov 9 — the pad is listing chains before they go live.
-Likes: 553 | RTs: 58 | Replies: 161
-[View tweet](https://x.com/Pumpfun/status/2115475981075157293)
+3. x.com/heat — $SAPLING doubled $2.5M → $4.6M in two candles as the ZEC tape pulls a launchpad beta with it.
+Likes: 62 | RTs: 13 | Replies: 21
+[View tweet](https://x.com/heat/status/2115847252375695508)
 
-*Eight new stock tokens, pads pair them same day*
-4. x.com/RobinhoodCrypto — 8 new Stock Tokens live on Robinhood Chain (BMNR, DIS, PYPL, V, GDX, JPM, MCD, UBER) against $2T+ underlying, timed for earnings week, 24/7.
-Likes: 553 | RTs: 68 | Replies: 122
-[View tweet](https://x.com/RobinhoodCrypto/status/2115462521255506252)
+*KOL launch theater*
+4. x.com/Deebs_DeFi — Funding graph links Mika's 2025 first launch to 40 tokens (several named MIKA). The "accidental key" now sits on a serial-launcher pattern.
+Likes: 397 | RTs: 26 | Replies: 161
+[View tweet](https://x.com/Deebs_DeFi/status/2115720873718005897)
 
-5. x.com/Ondo — 15 Ondo stocks/ETFs now bridge ETH/BNB → Robinhood Chain, with 11 Uniswap StablePairs vs the RH wrappers — weekend arb path when RH mint/redeem is closed.
-Likes: 1146 | RTs: 152 | Replies: 97
-[View tweet](https://x.com/Ondo/status/2115104282609336659)
+5. x.com/FabianoSolana — On-chain read: wallet was nonced before the key tweet. Free Mika relaunch is 50% dev with "awful bubblemaps."
+Likes: 581 | RTs: 30 | Replies: 119
+[View tweet](https://x.com/FabianoSolana/status/2115516805691445353)
 
-6. x.com/ponsdotfamily — All 8 names are pairable on Pons hours after the listing — the RH-native pad's launch flow is stock-pair memes, not vanilla.
-Likes: 121 | RTs: 9 | Replies: 23
-[View tweet](https://x.com/ponsdotfamily/status/2115517249616597301)
+*Base coalesces on $worth*
+6. x.com/juliezize — $worth is the Base-native ethos coin (cobie 2024 hard-hat → Armstrong "build the future" → house-account pickaxe reply) vs $basecat as generic mascot. FOMO top-holder confirmation.
+Likes: 31 | RTs: 5 | Replies: 8
+[View tweet](https://x.com/juliezize/status/2115895605793075394)
 
-*Base trenches woke up on earnings day*
-7. x.com/base — MSFT and GOOG wrappers trade 24/7 on Base through tonight's prints — same earnings tape as RH, on a different chain.
-Likes: 143 | RTs: 27 | Replies: 47
-[View tweet](https://x.com/base/status/2115500554973561195)
+7. x.com/WorthOnBase — $WORTH is now an affiliate of o1_exchange / o1_bot. Infra attaching to yesterday's 8x.
+Likes: 83 | RTs: 29 | Replies: 29
+[View tweet](https://x.com/WorthOnBase/status/2115869415850041526)
 
-8. x.com/stanisloou — $worth ran $256k → $2.1m after the Base house account replied Monday; $basecat sits $10.8m with ~25% in Coinbase wallets; $bluechip is NVDA-paired B20.
-Likes: 31 | RTs: 4 | Replies: 2
-[View tweet](https://x.com/stanisloou/status/2115512700084056368)
+*Earnings tokens, pad hits Uniswap*
+8. x.com/Ondo — Five names printing today (INTC, AMZN, SNDK, COIN, MSTR) already trade 24/7 as Ondo Stocks across Solana, BNB and Ethereum.
+Likes: 101 | RTs: 14 | Replies: 7
+[View tweet](https://x.com/Ondo/status/2115880964706726381)
+
+9. x.com/tokenterminal — Coinbase-issued stock tokens on Base hit $4B cumulative DEX volume; Aero took $3.7B of it.
+Likes: 39 | RTs: 7 | Replies: 7
+[View tweet](https://x.com/tokenterminal/status/2115848534918615241)
+
+10. x.com/RebateLaunch — Uniswap routing allowlist on Robinhood Chain: pad tokens (bonus included) trade inside the Uniswap app, not just the pad UI.
+Likes: 40 | RTs: 30 | Replies: 26
+[View tweet](https://x.com/RebateLaunch/status/2115897620199887220)

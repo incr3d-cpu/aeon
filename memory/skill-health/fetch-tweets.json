@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-28T19:39:50Z",
+  "last_analyzed": "2026-10-29T20:39:59Z",
   "quality_score": 4,
-  "assessment": "Cited posts, IDs, tickers, and counts check out and the product-not-memes frame is useful to the desk, but two glosses go past the tweets and the Base names are not marked first or not-first.",
+  "assessment": "Ten linked 28–29 Oct tweets check out (IDs, authors, and engagement match live posts) and the privacy/Mika/Base/RH clusters are usable for the desk, but the unsourced $WORTH “yesterday’s 8x” and FOMO framing skip the blunt first/not-first filter.",
   "flags": [],
-  "avg_score": 3.82,
+  "avg_score": 3.83,
   "history": [
     {
       "date": "2026-10-07",
@@ -136,6 +136,12 @@
       "date": "2026-10-28",
       "score": 4,
       "ts": "2026-10-28T19:39:50Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-29",
+      "score": 4,
+      "ts": "2026-10-29T20:39:59Z",
       "harness": "grok"
     }
   ]
