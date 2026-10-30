@@ -1,46 +1,42 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-29)*
-_Thursday shipped privacy as a product — NullMask made 11 RH stock tokens private, ZEC pads printed, Base coalesced on $worth, and Solana spent the day arguing Mika's leaked key was staged._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-30)*
+_Friday is a hack tape with a privacy bid — Binance lost $6.3B, stables froze half, and the trenches bought NullMask/Veil while Solana minted HKD, Pumpfun added Polygon, and $HI started paying holders in $HYPE._
 
-*Privacy ships: stocks go dark*
-1. x.com/NullMaskio — Private Stocks is live: 11 Robinhood Chain names, deposit/swap/withdraw without a public book. The Oct 26 promise landed on the day.
-Likes: 177 | RTs: 48 | Replies: 35
-[View tweet](https://x.com/NullMaskio/status/2115803589146968499)
+*$6.3B hack is the overlay*
+1. x.com/_RichardTeng — Names the vector: compromised DevOps laptop → service-container withdrawals, no key leak. ~$3B of $6.3B frozen; SAFU + company funds cover; withdrawals paused for a security revamp.
+Likes: 5605 | RTs: 780 | Replies: 690
+[View tweet](https://x.com/_RichardTeng/status/2116072080525656150)
 
-2. x.com/saplingdotcash — ZEC-native pad claims #1 privacy protocol by 24h revenue after one month: $37.5M traded, 21.8% of $SAPLING burned, $138k paid to holders.
-Likes: 134 | RTs: 49 | Replies: 19
-[View tweet](https://x.com/saplingdotcash/status/2115454536714445224)
+2. x.com/wenaltseason — Unfreezable BTC/ETH (~$2.4B) is 2× SAFU (~$1.2B). Tether/Circle/Ripple froze ~$3B; attackers fat-fingered $3.32M into the $NEWT contract (stuck).
+Likes: 84 | RTs: 20 | Replies: 6
+[View tweet](https://x.com/wenaltseason/status/2116173835888165326)
 
-3. x.com/heat — $SAPLING doubled $2.5M → $4.6M in two candles as the ZEC tape pulls a launchpad beta with it.
-Likes: 62 | RTs: 13 | Replies: 21
-[View tweet](https://x.com/heat/status/2115847252375695508)
+*Privacy is the bid*
+3. x.com/NullMaskio — Chain #6: NullMask live on Avalanche the same day as the drain. Deposit/swap/withdraw private, joining ETH, Base, BNB, RH, Solana.
+Likes: 113 | RTs: 26 | Replies: 26
+[View tweet](https://x.com/NullMaskio/status/2116188287920709728)
 
-*KOL launch theater*
-4. x.com/Deebs_DeFi — Funding graph links Mika's 2025 first launch to 40 tokens (several named MIKA). The "accidental key" now sits on a serial-launcher pattern.
-Likes: 397 | RTs: 26 | Replies: 161
-[View tweet](https://x.com/Deebs_DeFi/status/2115720873718005897)
+4. x.com/veilzk — Frames Veil vs Tornado after the Binance hack: balances private, deposits/withdrawals public, viewing keys for proof, 2-of-2 multisig, crime/sanctions blocked.
+Likes: 71 | RTs: 5 | Replies: 2
+[View tweet](https://x.com/veilzk/status/2116200803430203457)
 
-5. x.com/FabianoSolana — On-chain read: wallet was nonced before the key tweet. Free Mika relaunch is 50% dev with "awful bubblemaps."
-Likes: 581 | RTs: 30 | Replies: 119
-[View tweet](https://x.com/FabianoSolana/status/2115516805691445353)
+*Solana ships HKD; Pumpfun adds Polygon; $HI farms HYPE*
+5. x.com/solana — Anchorpoint's HKDAP mints and redeems the Hong Kong dollar stablecoin natively on Solana. First public-network collab; Foundation joins the Tokenised Money programme with PwC.
+Likes: 465 | RTs: 64 | Replies: 139
+[View tweet](https://x.com/solana/status/2116163254942867907)
 
-*Base coalesces on $worth*
-6. x.com/juliezize — $worth is the Base-native ethos coin (cobie 2024 hard-hat → Armstrong "build the future" → house-account pickaxe reply) vs $basecat as generic mascot. FOMO top-holder confirmation.
-Likes: 31 | RTs: 5 | Replies: 8
-[View tweet](https://x.com/juliezize/status/2115895605793075394)
+6. x.com/Pumpfun — Polygon live in the Pumpfun app: any Polygon token from the same USDC balance, no bridge. Sixth chain this week; the pad is aggregating chains.
+Likes: 341 | RTs: 54 | Replies: 102
+[View tweet](https://x.com/Pumpfun/status/2115903378891079775)
 
-7. x.com/WorthOnBase — $WORTH is now an affiliate of o1_exchange / o1_bot. Infra attaching to yesterday's 8x.
-Likes: 83 | RTs: 29 | Replies: 29
-[View tweet](https://x.com/WorthOnBase/status/2115869415850041526)
+7. x.com/PumpfunEco — $HI (Hyper Inu) holders took $50k in $HYPE via Holder Rewards 22h after launch. Pumpfun's Hyperliquid perps leaking yield into a Solana meme.
+Likes: 86 | RTs: 12 | Replies: 16
+[View tweet](https://x.com/PumpfunEco/status/2116202092327276664)
 
-*Earnings tokens, pad hits Uniswap*
-8. x.com/Ondo — Five names printing today (INTC, AMZN, SNDK, COIN, MSTR) already trade 24/7 as Ondo Stocks across Solana, BNB and Ethereum.
-Likes: 101 | RTs: 14 | Replies: 7
-[View tweet](https://x.com/Ondo/status/2115880964706726381)
+*Base $worth gets a Coinbase check; RH pad goes cross-chain*
+8. x.com/WorthOnBase — $worth now shows verified inside Coinbase Wallet after the house reply and o1 affiliate. Base's ethos coin got the CEX-wallet checkmark.
+Likes: 78 | RTs: 18 | Replies: 15
+[View tweet](https://x.com/WorthOnBase/status/2116159035401785458)
 
-9. x.com/tokenterminal — Coinbase-issued stock tokens on Base hit $4B cumulative DEX volume; Aero took $3.7B of it.
-Likes: 39 | RTs: 7 | Replies: 7
-[View tweet](https://x.com/tokenterminal/status/2115848534918615241)
-
-10. x.com/RebateLaunch — Uniswap routing allowlist on Robinhood Chain: pad tokens (bonus included) trade inside the Uniswap app, not just the pad UI.
-Likes: 40 | RTs: 30 | Replies: 26
-[View tweet](https://x.com/RebateLaunch/status/2115897620199887220)
+9. x.com/RebateLaunch — Pad going cross-chain: one $REBATE on Robinhood Chain, every other chain relays revenue back to RH to buy and burn. Chain unnamed, bridge/burn already tested.
+Likes: 94 | RTs: 74 | Replies: 64
+[View tweet](https://x.com/RebateLaunch/status/2116173540110283026)
