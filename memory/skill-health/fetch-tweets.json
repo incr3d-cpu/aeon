@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-30T17:16:54Z",
+  "last_analyzed": "2026-10-31T17:37:01Z",
   "quality_score": 4,
-  "assessment": "Same-day lowcap tape is specific, linked, and matches the live posts and engagement counts, with only light overclaim on HKD already minting and a Coinbase Wallet badge framed as a quality signal.",
+  "assessment": "All ten linked posts check out for 2026-10-31 with faithful figures and near-live engagement, but the digest is a recap rather than a first/not-first lowcap call and slightly compresses Lookonchain (7,500 BTC) into Binance’s 7,499 and Hookr into “leave RH-only.”",
   "flags": [],
-  "avg_score": 3.83,
+  "avg_score": 3.84,
   "history": [
     {
       "date": "2026-10-07",
@@ -148,6 +148,12 @@
       "date": "2026-10-30",
       "score": 4,
       "ts": "2026-10-30T17:16:54Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-10-31",
+      "score": 4,
+      "ts": "2026-10-31T17:37:01Z",
       "harness": "grok"
     }
   ]

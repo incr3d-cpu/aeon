@@ -1,42 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-30)*
-_Friday is a hack tape with a privacy bid — Binance lost $6.3B, stables froze half, and the trenches bought NullMask/Veil while Solana minted HKD, Pumpfun added Polygon, and $HI started paying holders in $HYPE._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-31)*
+_Saturday is a recap tape — Binance restocked 10 majors from its own $6.34B, privacy pads opened points seasons, Pumpfun paid small callers $1.66M while pads took $10M, and Hookr booked Ethereum mainnet._
 
-*$6.3B hack is the overlay*
-1. x.com/_RichardTeng — Names the vector: compromised DevOps laptop → service-container withdrawals, no key leak. ~$3B of $6.3B frozen; SAFU + company funds cover; withdrawals paused for a security revamp.
-Likes: 5605 | RTs: 780 | Replies: 690
-[View tweet](https://x.com/_RichardTeng/status/2116072080525656150)
+*Binance restocks from its own book*
+1. x.com/heyibinance — $6.34B of Binance corporate cash into the User Fund; BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD and ZEC now 100% backed. zk-PoR due Nov 3.
+Likes: 2291 | RTs: 300 | Replies: 391
+[View tweet](https://x.com/heyibinance/status/2116545162818318487)
 
-2. x.com/wenaltseason — Unfreezable BTC/ETH (~$2.4B) is 2× SAFU (~$1.2B). Tether/Circle/Ripple froze ~$3B; attackers fat-fingered $3.32M into the $NEWT contract (stuck).
-Likes: 84 | RTs: 20 | Replies: 6
-[View tweet](https://x.com/wenaltseason/status/2116173835888165326)
+2. x.com/binance — Confirms the 7,499 BTC ($581M) SAFU move Lookonchain flagged an hour earlier; transfer hash published.
+Likes: 1539 | RTs: 219 | Replies: 257
+[View tweet](https://x.com/binance/status/2116564794094559407)
 
-*Privacy is the bid*
-3. x.com/NullMaskio — Chain #6: NullMask live on Avalanche the same day as the drain. Deposit/swap/withdraw private, joining ETH, Base, BNB, RH, Solana.
-Likes: 113 | RTs: 26 | Replies: 26
-[View tweet](https://x.com/NullMaskio/status/2116188287920709728)
+*Privacy pads open the points season*
+3. x.com/saplingdotcash — $500K protocol revenue in 36 days; 90% recycled on-chain: $174.7K ZEC to holders, $124.5K buybacks, $110.2K LP.
+Likes: 96 | RTs: 23 | Replies: 11
+[View tweet](https://x.com/saplingdotcash/status/2116423647179251840)
 
-4. x.com/veilzk — Frames Veil vs Tornado after the Binance hack: balances private, deposits/withdrawals public, viewing keys for proof, 2-of-2 multisig, crime/sanctions blocked.
-Likes: 71 | RTs: 5 | Replies: 2
-[View tweet](https://x.com/veilzk/status/2116200803430203457)
+4. x.com/veilzk — Veil Points Season 1 live: 1 point per $1 shielded per day, 5M $VEIL over 90 days, points stay private.
+Likes: 59 | RTs: 4 | Replies: 3
+[View tweet](https://x.com/veilzk/status/2116560997540626709)
 
-*Solana ships HKD; Pumpfun adds Polygon; $HI farms HYPE*
-5. x.com/solana — Anchorpoint's HKDAP mints and redeems the Hong Kong dollar stablecoin natively on Solana. First public-network collab; Foundation joins the Tokenised Money programme with PwC.
-Likes: 465 | RTs: 64 | Replies: 139
-[View tweet](https://x.com/solana/status/2116163254942867907)
+5. x.com/PumpfunEco — Pumpfun Holder Rewards have paid memecoin holders $500k+ in $XMR.
+Likes: 10 | RTs: 0 | Replies: 4
+[View tweet](https://x.com/PumpfunEco/status/2116583279658750130)
 
-6. x.com/Pumpfun — Polygon live in the Pumpfun app: any Polygon token from the same USDC balance, no bridge. Sixth chain this week; the pad is aggregating chains.
-Likes: 341 | RTs: 54 | Replies: 102
-[View tweet](https://x.com/Pumpfun/status/2115903378891079775)
+*Pads take $10M; small callers take $1.66M*
+6. x.com/FabianoSolana — ~400k tokens launched this week on pumpfun/stonkfun/pons; 2% graduated; 1 coin hit $10M; the pads took $10M in revenue.
+Likes: 33 | RTs: 2 | Replies: 21
+[View tweet](https://x.com/FabianoSolana/status/2116575405842808977)
 
-7. x.com/PumpfunEco — $HI (Hyper Inu) holders took $50k in $HYPE via Holder Rewards 22h after launch. Pumpfun's Hyperliquid perps leaking yield into a Solana meme.
-Likes: 86 | RTs: 12 | Replies: 16
-[View tweet](https://x.com/PumpfunEco/status/2116202092327276664)
+7. x.com/PumpfunEco — October Callout Rewards: $1.66M went to callers with fewer than 1,000 followers.
+Likes: 89 | RTs: 2 | Replies: 42
+[View tweet](https://x.com/PumpfunEco/status/2116558593344299145)
 
-*Base $worth gets a Coinbase check; RH pad goes cross-chain*
-8. x.com/WorthOnBase — $worth now shows verified inside Coinbase Wallet after the house reply and o1 affiliate. Base's ethos coin got the CEX-wallet checkmark.
-Likes: 78 | RTs: 18 | Replies: 15
-[View tweet](https://x.com/WorthOnBase/status/2116159035401785458)
+8. x.com/PumpfunEco — CATEVENGERS is #1 Pumpfun squad; 8 members hold $3.8M of $CATE, +$300K today on a 10% print.
+Likes: 243 | RTs: 89 | Replies: 67
+[View tweet](https://x.com/PumpfunEco/status/2116540272951623811)
 
-9. x.com/RebateLaunch — Pad going cross-chain: one $REBATE on Robinhood Chain, every other chain relays revenue back to RH to buy and burn. Chain unnamed, bridge/burn already tested.
-Likes: 94 | RTs: 74 | Replies: 64
-[View tweet](https://x.com/RebateLaunch/status/2116173540110283026)
+*Hookr goes to ETH; RH pads fight over holders*
+9. x.com/Hookrfun — Hookr + whatthehookv4 to Ethereum mainnet next week; Uniswap v4 hook blocks (arbitrage recapture) leave RH-only.
+Likes: 125 | RTs: 27 | Replies: 12
+[View tweet](https://x.com/Hookrfun/status/2116544322074038642)
+
+10. x.com/RebateLaunch — Positions Rebate as the holder-first pad vs Pons (creator-first); every buy pays a bonus, every fee burns $REBATE.
+Likes: 24 | RTs: 14 | Replies: 15
+[View tweet](https://x.com/RebateLaunch/status/2116579000219017260)
