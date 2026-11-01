@@ -1,46 +1,42 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-10-31)*
-_Saturday is a recap tape — Binance restocked 10 majors from its own $6.34B, privacy pads opened points seasons, Pumpfun paid small callers $1.66M while pads took $10M, and Hookr booked Ethereum mainnet._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-01)*
+_Sunday split four ways — Pumpfun paying 100% of fees to grow the social app, $Anakin running the Star Wars/Gen Z-rage meme, RH pads naming HyperEVM and locking agents in, privacy still burning supply._
 
-*Binance restocks from its own book*
-1. x.com/heyibinance — $6.34B of Binance corporate cash into the User Fund; BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD and ZEC now 100% backed. zk-PoR due Nov 3.
-Likes: 2291 | RTs: 300 | Replies: 391
-[View tweet](https://x.com/heyibinance/status/2116545162818318487)
+*Pumpfun recycles 100% of fees*
+1. x.com/a1lon9 — Frames Pumpfun as a social app that has to out-pay YouTube/TikTok: 6 chains in 6 days + Hyperliquid perps, 50k daily traders (+7x since May), $30M already paid out.
+Likes: 304 | RTs: 34 | Replies: 267
+[View tweet](https://x.com/a1lon9/status/2116972819527659638)
 
-2. x.com/binance — Confirms the 7,499 BTC ($581M) SAFU move Lookonchain flagged an hour earlier; transfer hash published.
-Likes: 1539 | RTs: 219 | Replies: 257
-[View tweet](https://x.com/binance/status/2116564794094559407)
+2. x.com/Pumpfun — 4x referral boost is over; 100% of app revenue still goes out — 37.5% to referrers (1.5x), 62.5% to Callout Rewards and in-app pots. $30M paid to date.
+Likes: 193 | RTs: 19 | Replies: 111
+[View tweet](https://x.com/Pumpfun/status/2116971971569447109)
 
-*Privacy pads open the points season*
-3. x.com/saplingdotcash — $500K protocol revenue in 36 days; 90% recycled on-chain: $174.7K ZEC to holders, $124.5K buybacks, $110.2K LP.
-Likes: 96 | RTs: 23 | Replies: 11
-[View tweet](https://x.com/saplingdotcash/status/2116423647179251840)
+*$Anakin is the cultural runner*
+3. x.com/stitchdegen — $Anakin tagged ~$2.6M on the "Gen Z Male Rage" Anakin meme plus Elon Star Wars clicks; 9.39M $PUMP already paid to holders; treats it as a momentum trade, not a hold.
+Likes: 51 | RTs: 7 | Replies: 28
+[View tweet](https://x.com/stitchdegen/status/2116952942041616539)
 
-4. x.com/veilzk — Veil Points Season 1 live: 1 point per $1 shielded per day, 5M $VEIL over 90 days, points stay private.
-Likes: 59 | RTs: 4 | Replies: 3
-[View tweet](https://x.com/veilzk/status/2116560997540626709)
+4. x.com/PumpfunEco — One trader turned $1,800 at $50k MC into $54,116 (30x) on $Anakin.
+Likes: 46 | RTs: 4 | Replies: 21
+[View tweet](https://x.com/PumpfunEco/status/2116963855641591881)
 
-5. x.com/PumpfunEco — Pumpfun Holder Rewards have paid memecoin holders $500k+ in $XMR.
-Likes: 10 | RTs: 0 | Replies: 4
-[View tweet](https://x.com/PumpfunEco/status/2116583279658750130)
+*RH pads name HyperEVM and lock agents in*
+5. x.com/RebateLaunch — Names the mystery chain: HyperEVM, 2 Nov. One $REBATE stays on Robinhood Chain; Hyper trade fees bridge home to buy and burn.
+Likes: 66 | RTs: 47 | Replies: 45
+[View tweet](https://x.com/RebateLaunch/status/2116961436178206812)
 
-*Pads take $10M; small callers take $1.66M*
-6. x.com/FabianoSolana — ~400k tokens launched this week on pumpfun/stonkfun/pons; 2% graduated; 1 coin hit $10M; the pads took $10M in revenue.
-Likes: 33 | RTs: 2 | Replies: 21
-[View tweet](https://x.com/FabianoSolana/status/2116575405842808977)
+6. x.com/Hookrfun — New Hook Block: Agent Gates. ERC-8004 identity required to buy/sell/LP; optional Priors score for fee discounts. Uniswap v4, Robinhood Chain only.
+Likes: 175 | RTs: 38 | Replies: 84
+[View tweet](https://x.com/Hookrfun/status/2116818581954433057)
 
-7. x.com/PumpfunEco — October Callout Rewards: $1.66M went to callers with fewer than 1,000 followers.
-Likes: 89 | RTs: 2 | Replies: 42
-[View tweet](https://x.com/PumpfunEco/status/2116558593344299145)
+7. x.com/CryptoKaleo — HOOD is ~$77B with ~$1B chain TVL; COIN is ~$38B with Base at ~$6B. Vlad flagged scaling RH Chain on the Q3 call.
+Likes: 45 | RTs: 0 | Replies: 29
+[View tweet](https://x.com/CryptoKaleo/status/2116981884479566033)
 
-8. x.com/PumpfunEco — CATEVENGERS is #1 Pumpfun squad; 8 members hold $3.8M of $CATE, +$300K today on a 10% print.
-Likes: 243 | RTs: 89 | Replies: 67
-[View tweet](https://x.com/PumpfunEco/status/2116540272951623811)
+*Privacy still burns; $worth 10x'd real holders*
+8. x.com/saplingdotcash — 22.12% of $SAPLING is gone (221.17M, $131.4K of buybacks); every trade burns more.
+Likes: 129 | RTs: 38 | Replies: 35
+[View tweet](https://x.com/saplingdotcash/status/2116698141135430049)
 
-*Hookr goes to ETH; RH pads fight over holders*
-9. x.com/Hookrfun — Hookr + whatthehookv4 to Ethereum mainnet next week; Uniswap v4 hook blocks (arbitrage recapture) leave RH-only.
-Likes: 125 | RTs: 27 | Replies: 12
-[View tweet](https://x.com/Hookrfun/status/2116544322074038642)
-
-10. x.com/RebateLaunch — Positions Rebate as the holder-first pad vs Pons (creator-first); every buy pays a bonus, every fee burns $REBATE.
-Likes: 24 | RTs: 14 | Replies: 15
-[View tweet](https://x.com/RebateLaunch/status/2116579000219017260)
+9. x.com/stanisloou — Replayed 5.28M transfers: $worth real holders 84 → 779 in ten days; $1k+ wallets 36 → 197. $basecat is biggest (5,150), $bluechip is at ATH holders (8,759).
+Likes: 49 | RTs: 11 | Replies: 9
+[View tweet](https://x.com/stanisloou/status/2116844370607452184)

@@ -1,10 +1,10 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-10-31T17:37:01Z",
+  "last_analyzed": "2026-11-01T20:41:38Z",
   "quality_score": 4,
-  "assessment": "All ten linked posts check out for 2026-10-31 with faithful figures and near-live engagement, but the digest is a recap rather than a first/not-first lowcap call and slightly compresses Lookonchain (7,500 BTC) into Binance’s 7,499 and Hookr into “leave RH-only.”",
+  "assessment": "Same-day four-theme digest checks out: all nine tweet links, accounts, and figures match the live posts, and the framing is specific enough for the desk to use.",
   "flags": [],
-  "avg_score": 3.84,
+  "avg_score": 3.85,
   "history": [
     {
       "date": "2026-10-07",
@@ -154,6 +154,12 @@
       "date": "2026-10-31",
       "score": 4,
       "ts": "2026-10-31T17:37:01Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-01",
+      "score": 4,
+      "ts": "2026-11-01T20:41:38Z",
       "harness": "grok"
     }
   ]
