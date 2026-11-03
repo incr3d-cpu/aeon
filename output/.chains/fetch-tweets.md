@@ -1,46 +1,41 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-02)*
-_Monday split four ways — Pumpfun is a perp desk (Ansem's $1.74M SOL short, a named squad, $500M $PUMP burned), RH/Solana pads print holder-weight and a rising floor, tokenized OpenAI notes opened, and NullMask shipped private pay._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-03)*
+_Tuesday split three ways — Pumpfun is paying six figures a day through the dump and crossed $500M burned, agents took the pad (Grok bots as devs, $FOREVER voting a 10% burn), and jesse flagged stocks on Base for Thursday._
 
-*Pumpfun is a perp desk now*
-1. x.com/PumpfunEco — Ansem doubled the largest SOL short on the house app to $1.74M at 10x; Pumpfun is pushing live alerts on every fill.
-Likes: 463 | RTs: 22 | Replies: 102
-[View tweet](https://x.com/PumpfunEco/status/2117230250018873751)
+*Pumpfun is paying the dip*
+1. x.com/a1lon9 — App still prints multiple six figures a day to callers and referrers; Rewards were built to keep traders in this tape.
+Likes: 1040 | RTs: 84 | Replies: 653
+[View tweet](https://x.com/a1lon9/status/2117355292422009113)
 
-2. x.com/Pumpfun — House launched Drillers as a followable squad on the app, a trading desk, not a token.
-Likes: 269 | RTs: 27 | Replies: 171
-[View tweet](https://x.com/Pumpfun/status/2117315609717584279)
+2. x.com/PumpfunEco — House crossed $500M in $PUMP buybacks and burns; yesterday's print was $499.8M.
+Likes: 163 | RTs: 23 | Replies: 69
+[View tweet](https://x.com/PumpfunEco/status/2117601189453832454)
 
-3. x.com/PumpfunEco — $5.02M of $PUMP burned in 7 days; cumulative $499.8M, 30.5% of circulating — buybacks are at the half-billion mark.
-Likes: 47 | RTs: 4 | Replies: 24
-[View tweet](https://x.com/PumpfunEco/status/2117297257527873562)
+3. x.com/PumpfunEco — A $BTC ticker did $6.4M on a $7.9M cap, topping the 24h board; $Anakin still #2 at $3.6M, $Dacity #3.
+Likes: 96 | RTs: 20 | Replies: 50
+[View tweet](https://x.com/PumpfunEco/status/2117616333596598635)
 
-*Pads ship floors, weight, agent gates*
-4. x.com/RebateLaunch — Launch buyers who never sold hit 2x holder-payout weight tomorrow 17:00 UTC (day 7); flippers stay at 1x. HyperEVM pad was dated for today.
-Likes: 78 | RTs: 47 | Replies: 43
-[View tweet](https://x.com/RebateLaunch/status/2117228912875094515)
+*Agents took the launchpad*
+4. x.com/Grokiefun — First pad where a Grok bot is the dev: it launches and runs the coin on Pumpfun. Whitelist open, no official token.
+Likes: 113 | RTs: 70 | Replies: 84
+[View tweet](https://x.com/Grokiefun/status/2117650108192108856)
 
-5. x.com/WhaleInsider — FOBO (RH rising-floor pad) audited 0 critical / 0 medium; floor is built to cover a full-market sell of every token.
-Likes: 69 | RTs: 13 | Replies: 16
-[View tweet](https://x.com/WhaleInsider/status/2117344165759766905)
+5. x.com/forevercultfund — First mandate is live: $FOREVER holders vote on competing agent proposals to burn up to 10% of supply (~$550k).
+Likes: 119 | RTs: 16 | Replies: 120
+[View tweet](https://x.com/forevercultfund/status/2117633033235026063)
 
-6. x.com/Hoookedpad — Solana Agent Gate: SAID/Metaplex/8004 identity required to buy, send, or LP — same agent-only idea as yesterday's Hookr RH block, now on SOL transfer hooks.
-Likes: 98 | RTs: 26 | Replies: 15
-[View tweet](https://x.com/Hoookedpad/status/2117047945501565283)
+6. x.com/whatthehookv4 — Agents with different risk tolerances will run the arb-recapture hook and raise against future LP rewards via Hookr revenue tokens.
+Likes: 63 | RTs: 11 | Replies: 23
+[View tweet](https://x.com/whatthehookv4/status/2117630746747695468)
 
-*Pre-IPO notes vs stock-token pushback*
-7. x.com/Ondo — OpenAI Private Market Notes (OPAIPon) open for non-US Private Clients; subscriptions close in two weeks.
-Likes: 172 | RTs: 21 | Replies: 13
-[View tweet](https://x.com/Ondo/status/2117321332677345353)
+*CASHCAT holds nine figures; HyperEVM pad live; Base teases stocks*
+7. x.com/DogeSpaceXX — Calls $CASHCAT the only 1B candidate on RH; holders still rising and the chain now holds 21% of supply.
+Likes: 133 | RTs: 27 | Replies: 44
+[View tweet](https://x.com/DogeSpaceXX/status/2117608193429790801)
 
-8. x.com/CoinDesk — Nvidia, Costco, Nike and Micron join 50 firms objecting to OKXICE tokenized-stock listings.
-Likes: 32 | RTs: 5 | Replies: 23
-[View tweet](https://x.com/CoinDesk/status/2117318665788162240)
+8. x.com/RebateLaunch — Rebate Pad is live on HyperEVM: bonus tokens on every buy, holder payouts in $HYPE, fees still burn $REBATE on Robinhood Chain.
+Likes: 46 | RTs: 19 | Replies: 15
+[View tweet](https://x.com/RebateLaunch/status/2117518848425672826)
 
-*Privacy ships Pay and keeps burning*
-9. x.com/NullMaskio — NullMask Pay is live: send a link, get paid into a private balance — no sender, recipient, or amount on-chain.
-Likes: 194 | RTs: 49 | Replies: 32
-[View tweet](https://x.com/NullMaskio/status/2117245047561461793)
-
-10. x.com/NullMaskio — Buyback #9: $42K protocol fees, 100% used to buy back and burn $MASK.
-Likes: 93 | RTs: 17 | Replies: 23
-[View tweet](https://x.com/NullMaskio/status/2117287089293410785)
+9. x.com/jessepollak — Two Base launches Thursday: denim, and stocks. The blank is the tell.
+Likes: 37 | RTs: 5 | Replies: 20
+[View tweet](https://x.com/jessepollak/status/2117667006329794965)

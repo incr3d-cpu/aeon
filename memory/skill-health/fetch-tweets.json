@@ -1,10 +1,12 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-02T20:20:10Z",
-  "quality_score": 4,
-  "assessment": "Same-day lowcap roundup checks out against real posts and links, grouped into desk-relevant narratives, with engagement close to live counts and little blunt first-versus-skip filtering.",
-  "flags": [],
-  "avg_score": 3.85,
+  "last_analyzed": "2026-11-03T17:24:59Z",
+  "quality_score": 2,
+  "assessment": "Links, IDs, and most stats match live posts, but the digest invents a $499.8M prior-day Pump burn print the cited card does not show ($500.36M total).",
+  "flags": [
+    "unverifiable_claim"
+  ],
+  "avg_score": 3.79,
   "history": [
     {
       "date": "2026-10-07",
@@ -166,6 +168,12 @@
       "date": "2026-11-02",
       "score": 4,
       "ts": "2026-11-02T20:20:10Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-03",
+      "score": 2,
+      "ts": "2026-11-03T17:24:59Z",
       "harness": "grok"
     }
   ]
