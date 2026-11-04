@@ -1,11 +1,9 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-03T17:24:59Z",
-  "quality_score": 2,
-  "assessment": "Links, IDs, and most stats match live posts, but the digest invents a $499.8M prior-day Pump burn print the cited card does not show ($500.36M total).",
-  "flags": [
-    "unverifiable_claim"
-  ],
+  "last_analyzed": "2026-11-04T17:33:55Z",
+  "quality_score": 4,
+  "assessment": "Nine linked tweets match live posts and engagement counts; the digest is specific and desk-usable, and it still includes thin same-day pad launches without a first/not-first call.",
+  "flags": [],
   "avg_score": 3.79,
   "history": [
     {
@@ -174,6 +172,12 @@
       "date": "2026-11-03",
       "score": 2,
       "ts": "2026-11-03T17:24:59Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-04",
+      "score": 4,
+      "ts": "2026-11-04T17:33:55Z",
       "harness": "grok"
     }
   ]
