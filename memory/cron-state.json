@@ -20,14 +20,14 @@
     "last_quality_score": 4
   },
   "heartbeat": {
-    "last_status": "success",
+    "last_status": "dispatched",
     "last_success": "2026-11-03T09:42:14Z",
     "total_runs": 29,
     "total_successes": 29,
     "total_failures": 0,
     "consecutive_failures": 0,
     "success_rate": 1,
-    "last_dispatch": "2026-11-03T09:38:56Z"
+    "last_dispatch": "2026-11-04T09:35:56Z"
   },
   "fetch-tweets": {
     "last_dispatch": "2026-11-03T17:18:38Z",
