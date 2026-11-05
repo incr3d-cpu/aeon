@@ -1,42 +1,42 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-04)*
-_Wednesday split four ways — Pumpfun's board is $BTC/$AMD tickers and Ansem's $1.7M SOL short is closed for a scratch, tokenized stocks went live as Aave/Morpho collateral, agent pads burned another 10%, and Schroders put a $1.1T EM-debt fund on Solana._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-05)*
+_Thursday is a stocks tape: Solana's $657M Monday print (91% Backpack), jesse pitching 70% cheaper Base longs as Denim hits 18:00 UTC, Pumpfun adding AVAX, and v4 hooks jumping to Arbitrum._
 
-*Pumpfun's board is $BTC and $AMD*
-1. x.com/PumpfunEco — Ansem closed the $1.7M 10x SOL short the house had been broadcasting; PnL is a $10.8K loss.
-Likes: 460 | RTs: 24 | Replies: 114
-[View tweet](https://x.com/PumpfunEco/status/2118003285869359128)
+*Tokenized stocks set the tape*
+1. x.com/solana — Monday's $657M tokenized-stock print was more than double any day since September — 91% of it ran through one venue, Backpack.
+Likes: 1306 | RTs: 193 | Replies: 238
+[View tweet](https://x.com/solana/status/2117867985763434940)
 
-2. x.com/PumpfunEco — 24h house volume is stock tickers: $BTC $19M, $AMD $16M, then $CHOO $6.1M, $CATE $2.8M, $ANSEM $2.4M. Weekend cultural runners are off the top of the tape.
-Likes: 118 | RTs: 31 | Replies: 64
-[View tweet](https://x.com/PumpfunEco/status/2117962831312441647)
+2. x.com/jessepollak — PendleLoop longs on Base stock tokens print ~70% cheaper than Hyperliquid on 1Y data — Thursday's stocks pitch is a cost edge.
+Likes: 79 | RTs: 4 | Replies: 32
+[View tweet](https://x.com/jessepollak/status/2118361612184940948)
 
-*Tokenized stocks became collateral*
-3. x.com/RobinhoodCrypto — Official print: $1.07B TVL, $120.46B cumulative DEX, fastest chain to $100B Uniswap volume (125 days). Morpho now takes RH Stock Tokens as borrow collateral; $1.8M Open House grants with Cohort 2 applications open to Dec 6.
-Likes: 1241 | RTs: 215 | Replies: 368
-[View tweet](https://x.com/RobinhoodCrypto/status/2117709284108579041)
+3. x.com/jessepollak — Claude can now borrow against Coinbase NVDA/AAPL/TSLA on Aave V4 and spend it in one tx — stocks-as-collateral went agent-native.
+Likes: 139 | RTs: 13 | Replies: 34
+[View tweet](https://x.com/jessepollak/status/2117768796312346646)
 
-4. x.com/aave — SpaceX tokenized stock (SPCXc, Coinbase issuance) is live as USDC-borrow collateral on Base Aave V4. Non-US only.
-Likes: 170 | RTs: 19 | Replies: 25
-[View tweet](https://x.com/aave/status/2117999538568822931)
+*Pumpfun keeps eating chains*
+4. x.com/Pumpfun — Avalanche tokens are live in the app from the same USDC balance, no bridge — another chain on a ~daily add cadence.
+Likes: 700 | RTs: 166 | Replies: 214
+[View tweet](https://x.com/Pumpfun/status/2118073264648110306)
 
-5. x.com/RebateLaunch — Pad added $AMD, $TTWO (GTA VI publisher) and $MSTR as quote assets on Robinhood Chain. Buyers get bonus tokens; holders are paid in that same stock token.
-Likes: 22 | RTs: 4 | Replies: 7
-[View tweet](https://x.com/RebateLaunch/status/2118024988108485100)
+5. x.com/slingoorio — A $BTC ticker paid him 0.22% of supply (~$44K) in buybacks; he recycled $35K of Pumpfun callout fees back into the eco.
+Likes: 184 | RTs: 28 | Replies: 73
+[View tweet](https://x.com/slingoorio/status/2118090967009898744)
 
-*Agent pads burn 20% and pair pre-IPO*
-6. x.com/forevercultfund — Second autonomous mandate closed another 10% of $FOREVER; 20% of supply is gone. Next window: any agent can propose and compete to allocate real capital.
-Likes: 136 | RTs: 24 | Replies: 58
-[View tweet](https://x.com/forevercultfund/status/2117993986128519261)
+*V4 hooks landed on Arbitrum*
+6. x.com/Hookrfun — Hook Blocks (40+ rules, WTH arb recapture, Exit Clock, King of the Pool) are live on Arbitrum Uniswap v4.
+Likes: 139 | RTs: 28 | Replies: 11
+[View tweet](https://x.com/Hookrfun/status/2118063887337636276)
 
-7. x.com/Volitionxyz — Solana AI pad is live: every coin ships with an agent; pair up to 5 assets including OpenAI/Anthropic/SpaceX. Fees split 40% burn / 30% pair-asset airdrop every 6h / 30% agent trading. Agent cannot withdraw.
-Likes: 21 | RTs: 1 | Replies: 14
-[View tweet](https://x.com/Volitionxyz/status/2118026179718328822)
+7. x.com/whatthehookv4 — Arb recapture is now a layer on Arbitrum for pads, LPs, aggregators and AMMs; Arbitrum replied "we love the hooks."
+Likes: 104 | RTs: 16 | Replies: 20
+[View tweet](https://x.com/whatthehookv4/status/2118055741621776393)
 
-*Schroders lands; terminal clock at day 58*
-8. x.com/solana — Schroders ($1.1T AUM) is bringing its first onchain fund to Solana via Centrifuge: an actively-run emerging-markets government and corporate debt book, not another T-bill wrapper.
-Likes: 577 | RTs: 95 | Replies: 152
-[View tweet](https://x.com/solana/status/2117971729729622521)
+*RH yield vs Breakpoint rotation*
+8. x.com/WallStreetAlfa — Calls RH charts bottomed and puts Solana coins next into Breakpoint.
+Likes: 64 | RTs: 8 | Replies: 2
+[View tweet](https://x.com/WallStreetAlfa/status/2118021512917561459)
 
-9. x.com/Adam_Tehc — Fifth −90% drawdown for onchain trading terminals is at day 58; historical peak-to-bottom averages ~45 days, longest was 61 (March 2025). If the pattern holds, volume is due back.
-Likes: 481 | RTs: 39 | Replies: 43
-[View tweet](https://x.com/Adam_Tehc/status/2117961335380246672)
+9. x.com/Leo_retardio — Perma-staked $slvr on Robinhood Chain paying ~340% APY in native ETH; $10/day now, $100–200/day if SLVR hits $10M.
+Likes: 21 | RTs: 6 | Replies: 5
+[View tweet](https://x.com/Leo_retardio/status/2118019829152063699)
