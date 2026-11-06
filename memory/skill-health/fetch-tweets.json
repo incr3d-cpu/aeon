@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-05T17:50:22Z",
+  "last_analyzed": "2026-11-06T17:16:47Z",
   "quality_score": 4,
-  "assessment": "Sourced Nov 5 tape with real tweet links and figures that check out, structured and useful, with light paraphrase stretch and little of the desk's lowcap first/not-first filter.",
+  "assessment": "Substantive same-day desk brief: Denim, the 76,111 SOL Kraken deposit, the 49k/91% launch stat, and the JTX/Breakpoint posts match live sources and links, with the FOMO $414.9M ATH real but blended into the wrong tweet.",
   "flags": [],
   "avg_score": 3.8,
   "history": [
-    {
-      "date": "2026-10-07",
-      "score": 4,
-      "ts": "2026-10-07T23:21:22Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-08",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-05",
       "score": 4,
       "ts": "2026-11-05T17:50:22Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-06",
+      "score": 4,
+      "ts": "2026-11-06T17:16:47Z",
       "harness": "grok"
     }
   ]

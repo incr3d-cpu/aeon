@@ -1,42 +1,33 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-05)*
-_Thursday is a stocks tape: Solana's $657M Monday print (91% Backpack), jesse pitching 70% cheaper Base longs as Denim hits 18:00 UTC, Pumpfun adding AVAX, and v4 hooks jumping to Arbitrum._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-06)*
+_Friday is rails vs the house — Base Denim is live at 200ms, JTX is quoting Backpack/Ondo stocks into Breakpoint, and Pumpfun sent another $6.85M SOL to Kraken while 91% of yesterday's 49k launches died in hour two._
 
-*Tokenized stocks set the tape*
-1. x.com/solana — Monday's $657M tokenized-stock print was more than double any day since September — 91% of it ran through one venue, Backpack.
-Likes: 1306 | RTs: 193 | Replies: 238
-[View tweet](https://x.com/solana/status/2117867985763434940)
+*Base Denim is live — 200ms native blocks*
+1. x.com/base — Native 200ms blocks replaced Flashblocks; B20 now lets issuers force transfers through a transfer agent — stock-token rails, not a speed meme.
+Likes: 838 | RTs: 144 | Replies: 177
+[View tweet](https://x.com/base/status/2118433679202791587)
 
-2. x.com/jessepollak — PendleLoop longs on Base stock tokens print ~70% cheaper than Hyperliquid on 1Y data — Thursday's stocks pitch is a cost edge.
-Likes: 79 | RTs: 4 | Replies: 32
-[View tweet](https://x.com/jessepollak/status/2118361612184940948)
+2. x.com/hryhorii77 — Builder checked basescan block 53560475: blocks printing every 0.2s, swaps and LP already feel instant.
+Likes: 27 | RTs: 4 | Replies: 9
+[View tweet](https://x.com/hryhorii77/status/2118408483829842305)
 
-3. x.com/jessepollak — Claude can now borrow against Coinbase NVDA/AAPL/TSLA on Aave V4 and spend it in one tx — stocks-as-collateral went agent-native.
-Likes: 139 | RTs: 13 | Replies: 34
-[View tweet](https://x.com/jessepollak/status/2117768796312346646)
+*Pumpfun treasury sells, factory prints dead coins*
+3. x.com/lookonchain — Another 76,111 SOL ($6.85M) hit Kraken; lifetime sold 5.55M SOL / $882.4M at $158.88 avg vs ~$90 spot.
+Likes: 392 | RTs: 29 | Replies: 104
+[View tweet](https://x.com/lookonchain/status/2118657746946138292)
 
-*Pumpfun keeps eating chains*
-4. x.com/Pumpfun — Avalanche tokens are live in the app from the same USDC balance, no bridge — another chain on a ~daily add cadence.
-Likes: 700 | RTs: 166 | Replies: 214
-[View tweet](https://x.com/Pumpfun/status/2118073264648110306)
+4. x.com/uncnooman — Pumpfun Hyperliquid-builder perps vol 6.5→30.8M in 4 days; FOMO perps printed a $414.9M ATH in the same window.
+Likes: 21 | RTs: 1 | Replies: 7
+[View tweet](https://x.com/uncnooman/status/2118255055891574804)
 
-5. x.com/slingoorio — A $BTC ticker paid him 0.22% of supply (~$44K) in buybacks; he recycled $35K of Pumpfun callout fees back into the eco.
-Likes: 184 | RTs: 28 | Replies: 73
-[View tweet](https://x.com/slingoorio/status/2118090967009898744)
+5. x.com/Ging1y — 49k pump.fun launches yesterday, 91% had zero second-hour trades — factory is on, tape is dead.
+Likes: 5 | RTs: 0 | Replies: 6
+[View tweet](https://x.com/Ging1y/status/2118302298329784325)
 
-*V4 hooks landed on Arbitrum*
-6. x.com/Hookrfun — Hook Blocks (40+ rules, WTH arb recapture, Exit Clock, King of the Pool) are live on Arbitrum Uniswap v4.
-Likes: 139 | RTs: 28 | Replies: 11
-[View tweet](https://x.com/Hookrfun/status/2118063887337636276)
+*Tokenized stocks into JTX, Breakpoint agenda dropped*
+6. x.com/solana — Breakpoint agenda is live 10 days out: Day 1 'boomer' assets, Day 2 'zoomer' (consumers, founders, payments, institutions).
+Likes: 422 | RTs: 50 | Replies: 125
+[View tweet](https://x.com/solana/status/2118378165470978233)
 
-7. x.com/whatthehookv4 — Arb recapture is now a layer on Arbitrum for pads, LPs, aggregators and AMMs; Arbitrum replied "we love the hooks."
-Likes: 104 | RTs: 16 | Replies: 20
-[View tweet](https://x.com/whatthehookv4/status/2118055741621776393)
-
-*RH yield vs Breakpoint rotation*
-8. x.com/WallStreetAlfa — Calls RH charts bottomed and puts Solana coins next into Breakpoint.
-Likes: 64 | RTs: 8 | Replies: 2
-[View tweet](https://x.com/WallStreetAlfa/status/2118021512917561459)
-
-9. x.com/Leo_retardio — Perma-staked $slvr on Robinhood Chain paying ~340% APY in native ETH; $10/day now, $100–200/day if SLVR hits $10M.
-Likes: 21 | RTs: 6 | Replies: 5
-[View tweet](https://x.com/Leo_retardio/status/2118019829152063699)
+7. x.com/jtx_trade — Jito terminal now RFQs Backpack + Ondo tokenized US/intl equities — stocks sit in a Solana trading terminal with issuer quotes.
+Likes: 234 | RTs: 48 | Replies: 43
+[View tweet](https://x.com/jtx_trade/status/2118387870155346291)
