@@ -1,33 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-06)*
-_Friday is rails vs the house — Base Denim is live at 200ms, JTX is quoting Backpack/Ondo stocks into Breakpoint, and Pumpfun sent another $6.85M SOL to Kraken while 91% of yesterday's 49k launches died in hour two._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-07)*
+_Weekend tape is stocks-as-rails: Base stays open at a $144M ATH, Solana wants every brokerage ticker, ETH whales buy the dump while a book shorts $18M SOL, and Elysium is the next pad._
 
-*Base Denim is live — 200ms native blocks*
-1. x.com/base — Native 200ms blocks replaced Flashblocks; B20 now lets issuers force transfers through a transfer agent — stock-token rails, not a speed meme.
-Likes: 838 | RTs: 144 | Replies: 177
-[View tweet](https://x.com/base/status/2118433679202791587)
+*Weekend stocks stay open*
+1. x.com/base — Bankr agents now trade Coinbase crypto, stocks, and futures from one chat — the weekend product is an agent desk, not a speed meme.
+Likes: 433 | RTs: 70 | Replies: 81
+[View tweet](https://x.com/base/status/2118819694220296594)
 
-2. x.com/hryhorii77 — Builder checked basescan block 53560475: blocks printing every 0.2s, swaps and LP already feel instant.
-Likes: 27 | RTs: 4 | Replies: 9
-[View tweet](https://x.com/hryhorii77/status/2118408483829842305)
+2. x.com/base — Four-word weekend pitch: NASDAQ closed, Base open. 24/7 tokenized stocks is the slogan.
+Likes: 270 | RTs: 40 | Replies: 67
+[View tweet](https://x.com/base/status/2119107964363588037)
 
-*Pumpfun treasury sells, factory prints dead coins*
-3. x.com/lookonchain — Another 76,111 SOL ($6.85M) hit Kraken; lifetime sold 5.55M SOL / $882.4M at $158.88 avg vs ~$90 spot.
-Likes: 392 | RTs: 29 | Replies: 104
-[View tweet](https://x.com/lookonchain/status/2118657746946138292)
+3. x.com/base — Denim recap: tokenized-stock daily volume $144M ATH, 31% of Coinbase names already in Aave, Stock Maxxing $100K live.
+Likes: 216 | RTs: 43 | Replies: 55
+[View tweet](https://x.com/base/status/2118999967213732104)
 
-4. x.com/uncnooman — Pumpfun Hyperliquid-builder perps vol 6.5→30.8M in 4 days; FOMO perps printed a $414.9M ATH in the same window.
-Likes: 21 | RTs: 1 | Replies: 7
-[View tweet](https://x.com/uncnooman/status/2118255055891574804)
+*Solana wants the whole brokerage*
+4. x.com/solana — Roundup stacks consumer + book: Samsung Wallet USDC on Galaxy, Schroders EM bond fund, JTX RFQ across 1,650 stocks, Securitize lineup at 25.
+Likes: 270 | RTs: 38 | Replies: 88
+[View tweet](https://x.com/solana/status/2119052509214101753)
 
-5. x.com/Ging1y — 49k pump.fun launches yesterday, 91% had zero second-hour trades — factory is on, tape is dead.
-Likes: 5 | RTs: 0 | Replies: 6
-[View tweet](https://x.com/Ging1y/status/2118302298329784325)
+5. x.com/solana — Backpack CEO: the goal is every brokerage symbol — Japan, Hong Kong, Korea — in a self-custodial wallet, not a US ticker list.
+Likes: 205 | RTs: 35 | Replies: 83
+[View tweet](https://x.com/solana/status/2119112644325965973)
 
-*Tokenized stocks into JTX, Breakpoint agenda dropped*
-6. x.com/solana — Breakpoint agenda is live 10 days out: Day 1 'boomer' assets, Day 2 'zoomer' (consumers, founders, payments, institutions).
-Likes: 422 | RTs: 50 | Replies: 125
-[View tweet](https://x.com/solana/status/2118378165470978233)
+*ETH whales buy the dump; SOL gets an $18M short*
+6. x.com/lookonchain — 0x32c6 spent $19.7M USDT for 8,773 ETH at $2,245; fresh wallet 0x4AB7 pulled 9,777 ETH ($22.5M) off Binance in 5 days.
+Likes: 496 | RTs: 32 | Replies: 75
+[View tweet](https://x.com/lookonchain/status/2118892114780225627)
 
-7. x.com/jtx_trade — Jito terminal now RFQs Backpack + Ondo tokenized US/intl equities — stocks sit in a Solana trading terminal with issuer quotes.
-Likes: 234 | RTs: 48 | Replies: 43
-[View tweet](https://x.com/jtx_trade/status/2118387870155346291)
+7. x.com/MaxCrypto — Same window a book opened $17.9M SOL short plus ZEC/HYPE/PUMP/SUI — alts are the short, ETH is the bid.
+Likes: 76 | RTs: 14 | Replies: 16
+[View tweet](https://x.com/MaxCrypto/status/2119129317267709980)
+
+*Pad rotation — callouts wired to fills, Elysium tomorrow*
+8. x.com/Pumpfun — Callouts now post atomically with the buy so callers cannot print a better fill than they took.
+Likes: 654 | RTs: 80 | Replies: 279
+[View tweet](https://x.com/Pumpfun/status/2118773994522624338)
+
+9. x.com/Enter_Elysium — CoinGecko indexes every market, wallet, and block from launch day — Hyperliquid L2 ships with market-data rails already plugged.
+Likes: 244 | RTs: 15 | Replies: 103
+[View tweet](https://x.com/Enter_Elysium/status/2119089576623120511)
+
+10. x.com/Hookrfun — Agent Gates add min age (up to 30d) on the ERC-8004 link so Robinhood agent-only pools are not instant-sybil.
+Likes: 152 | RTs: 22 | Replies: 23
+[View tweet](https://x.com/Hookrfun/status/2118690768332218516)
