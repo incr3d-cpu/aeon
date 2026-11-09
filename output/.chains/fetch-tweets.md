@@ -1,46 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-08)*
-_Sunday tape is a SoV rewrite plus a pad rotation — Vitalik parks ETH as store-of-value, Fidelity stamps Solana as market infra, and the trenches are leaving Robinhood for Elysium while CLAUDIA stalls on an Elon QRT._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-09)*
+_Pad rotation plus a venue war — Elysium opened with Pumpfun and fomo on day one, NYSE chose Avalanche while Solana filed Formation, and ETH whales bought Vitalik's SoV dip._
 
-*Vitalik parks ETH as SoV*
-1. x.com/VitalikButerin — Drops the ultrasound/fee-burn valuation: keep EIP-1559, but don't mourn if burn stays under 10% of issuance; SoV is the product because CROPS = stability in an AI era.
-Likes: 4119 | RTs: 697 | Replies: 567
-[View tweet](https://x.com/VitalikButerin/status/2119401255919604064)
+*Elysium opens, Solana apps rotate*
+1. x.com/Enter_Elysium — Mainnet is live: Hyperliquid L2, 100ms blocks, HYPE gas. 2.4M views. Yesterday's "tomorrow" is today.
+Likes: 4463 | RTs: 687 | Replies: 859
+[View tweet](https://x.com/Enter_Elysium/status/2119777337952841977)
 
-2. x.com/danheld — Reads the SoV post as ETH copying Bitcoin's narrative after the L2 / world-computer / ultrasound stories failed.
-Likes: 188 | RTs: 6 | Replies: 34
-[View tweet](https://x.com/danheld/status/2119454089709023567)
+2. x.com/Pumpfun — Day-one distribution: every Elysium launchpad, project, and protocol is tradable inside the Solana incumbent app.
+Likes: 659 | RTs: 93 | Replies: 223
+[View tweet](https://x.com/Pumpfun/status/2119777482534707681)
 
-*Fidelity stamps Solana as market infra*
-3. x.com/solana — Fidelity Digital Assets: Solana is 15% of major US exchange activity (from 0.30% in 2022), briefly passed NYSE on weekly executions, tokenized volume ran under $100M/mo to nearly $5B.
-Likes: 517 | RTs: 75 | Replies: 159
-[View tweet](https://x.com/solana/status/2119384450933162180)
+3. x.com/fomo — Exclusive trading partner ships with 2x trader rewards on Elysium tokens — paying the rotation.
+Likes: 418 | RTs: 47 | Replies: 118
+[View tweet](https://x.com/fomo/status/2119785458762952766)
 
-4. x.com/solana — Breakpoint T-7 dump: Samsung Wallet USDC on 82M Galaxy devices, Stripe USDC/OUSD payouts, Securitize +13 stocks, tokenized-stock daily volume ATH $657M / 1.8M holders.
-Likes: 376 | RTs: 50 | Replies: 162
-[View tweet](https://x.com/solana/status/2119429739760755105)
+*Tokenized stocks become a venue war*
+4. x.com/avax — NYSE picks Avalanche as the clearing and settlement layer for its tokenized-securities platform, targeting 24/7 trading.
+Likes: 2340 | RTs: 591 | Replies: 296
+[View tweet](https://x.com/avax/status/2119777384928850140)
 
-*Trenches rotate to Elysium tomorrow*
-5. x.com/fomo — Elysium tokens trade on FOMO tomorrow with 2x trader rewards — the incumbent Solana app is giving the new Hyperliquid L2 distribution on day two.
-Likes: 473 | RTs: 56 | Replies: 107
-[View tweet](https://x.com/fomo/status/2119459948455407683)
+5. x.com/solana — Formation notifies the SEC it will run the first tokenized-securities venue on Solana: same voting and dividend rights, 24/7 atomic settlement, day-one Exodus / Forward / Galaxy via Superstate and Securitize.
+Likes: 673 | RTs: 105 | Replies: 136
+[View tweet](https://x.com/solana/status/2119772058548842656)
 
-6. x.com/x256xx — Calls the rotation in one line: the whole Solana trenches are pivoting to Elysium, and floats a SOL short into the move.
-Likes: 114 | RTs: 1 | Replies: 17
-[View tweet](https://x.com/x256xx/status/2119082968413274578)
+*ETH SoV gets a bid*
+6. x.com/fundstrat — Tom Lee treats Vitalik's SoV post as confirmation. Bitmine book: 6.07M ETH at $2,234, 4.97% of supply, $14.3B total.
+Likes: 902 | RTs: 78 | Replies: 74
+[View tweet](https://x.com/fundstrat/status/2119805615443001841)
 
-7. x.com/bankrbot — Bankr ships Elysium tomorrow: launch, bridge, and trade from chat ("launch a token on Elysium and give 80% of fees to holders").
-Likes: 40 | RTs: 15 | Replies: 23
-[View tweet](https://x.com/bankrbot/status/2119497407444730331)
+7. x.com/lookonchain — 0xFD10 borrowed 22M USDT on Aave to buy 10,000 ETH at $2,155; 0x4AB7 pulled another 3,500 ETH off Binance, 16,577 ETH ($37.5M) on the week.
+Likes: 543 | RTs: 38 | Replies: 82
+[View tweet](https://x.com/lookonchain/status/2119622568621875241)
 
-*Robinhood bags in capitulation*
-8. x.com/StarPlatinum_ — Elon QRTed $CLAUDIA and it stalled at $7M — used as proof attention and liquidity are gone vs the $100M-easy era.
-Likes: 94 | RTs: 3 | Replies: 36
-[View tweet](https://x.com/StarPlatinum_/status/2119491996033442183)
+*Crime coins, HYPE exit, RH agents*
+8. x.com/BullTheoryio — Elliptic flagged six North Korea-linked memecoins (Nov 5–7, ~$90 each) used to wash $430k of stolen NEAR through fake LP trades — same trick as Bybit 2025, now on NEAR, Tron, and Solana.
+Likes: 384 | RTs: 53 | Replies: 42
+[View tweet](https://x.com/BullTheoryio/status/2119845147013943733)
 
-9. x.com/CryptoKaleo — CASHCAT is retesting the August breakout; tourists who bought the Robinhood Assets list are out; still calling RH alive and a bounce.
-Likes: 107 | RTs: 9 | Replies: 50
-[View tweet](https://x.com/CryptoKaleo/status/2119462789550862647)
+9. x.com/lookonchain — A whale unstaked 512,010 HYPE ($39.3M) into FalconX as Elysium (HYPE-gas L2) went live — possible sell into the launch.
+Likes: 220 | RTs: 12 | Replies: 38
+[View tweet](https://x.com/lookonchain/status/2119660484865749024)
 
-10. x.com/basedsnipez — No chain — Base, Robinhood, or Solana — has paid holders; metas last two weeks max; the game is jeet timing.
-Likes: 63 | RTs: 2 | Replies: 24
-[View tweet](https://x.com/basedsnipez/status/2119479381038977101)
+10. x.com/Hookrfun — MCP server now 24 tools: agents can add/remove LP, collect fees, and scan any Uniswap v4 hook on Robinhood Chain. Server holds no key.
+Likes: 106 | RTs: 18 | Replies: 13
+[View tweet](https://x.com/Hookrfun/status/2119791067516055585)

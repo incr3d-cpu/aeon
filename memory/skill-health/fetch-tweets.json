@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-08T19:09:59Z",
+  "last_analyzed": "2026-11-09T20:05:01Z",
   "quality_score": 4,
-  "assessment": "Verified same-day tape: ten real tweets with accurate summaries and near-live engagement, clustered into ETH SoV, Solana infra, the Elysium rotation, and Robinhood capitulation — useful for the desk, short of an explicit first/not-first call.",
+  "assessment": "Verified Nov 9 digest: real posts, matching IDs and engagement, grouped into usable narratives, with little early-lowcap contract or first/not-first call.",
   "flags": [],
   "avg_score": 3.8,
   "history": [
-    {
-      "date": "2026-10-10",
-      "score": 4,
-      "ts": "2026-10-10T19:03:06Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-11",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-08",
       "score": 4,
       "ts": "2026-11-08T19:09:59Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-09",
+      "score": 4,
+      "ts": "2026-11-09T20:05:01Z",
       "harness": "grok"
     }
   ]
