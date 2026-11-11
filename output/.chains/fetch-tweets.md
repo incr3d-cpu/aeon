@@ -1,42 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-10)*
-_Majors flush — SOL under $82, ETH under $2,015, $600M liquidated — while Pumpfun ships Hyperliquid perps, Hookr follows the rotation onto Elysium, and Robinhood stacks agents hunting a cat runner._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-11)*
+_House is picking a Solana cat while the rails keep shipping — Pumpfun put Apple Pay on $MIHAO, Base printed $5B of tokenized-stock DEX volume, Elysium turned on Uniswap v4, and Lubin restated ETH as SoV into another day of ETF outflows._
 
-*Leverage flush hits SOL and ETH*
-1. x.com/WatcherGuru — Four-hour wipe: SOL lost $82, ETH lost $2,015, BTC lost $73k, $600M of leverage gone.
-Likes: 1394 | RTs: 158 | Replies: 268
-[View tweet](https://x.com/WatcherGuru/status/2120202954867437952)
+*Pumpfun puts Apple Pay on $MIHAO*
+1. x.com/Pumpfun — House put an Apple Pay buy button (up to $1,500) on Ni Hao Cat — first time they're distributing a specific trench ticker through the app's fiat rail.
+Likes: 757 | RTs: 142 | Replies: 287
+[View tweet](https://x.com/Pumpfun/status/2120544026730397978)
 
-2. x.com/lookonchain — BlackRock parked another 72,212 ETH ($151.4M) at Coinbase Prime; net 791,758 ETH ($1.74B) out since Oct 1 — SoV bid is fighting ETF outflow.
-Likes: 275 | RTs: 25 | Replies: 47
-[View tweet](https://x.com/lookonchain/status/2120133248038969475)
+2. x.com/PumpfunEco — Named trader Anarchie is 540x from a $37k market-cap entry; the house is broadcasting the PnL to justify the push.
+Likes: 49 | RTs: 11 | Replies: 26
+[View tweet](https://x.com/PumpfunEco/status/2120558382239060239)
 
-*Hyperliquid stack ships on the dip*
-3. x.com/Pumpfun — Four perp upgrades on Hyperliquid: limit orders, TWAPs, cross margin, margin control — the Solana app is becoming the HL frontend while the tape dumps.
-Likes: 238 | RTs: 29 | Replies: 94
-[View tweet](https://x.com/Pumpfun/status/2120188193463283894)
+3. x.com/0xBiZzy — Frames the Apple Pay push as the house backing a live winner, against the "everything on pumpfun is crime" read.
+Likes: 72 | RTs: 6 | Replies: 56
+[View tweet](https://x.com/0xBiZzy/status/2120556530697150702)
 
-4. x.com/Enter_Elysium — Day-two of mainnet: Alchemy puts $1M of RPC credits on the new L2, $10k per team. Infra follows yesterday's pad rotation.
-Likes: 195 | RTs: 13 | Replies: 58
-[View tweet](https://x.com/Enter_Elysium/status/2120187594101412070)
+*Tokenized stocks are the tape*
+4. x.com/JohannKerbrat — Robinhood's crypto GM: tokenization of PE, real estate, stocks, and event outcomes — plus AI agents onchain — is what Robinhood Chain was built for.
+Likes: 178 | RTs: 23 | Replies: 84
+[View tweet](https://x.com/JohannKerbrat/status/2120544679670235457)
 
-5. x.com/Hookrfun — Same Hook Blocks as Robinhood Chain, now on Elysium with arb recapture on by default and HYPE pairs — the RH hook stack copied onto yesterday's new chain.
-Likes: 205 | RTs: 34 | Replies: 23
-[View tweet](https://x.com/Hookrfun/status/2119979390239179042)
+5. x.com/base — Claims $5B DEX volume on tokenized stocks and counting — today's Base number is the stock-token tape, not memes.
+Likes: 162 | RTs: 24 | Replies: 45
+[View tweet](https://x.com/base/status/2120554306500018325)
 
-*Robinhood agents stack, trenches hunt a cat*
-6. x.com/RobinhoodCrypto — One-line stack: chain, app, wallet. Highest-engagement RH post of the window; they're selling the closed loop, not a token.
-Likes: 994 | RTs: 111 | Replies: 253
-[View tweet](https://x.com/RobinhoodCrypto/status/2119895749861543962)
+6. x.com/CryptoKaleo — Robinhood Chain hit $1B TVL in 3 months in a bear vs Base's 6 months to the same print; still stacking $HMM as the survivor of the onchain selloff.
+Likes: 30 | RTs: 1 | Replies: 19
+[View tweet](https://x.com/CryptoKaleo/status/2120550396389097682)
 
-7. x.com/RobinhoodCrypto — Circuit agent live on Stock Token / USDG pools (metricxyz): ranks by LP fees, funds the top three, recenters every minute, steps aside around the cash open and earnings.
-Likes: 260 | RTs: 43 | Replies: 75
-[View tweet](https://x.com/RobinhoodCrypto/status/2119839248174236102)
+*Elysium turns on Uniswap v4 hooks*
+7. x.com/Enter_Elysium — Uniswap v4 hooks, singleton pools, and flash accounting are live on the Hyperliquid L2, two days after mainnet.
+Likes: 405 | RTs: 39 | Replies: 97
+[View tweet](https://x.com/Enter_Elysium/status/2120543154202181748)
 
-8. x.com/CryptoKaleo — Calls HMM (Thinking Cat) the RH runner: same structure as the $40M breakout, holders stacking instead of rotating; CASHCAT listed ~$100M is the comp.
-Likes: 81 | RTs: 12 | Replies: 22
-[View tweet](https://x.com/CryptoKaleo/status/2120183185212346758)
+8. x.com/0xOmnia — Hook surface is the growth arm because it sits on Hyperliquid perp, spot, and outcome books — not a copy of the Robinhood hook stack.
+Likes: 55 | RTs: 7 | Replies: 37
+[View tweet](https://x.com/0xOmnia/status/2120561025619824823)
 
-*Solana routing layer still shipping*
-9. x.com/JupiterExchange — Four-release "Aggregate Everything" drop. Solana's routing layer shipping into the dump.
-Likes: 392 | RTs: 81 | Replies: 75
-[View tweet](https://x.com/JupiterExchange/status/2120192290673270910)
+*Lubin restates ETH SoV into ETF bleed*
+9. x.com/ethereumJoseph — Lubin publishes the SoV manifesto (not-debt, cheap to use, collateral, quantum-safe by 2027/28) two days after Vitalik's.
+Likes: 1410 | RTs: 257 | Replies: 120
+[View tweet](https://x.com/ethereumJoseph/status/2120403128692494369)
+
+10. x.com/lookonchain — Today's print: BTC ETFs −$122M / −$1.15B 7d; ETH ETFs −$24M / −$263M 7d — selling slowed vs Monday's $185M ETH hit, streak holds.
+Likes: 99 | RTs: 5 | Replies: 50
+[View tweet](https://x.com/lookonchain/status/2120513332776231021)

@@ -1,17 +1,13 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-09T20:05:01Z",
-  "quality_score": 4,
-  "assessment": "Verified Nov 9 digest: real posts, matching IDs and engagement, grouped into usable narratives, with little early-lowcap contract or first/not-first call.",
-  "flags": [],
-  "avg_score": 3.8,
+  "last_analyzed": "2026-11-11T17:22:25Z",
+  "quality_score": 2,
+  "assessment": "The ten tweet links and engagement figures check out, but the lead invents a 'first' Apple Pay push on $MIHAO (the same $1,500 Pumpfun rail already ran on e/acc on 2026-10-01) and skips the CA plus a blunt first/not-first call.",
+  "flags": [
+    "unverifiable_claim"
+  ],
+  "avg_score": 3.73,
   "history": [
-    {
-      "date": "2026-10-11",
-      "score": 4,
-      "ts": "2026-10-11T18:20:36Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-12",
       "score": 4,
@@ -184,6 +180,12 @@
       "date": "2026-11-09",
       "score": 4,
       "ts": "2026-11-09T20:05:01Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-11",
+      "score": 2,
+      "ts": "2026-11-11T17:22:25Z",
       "harness": "grok"
     }
   ]
