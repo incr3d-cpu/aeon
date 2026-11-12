@@ -1,19 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-11T17:22:25Z",
-  "quality_score": 2,
-  "assessment": "The ten tweet links and engagement figures check out, but the lead invents a 'first' Apple Pay push on $MIHAO (the same $1,500 Pumpfun rail already ran on e/acc on 2026-10-01) and skips the CA plus a blunt first/not-first call.",
-  "flags": [
-    "unverifiable_claim"
-  ],
+  "last_analyzed": "2026-11-12T20:15:32Z",
+  "quality_score": 4,
+  "assessment": "All ten linked posts, authors, and engagement figures check out and the desk brief is usable, but the Kaleo 'Hmm' line is misread as an HMM narrative and MIHAO is pushed as the only long without a not-first call.",
+  "flags": [],
   "avg_score": 3.73,
   "history": [
-    {
-      "date": "2026-10-12",
-      "score": 4,
-      "ts": "2026-10-12T23:03:42Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-13",
       "score": 4,
@@ -186,6 +178,12 @@
       "date": "2026-11-11",
       "score": 2,
       "ts": "2026-11-11T17:22:25Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-12",
+      "score": 4,
+      "ts": "2026-11-12T20:15:32Z",
       "harness": "grok"
     }
   ]
