@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-12T20:15:32Z",
+  "last_analyzed": "2026-11-13T21:43:48Z",
   "quality_score": 4,
-  "assessment": "All ten linked posts, authors, and engagement figures check out and the desk brief is usable, but the Kaleo 'Hmm' line is misread as an HMM narrative and MIHAO is pushed as the only long without a not-first call.",
+  "assessment": "Same-day digest is checkable and desk-useful: all 10 posts, fee/clone/whale figures, and engagement match live sources, with only a loose 'third day' ETF-streak gloss in the lede.",
   "flags": [],
   "avg_score": 3.73,
   "history": [
-    {
-      "date": "2026-10-13",
-      "score": 4,
-      "ts": "2026-10-13T17:56:54Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-14",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-12",
       "score": 4,
       "ts": "2026-11-12T20:15:32Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-13",
+      "score": 4,
+      "ts": "2026-11-13T21:43:48Z",
       "harness": "grok"
     }
   ]
