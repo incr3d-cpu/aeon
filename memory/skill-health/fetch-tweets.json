@@ -1,19 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-14T19:39:45Z",
-  "quality_score": 2,
-  "assessment": "Real same-day links and near-exact engagement, but the digest invents a ~$47 SOL print that contradicts the cited $5.19M/64,666 SOL deposit and asserts an unsourced Robinhood 'last $100M name.'",
-  "flags": [
-    "unverifiable_claim"
-  ],
-  "avg_score": 3.67,
+  "last_analyzed": "2026-11-15T21:25:22Z",
+  "quality_score": 4,
+  "assessment": "Same-day digest checks out: all 10 tweet IDs, figures, and links match live posts, with only light editorial gloss and thin lowcap/FOMO coverage versus the desk's early-lowcap priority.",
+  "flags": [],
+  "avg_score": 3.73,
   "history": [
-    {
-      "date": "2026-10-15",
-      "score": 2,
-      "ts": "2026-10-15T18:46:15Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-16",
       "score": 4,
@@ -186,6 +178,12 @@
       "date": "2026-11-14",
       "score": 2,
       "ts": "2026-11-14T19:39:45Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-15",
+      "score": 4,
+      "ts": "2026-11-15T21:25:22Z",
       "harness": "grok"
     }
   ]
