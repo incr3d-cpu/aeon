@@ -1,19 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-17T18:02:51Z",
-  "quality_score": 2,
-  "assessment": "Real same-day tweet IDs and near-exact metrics, but several specifics are wrong or unsupported: the 2019 Binance-thief label, 74.9k ETH already sold into BTC, a 40x long wipe, and Hookr Pool Check as the first listing.",
-  "flags": [
-    "unverifiable_claim"
-  ],
+  "last_analyzed": "2026-11-18T23:13:50Z",
+  "quality_score": 4,
+  "assessment": "Same-day digest checks out: tweet links, counts, and figures match live posts, and the RH hooks, Base Anton, and treasury-flow items are usable, while the GTA/HOGE items stay attributed claims without a blunt first/not-first skip.",
+  "flags": [],
   "avg_score": 3.6,
   "history": [
-    {
-      "date": "2026-10-18",
-      "score": 4,
-      "ts": "2026-10-18T19:24:27Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-19",
       "score": 4,
@@ -186,6 +178,12 @@
       "date": "2026-11-17",
       "score": 2,
       "ts": "2026-11-17T18:02:51Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-18",
+      "score": 4,
+      "ts": "2026-11-18T23:13:50Z",
       "harness": "grok"
     }
   ]
