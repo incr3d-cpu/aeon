@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-18T23:13:50Z",
+  "last_analyzed": "2026-11-19T21:08:39Z",
   "quality_score": 4,
-  "assessment": "Same-day digest checks out: tweet links, counts, and figures match live posts, and the RH hooks, Base Anton, and treasury-flow items are usable, while the GTA/HOGE items stay attributed claims without a blunt first/not-first skip.",
+  "assessment": "Same-day digest checks out: all nine tweet IDs, the ANTc/DCTY contracts, and the SOL/ETH/volume figures match live posts, and the thin-liquidity GTA note is desk-useful, but it stays a narrative tape with no first/not-first or bull-vs-bear and two soft paraphrases (7 minutes after the bell; Base geo-block includes the UK).",
   "flags": [],
   "avg_score": 3.6,
   "history": [
-    {
-      "date": "2026-10-19",
-      "score": 4,
-      "ts": "2026-10-19T19:46:39Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-20",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-18",
       "score": 4,
       "ts": "2026-11-18T23:13:50Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-19",
+      "score": 4,
+      "ts": "2026-11-19T21:08:39Z",
       "harness": "grok"
     }
   ]
