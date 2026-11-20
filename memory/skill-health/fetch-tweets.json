@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-19T21:08:39Z",
+  "last_analyzed": "2026-11-20T18:27:06Z",
   "quality_score": 4,
-  "assessment": "Same-day digest checks out: all nine tweet IDs, the ANTc/DCTY contracts, and the SOL/ETH/volume figures match live posts, and the thin-liquidity GTA note is desk-useful, but it stays a narrative tape with no first/not-first or bull-vs-bear and two soft paraphrases (7 minutes after the bell; Base geo-block includes the UK).",
+  "assessment": "Same-day tape is real and useful: status IDs, ANT/liquidation/PONS figures, and links check out, with only small summary slips (SPCX on the wrong Sunrise post, Base geo as US/UK, PONS $25k as fees rather than protocol revenue).",
   "flags": [],
   "avg_score": 3.6,
   "history": [
-    {
-      "date": "2026-10-20",
-      "score": 4,
-      "ts": "2026-10-20T20:16:46Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-21",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-19",
       "score": 4,
       "ts": "2026-11-19T21:08:39Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-20",
+      "score": 4,
+      "ts": "2026-11-20T18:27:06Z",
       "harness": "grok"
     }
   ]
