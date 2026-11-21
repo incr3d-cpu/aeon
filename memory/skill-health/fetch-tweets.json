@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-20T18:27:06Z",
+  "last_analyzed": "2026-11-21T20:50:25Z",
   "quality_score": 4,
-  "assessment": "Same-day tape is real and useful: status IDs, ANT/liquidation/PONS figures, and links check out, with only small summary slips (SPCX on the wrong Sunrise post, Base geo as US/UK, PONS $25k as fees rather than protocol revenue).",
+  "assessment": "Nine linked posts match live 2026-11-21 tweets, authors, and figures; small slips (Jupiter 0.015% is a swap fee, not bank rails; $56k rounds a ~$55.1k low) and a macro-heavy frame stop it short of an early-lowcap action brief.",
   "flags": [],
   "avg_score": 3.6,
   "history": [
-    {
-      "date": "2026-10-21",
-      "score": 4,
-      "ts": "2026-10-21T17:11:55Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-22",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-20",
       "score": 4,
       "ts": "2026-11-20T18:27:06Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-21",
+      "score": 4,
+      "ts": "2026-11-21T20:50:25Z",
       "harness": "grok"
     }
   ]
