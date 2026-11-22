@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-21T20:50:25Z",
+  "last_analyzed": "2026-11-22T21:14:28Z",
   "quality_score": 4,
-  "assessment": "Nine linked posts match live 2026-11-21 tweets, authors, and figures; small slips (Jupiter 0.015% is a swap fee, not bank rails; $56k rounds a ~$55.1k low) and a macro-heavy frame stop it short of an early-lowcap action brief.",
+  "assessment": "Same-day tape is sourced and checkable (IDs, figures, and engagement match the posts), with only small stretch lines on bid sizing and deposit timing, and little early-lowcap first/not-first material for the desk.",
   "flags": [],
   "avg_score": 3.6,
   "history": [
-    {
-      "date": "2026-10-22",
-      "score": 4,
-      "ts": "2026-10-22T17:25:14Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-23",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-21",
       "score": 4,
       "ts": "2026-11-21T20:50:25Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-22",
+      "score": 4,
+      "ts": "2026-11-22T21:14:28Z",
       "harness": "grok"
     }
   ]
