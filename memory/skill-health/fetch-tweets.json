@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-22T21:14:28Z",
+  "last_analyzed": "2026-11-23T21:46:26Z",
   "quality_score": 4,
-  "assessment": "Same-day tape is sourced and checkable (IDs, figures, and engagement match the posts), with only small stretch lines on bid sizing and deposit timing, and little early-lowcap first/not-first material for the desk.",
+  "assessment": "Same-day digest checks out against the live posts (IDs, prices, flows, engagement) and is a useful tape read, short of a blunt first/not-first lowcap call.",
   "flags": [],
   "avg_score": 3.6,
   "history": [
-    {
-      "date": "2026-10-23",
-      "score": 4,
-      "ts": "2026-10-23T20:10:35Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-24",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-22",
       "score": 4,
       "ts": "2026-11-22T21:14:28Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-23",
+      "score": 4,
+      "ts": "2026-11-23T21:46:26Z",
       "harness": "grok"
     }
   ]
