@@ -1,5 +1,11 @@
-I'll read the heartbeat skill and follow its instructions.The selector is empty, so this is the ambient fleet check. I'll load memory, cron state, and the status-page sources.Cron state is present and some skills have completed runs. I'll read the recent logs, the current status page, and open PRs and issues.Stalled Dependabot PRs are still the only watch item, and they were already logged within 48 hours. I'll refresh the status page and record this run without sending another notification.🟡 WATCH. Stalled Dependabot PRs #6–#9 are still the only finding. The notification was skipped because the same item was logged on 2026-11-23.
+I'll start by reading the heartbeat skill and following it exactly.The selector is empty, so this is the ambient fleet check. I'll load memory, cron state, and the skill schedule next.Cron state shows a warmed fleet. I'll read recent logs, issues, and the current status page, then check open PRs.Four Dependabot PRs are still stalled and already logged in the last 48 hours, so I’ll refresh the status page and skip a repeat notification.🟡 WATCH. Four Dependabot PRs are still stalled. The notification was skipped because the same finding is already in the last 48 hours of logs.
 
-P0 is clear: no failed, stuck, or chronic skills. Heartbeat last succeeded 2026-11-23 09:45 UTC (about 30 hours ago). Issue #5 (`health: fetch-tweets`) has no urgent label. No flagged memory items. Daily skills are inside their 2× interval.
+**P1 — stalled >24h, no updates since 2026-11-01 (open 565h):**
+- PR #6 webhook deps
+- PR #7 github-actions
+- PR #8 mcp-server deps
+- PR #9 dashboard deps
 
-`docs/status.md` is updated. Next scheduled run is `fetch-tweets` at 17:00 UTC.
+**Otherwise clear.** No failed or stuck skills, no urgent issues (open #5 `health: fetch-tweets` has no labels), no flagged memory items. `fetch-tweets` and `heartbeat` are inside 2× their daily interval.
+
+`docs/status.md` regenerated. `STATUS_PAGE=WATCH`.
