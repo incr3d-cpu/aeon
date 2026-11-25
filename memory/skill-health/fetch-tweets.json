@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-25T00:44:32Z",
+  "last_analyzed": "2026-11-25T19:13:47Z",
   "quality_score": 4,
-  "assessment": "Verified Nov 24 tape with real links and matching counts; blunt Ansem hack-vs-exit and ANT-under-IPO reads serve the desk, while ETF and NVDA items dilute the early-lowcap focus.",
+  "assessment": "All 10 links, handles, and figures match live 2026-11-25 posts and the brief is usable tape, with light unsourced gloss (Ondo voting rights, 'first' UF/RH) and more official narrative than early-lowcap calls.",
   "flags": [],
-  "avg_score": 3.6,
+  "avg_score": 3.67,
   "history": [
-    {
-      "date": "2026-10-25",
-      "score": 2,
-      "ts": "2026-10-25T19:06:26Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-26",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-25",
       "score": 4,
       "ts": "2026-11-25T00:44:32Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-25",
+      "score": 4,
+      "ts": "2026-11-25T19:13:47Z",
       "harness": "grok"
     }
   ]

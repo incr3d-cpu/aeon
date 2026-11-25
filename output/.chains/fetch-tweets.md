@@ -1,37 +1,46 @@
 *Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-25)*
-_Ansem's $2.5M Bullpen dump owns the trench — split on hack vs exit — while tokenized $ANT is already under the $83 IPO and ETF bleed ate the Jensen bounce._
+_Tokenized stocks kept listing (Base +27 names, Ondo into Tangem, Raydium $9B) while ETF bleed and a $23.8M named-wallet flip-to-short owned the tape — Ansem's follow-up says BitGo still holds 49% and 19 Bullpen accounts were hit._
 
-*"Hack" or exit — $ANSEM is the tape*
-1. x.com/blknoiz06 — Blames unauthorized Bullpen access for a Pumpfun wallet drain after the SOL private key was imported into the beta app.
-Likes: 6623 | RTs: 560 | Replies: 5524
-[View tweet](https://x.com/blknoiz06/status/2125182437063790806)
+*Tokenized stocks listing into a red tape*
+1. x.com/base — Official: 27 more tokenized names went live on Base the same session ETFs were still bleeding.
+Likes: 345 | RTs: 53 | Replies: 86
+[View tweet](https://x.com/base/status/2125521661382529319)
 
-2. x.com/DegenerateNews — SpecterAnalyst: an old Ansem wallet sent $27 to the dump destination 2 hours before the sell — physical attack or insider, not a random scrape.
-Likes: 314 | RTs: 25 | Replies: 56
-[View tweet](https://x.com/DegenerateNews/status/2125181070370873479)
+2. x.com/Ondo — 460+ Ondo stocks plus 9 Intelligent Portfolios now sit in Tangem hardware — cold storage for tokenized equity, still no voting rights.
+Likes: 205 | RTs: 19 | Replies: 21
+[View tweet](https://x.com/Ondo/status/2125598872546295861)
 
-3. x.com/DegenerateNews — Bullpen takes the app offline after unauthorized transfers from 18–19 beta accounts; $ANSEM still −42% after the dump.
-Likes: 171 | RTs: 8 | Replies: 65
-[View tweet](https://x.com/DegenerateNews/status/2125277569436303366)
+3. x.com/Raydium — Official print: $9B cumulative tokenized-stock volume on Solana, same day Base added 27 names.
+Likes: 38 | RTs: 6 | Replies: 22
+[View tweet](https://x.com/Raydium/status/2125663143510557045)
 
-*Tokenized ANT lost the IPO print*
-4. x.com/DegenerateNews — Onchain $ANT prints $76 on Backpack and xStocks — 8% under the $83 IPO, five days after the 7-minute listing.
-Likes: 67 | RTs: 2 | Replies: 22
-[View tweet](https://x.com/DegenerateNews/status/2125263017306898941)
+*Named wallets distributing the bounce*
+4. x.com/lookonchain — loracle.hl closed a 50-day BTC long at −$23.77M, then flipped short 462 BTC ($27.14M).
+Likes: 403 | RTs: 21 | Replies: 101
+[View tweet](https://x.com/lookonchain/status/2125466297110786553)
 
-5. x.com/solana — Official still selling $300T of remaining TAM the same day the flagship IPO token is under issue price.
-Likes: 276 | RTs: 47 | Replies: 69
-[View tweet](https://x.com/solana/status/2125355099207921845)
+5. x.com/lookonchain — BlackRock tape since the local highs: −65,219 BTC (−$3.81B) from Nov 1 and −1.09M ETH (−$1.79B) from Oct 4 — BTC −25%, ETH −40% over those windows.
+Likes: 163 | RTs: 17 | Replies: 49
+[View tweet](https://x.com/lookonchain/status/2125587191858671633)
 
-*Jensen bounce already distributed*
-6. x.com/lookonchain — Another −10,217 BTC (−$613.9M) and −67,414 ETH (−$114M) in one session — the Jensen wick did not stop ETF bleed.
-Likes: 155 | RTs: 13 | Replies: 56
-[View tweet](https://x.com/lookonchain/status/2125225630413603315)
+*Ansem follow-through — BitGo, 19 accounts, Coinbase dip bid*
+6. x.com/blknoiz06 — Follow-up: BitGo still holds 49% of $ANSEM unmoved; 19 Bullpen legacy/staging accounts were 2FA-bypassed — he told users to withdraw until funds are confirmed safe.
+Likes: 2902 | RTs: 220 | Replies: 70
+[View tweet](https://x.com/blknoiz06/status/2125437574965539054)
 
-7. x.com/lookonchain — Named wallet sold 1,277 ETH at $1,627 into the crash, bought 1,155 back at $1,798 after Jensen — paid 122 ETH to fade the bounce.
-Likes: 266 | RTs: 16 | Replies: 57
-[View tweet](https://x.com/lookonchain/status/2125125969581339006)
+7. x.com/Skajloxyz — Fresh Coinbase-funded wallets buying $ANSEM after he previously sent 2,200 SOL there — one wallet alone took 435.6k tokens.
+Likes: 26 | RTs: 4 | Replies: 10
+[View tweet](https://x.com/Skajloxyz/status/2125647264534188484)
 
-8. x.com/lookonchain — $37.8M-PnL wallet 0x15a4 opened a 10x short on 200k NVDA ($32.8M) into the reinstatement, already +$584K.
-Likes: 270 | RTs: 13 | Replies: 42
-[View tweet](https://x.com/lookonchain/status/2125102670793114093)
+*Onchain payroll, perps-everything, Hookr gets a UF scan*
+8. x.com/MustStopMurad — Every wallet, CEX and social app is converging on the same product: mobile social perps + RWAs + memes + predictions — Robinhood included.
+Likes: 179 | RTs: 46 | Replies: 49
+[View tweet](https://x.com/MustStopMurad/status/2125657329597301130)
+
+9. x.com/base — Coinbase Wallet ships paycheck direct deposit as USDC on Base, zero deposit fees — payroll as onchain float.
+Likes: 179 | RTs: 28 | Replies: 56
+[View tweet](https://x.com/base/status/2125608182160695607)
+
+10. x.com/Hookrfun — Uniswap Foundation Security Fund paid Olympix to scan Hookr's contracts — first UF security backing named on the RH hook-launchpad.
+Likes: 159 | RTs: 35 | Replies: 22
+[View tweet](https://x.com/Hookrfun/status/2125576849606533270)
