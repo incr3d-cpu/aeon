@@ -1,46 +1,37 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-23)*
-_Jensen's return ripped BTC to $64k and NVDA +30%, then BTC gave the whole move back under $61k — Solana printed a record $1.8B week in tokenized stocks while $ANT was the only AI name red._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-25)*
+_Ansem's $2.5M Bullpen dump owns the trench — split on hack vs exit — while tokenized $ANT is already under the $83 IPO and ETF bleed ate the Jensen bounce._
 
-*Jensen flipped the tape — BTC gave it back*
-1. x.com/BullTheoryio — Nvidia board reinstated Jensen 11 days after he resigned; NVDA added $1T in a day and the AI trade reversed.
-Likes: 3748 | RTs: 342 | Replies: 134
-[View tweet](https://x.com/BullTheoryio/status/2124866525001929135)
+*"Hack" or exit — $ANSEM is the tape*
+1. x.com/blknoiz06 — Blames unauthorized Bullpen access for a Pumpfun wallet drain after the SOL private key was imported into the beta app.
+Likes: 6623 | RTs: 560 | Replies: 5524
+[View tweet](https://x.com/blknoiz06/status/2125182437063790806)
 
-2. x.com/BitcoinMagazine — BTC ripped to $63,644 on the same print as the Jensen reinstatement.
-Likes: 1426 | RTs: 138 | Replies: 83
-[View tweet](https://x.com/BitcoinMagazine/status/2124866176123916454)
+2. x.com/DegenerateNews — SpecterAnalyst: an old Ansem wallet sent $27 to the dump destination 2 hours before the sell — physical attack or insider, not a random scrape.
+Likes: 314 | RTs: 25 | Replies: 56
+[View tweet](https://x.com/DegenerateNews/status/2125181070370873479)
 
-3. x.com/Nostre_damus — By evening BTC was back under $61k, already below the pre-Jensen print.
-Likes: 584 | RTs: 39 | Replies: 30
-[View tweet](https://x.com/Nostre_damus/status/2124951239398138009)
+3. x.com/DegenerateNews — Bullpen takes the app offline after unauthorized transfers from 18–19 beta accounts; $ANSEM still −42% after the dump.
+Likes: 171 | RTs: 8 | Replies: 65
+[View tweet](https://x.com/DegenerateNews/status/2125277569436303366)
 
-*Solana owns the overnight stock tape*
-4. x.com/solana — Official count: tokenized equities on Solana hit a record $1.8B weekly spot volume, 43% of all onchain equities, highest share since June.
-Likes: 635 | RTs: 69 | Replies: 119
-[View tweet](https://x.com/solana/status/2124929024594194892)
+*Tokenized ANT lost the IPO print*
+4. x.com/DegenerateNews — Onchain $ANT prints $76 on Backpack and xStocks — 8% under the $83 IPO, five days after the 7-minute listing.
+Likes: 67 | RTs: 2 | Replies: 22
+[View tweet](https://x.com/DegenerateNews/status/2125263017306898941)
 
-5. x.com/solana — Bitwise paper: Solana handled $13.4B of the $31.4B in onchain tokenized-equity volume from Jan–Sep.
-Likes: 181 | RTs: 30 | Replies: 54
-[View tweet](https://x.com/solana/status/2124951266887675971)
+5. x.com/solana — Official still selling $300T of remaining TAM the same day the flagship IPO token is under issue price.
+Likes: 276 | RTs: 47 | Replies: 69
+[View tweet](https://x.com/solana/status/2125355099207921845)
 
-6. x.com/JOBhakdi — $ANT is down on a day the market is up ~7% and NVDA is +31% — last week's IPO tape is the only red AI name.
-Likes: 95 | RTs: 7 | Replies: 11
-[View tweet](https://x.com/JOBhakdi/status/2124949273263661430)
+*Jensen bounce already distributed*
+6. x.com/lookonchain — Another −10,217 BTC (−$613.9M) and −67,414 ETH (−$114M) in one session — the Jensen wick did not stop ETF bleed.
+Likes: 155 | RTs: 13 | Replies: 56
+[View tweet](https://x.com/lookonchain/status/2125225630413603315)
 
-*Named dip bid vs ETF bleed*
-7. x.com/lookonchain — Abraxas added another 2,223 BTC ($140.74M) after Jensen's return, on top of yesterday's $1.04B book.
-Likes: 456 | RTs: 43 | Replies: 27
-[View tweet](https://x.com/lookonchain/status/2124878311759528234)
+7. x.com/lookonchain — Named wallet sold 1,277 ETH at $1,627 into the crash, bought 1,155 back at $1,798 after Jensen — paid 122 ETH to fade the bounce.
+Likes: 266 | RTs: 16 | Replies: 57
+[View tweet](https://x.com/lookonchain/status/2125125969581339006)
 
-8. x.com/lookonchain — BlackRock has seen net outflows of 1,018,839 ETH ($1.75B) since October 1.
-Likes: 274 | RTs: 12 | Replies: 37
-[View tweet](https://x.com/lookonchain/status/2124847776513274010)
-
-*Base Demo Day, RH ships a rotating-ticker meme*
-9. x.com/base — Batches 004 teams pitched investors in New York after months of building.
-Likes: 132 | RTs: 18 | Replies: 41
-[View tweet](https://x.com/base/status/2124944150369825102)
-
-10. x.com/OxSimpleFarmer — StonkBroker shipping Omnimeme tokens on Robinhood Chain that rotate name/ticker from X trends, paired with $ANT/$SPCX/$NVDA/$ETH.
-Likes: 95 | RTs: 29 | Replies: 21
-[View tweet](https://x.com/OxSimpleFarmer/status/2124947132016636226)
+8. x.com/lookonchain — $37.8M-PnL wallet 0x15a4 opened a 10x short on 200k NVDA ($32.8M) into the reinstatement, already +$584K.
+Likes: 270 | RTs: 13 | Replies: 42
+[View tweet](https://x.com/lookonchain/status/2125102670793114093)
