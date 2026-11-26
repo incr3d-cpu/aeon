@@ -1,46 +1,46 @@
-*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-25)*
-_Tokenized stocks kept listing (Base +27 names, Ondo into Tangem, Raydium $9B) while ETF bleed and a $23.8M named-wallet flip-to-short owned the tape — Ansem's follow-up says BitGo still holds 49% and 19 Bullpen accounts were hit._
+*Top Tweets — Crypto lowcap solana/base/robinhood/ethereum hot trending topics and current narrative of the day (2026-11-26)*
+_Thanksgiving tape is 24/7 stock tokens (Chainlink + Robinhood) and Pumpfun taxing block0 bundlers — ETF desks printed another −$2.51B week while BTC still sits on $60k._
 
-*Tokenized stocks listing into a red tape*
-1. x.com/base — Official: 27 more tokenized names went live on Base the same session ETFs were still bleeding.
-Likes: 345 | RTs: 53 | Replies: 86
-[View tweet](https://x.com/base/status/2125521661382529319)
+*NYSE closed — 24/7 stocks are the holiday tape*
+1. x.com/chainlink — NYSE is shut for Thanksgiving; Chainlink 24/7 is still quoting xStocks, Robinhood, Coinbase, and Ondo tokenized RWAs.
+Likes: 583 | RTs: 73 | Replies: 21
+[View tweet](https://x.com/chainlink/status/2125960946506146195)
 
-2. x.com/Ondo — 460+ Ondo stocks plus 9 Intelligent Portfolios now sit in Tangem hardware — cold storage for tokenized equity, still no voting rights.
-Likes: 205 | RTs: 19 | Replies: 21
-[View tweet](https://x.com/Ondo/status/2125598872546295861)
+2. x.com/RobinhoodCrypto — Official holiday CTA: "Stock Tokens never go OOO" — the cash market is closed, RH tokens keep trading.
+Likes: 389 | RTs: 17 | Replies: 118
+[View tweet](https://x.com/RobinhoodCrypto/status/2125992819559215401)
 
-3. x.com/Raydium — Official print: $9B cumulative tokenized-stock volume on Solana, same day Base added 27 names.
-Likes: 38 | RTs: 6 | Replies: 22
-[View tweet](https://x.com/Raydium/status/2125663143510557045)
+3. x.com/RobinhoodCrypto — RH stock tokens are now borrowable on Arcus via Morpho — tokenized equity as credit collateral, live.
+Likes: 319 | RTs: 26 | Replies: 66
+[View tweet](https://x.com/RobinhoodCrypto/status/2125610160727216237)
 
-*Named wallets distributing the bounce*
-4. x.com/lookonchain — loracle.hl closed a 50-day BTC long at −$23.77M, then flipped short 462 BTC ($27.14M).
-Likes: 403 | RTs: 21 | Replies: 101
-[View tweet](https://x.com/lookonchain/status/2125466297110786553)
+*Pumpfun taxes block0, still 3x the L1*
+4. x.com/Pumpfun — Dec 4 block0 fee on every launch: same-block snipes pay a flat %, dev-wallet fills exempt — fair-launch becomes a protocol tax.
+Likes: 1141 | RTs: 134 | Replies: 385
+[View tweet](https://x.com/Pumpfun/status/2125719336228937841)
 
-5. x.com/lookonchain — BlackRock tape since the local highs: −65,219 BTC (−$3.81B) from Nov 1 and −1.09M ETH (−$1.79B) from Oct 4 — BTC −25%, ETH −40% over those windows.
-Likes: 163 | RTs: 17 | Replies: 49
-[View tweet](https://x.com/lookonchain/status/2125587191858671633)
+5. x.com/Capy_Research — Pumpfun took $41.3M in 30d fees vs Solana's $13.4M network fees; SOL ETFs still −$10.1M over five sessions through Nov 24.
+Likes: 45 | RTs: 1 | Replies: 44
+[View tweet](https://x.com/Capy_Research/status/2125478549436174484)
 
-*Ansem follow-through — BitGo, 19 accounts, Coinbase dip bid*
-6. x.com/blknoiz06 — Follow-up: BitGo still holds 49% of $ANSEM unmoved; 19 Bullpen legacy/staging accounts were 2FA-bypassed — he told users to withdraw until funds are confirmed safe.
-Likes: 2902 | RTs: 220 | Replies: 70
-[View tweet](https://x.com/blknoiz06/status/2125437574965539054)
+*ETF bleed vs named wallets taking the $60k hold*
+6. x.com/lookonchain — Thanksgiving print still red: −5,802 BTC (−$353M) / 7d −$2.51B; ETH −42,920 (−$73M) / 7d −$429M — BTC still holding $60k.
+Likes: 129 | RTs: 10 | Replies: 71
+[View tweet](https://x.com/lookonchain/status/2125943913869680792)
 
-7. x.com/Skajloxyz — Fresh Coinbase-funded wallets buying $ANSEM after he previously sent 2,200 SOL there — one wallet alone took 435.6k tokens.
-Likes: 26 | RTs: 4 | Replies: 10
-[View tweet](https://x.com/Skajloxyz/status/2125647264534188484)
+7. x.com/lookonchain — ICO wallet that paid $0.31 dumped 32,010 ETH ($53.3M) at 5,372x — distribution into the bounce, not a bid.
+Likes: 359 | RTs: 23 | Replies: 61
+[View tweet](https://x.com/lookonchain/status/2125767630443381220)
 
-*Onchain payroll, perps-everything, Hookr gets a UF scan*
-8. x.com/MustStopMurad — Every wallet, CEX and social app is converging on the same product: mobile social perps + RWAs + memes + predictions — Robinhood included.
-Likes: 179 | RTs: 46 | Replies: 49
-[View tweet](https://x.com/MustStopMurad/status/2125657329597301130)
+8. x.com/lookonchain — Aguila closed a 1,548.7 BTC ($93.85M) long for another $1.8M; $7.27M on the week — named book taking the $60k hold.
+Likes: 331 | RTs: 13 | Replies: 59
+[View tweet](https://x.com/lookonchain/status/2125907891324658057)
 
-9. x.com/base — Coinbase Wallet ships paycheck direct deposit as USDC on Base, zero deposit fees — payroll as onchain float.
-Likes: 179 | RTs: 28 | Replies: 56
-[View tweet](https://x.com/base/status/2125608182160695607)
+*Ethereum's holiday ship: Aave App + tokenized-stock orderbooks*
+9. x.com/aave — Waitlist over: self-custodial Aave App live on iOS/Android — bank or USDC/USDT/GHO in from 8 networks, 7.25% APY, no lockups.
+Likes: 1128 | RTs: 190 | Replies: 168
+[View tweet](https://x.com/aave/status/2125626795768615030)
 
-10. x.com/Hookrfun — Uniswap Foundation Security Fund paid Olympix to scan Hookr's contracts — first UF security backing named on the RH hook-launchpad.
-Likes: 159 | RTs: 35 | Replies: 22
-[View tweet](https://x.com/Hookrfun/status/2125576849606533270)
+10. x.com/injective — Third SEC letter: expand the tokenized-stock exemptive framework beyond AMM pools to onchain orderbooks.
+Likes: 359 | RTs: 66 | Replies: 25
+[View tweet](https://x.com/injective/status/2125965488660283672)

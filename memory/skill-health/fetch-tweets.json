@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-25T19:13:47Z",
+  "last_analyzed": "2026-11-26T19:55:37Z",
   "quality_score": 4,
-  "assessment": "All 10 links, handles, and figures match live 2026-11-25 posts and the brief is usable tape, with light unsourced gloss (Ondo voting rights, 'first' UF/RH) and more official narrative than early-lowcap calls.",
+  "assessment": "Same-day digest checks out: tweet IDs, handles, and figures (block0 fee, $41.3M vs $13.4M, −5,802 BTC / −$2.51B 7d, Aguila and ICO-wallet prints, Aave/Injective posts) match live posts, with only live-count drift and light editorial gloss; useful tape for the desk but light on early-lowcap calls.",
   "flags": [],
   "avg_score": 3.67,
   "history": [
-    {
-      "date": "2026-10-26",
-      "score": 4,
-      "ts": "2026-10-26T19:33:08Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-27",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-25",
       "score": 4,
       "ts": "2026-11-25T19:13:47Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-26",
+      "score": 4,
+      "ts": "2026-11-26T19:55:37Z",
       "harness": "grok"
     }
   ]

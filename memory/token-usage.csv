@@ -103,3 +103,4 @@ date,skill,model,input_tokens,output_tokens,cache_read,cache_creation
 2026-11-25,heartbeat,grok-4.7,57601,9021,230656,0
 2026-11-25,fetch-tweets,grok-4.6,178049,16518,1240576,0
 2026-11-26,heartbeat,grok-4.7,82958,8479,166144,0
+2026-11-26,fetch-tweets,grok-4.6,230190,16319,1001216,0
