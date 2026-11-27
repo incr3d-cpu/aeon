@@ -1,17 +1,11 @@
 {
   "skill": "fetch-tweets",
-  "last_analyzed": "2026-11-26T19:55:37Z",
+  "last_analyzed": "2026-11-27T19:57:57Z",
   "quality_score": 4,
-  "assessment": "Same-day digest checks out: tweet IDs, handles, and figures (block0 fee, $41.3M vs $13.4M, −5,802 BTC / −$2.51B 7d, Aguila and ICO-wallet prints, Aave/Injective posts) match live posts, with only live-count drift and light editorial gloss; useful tape for the desk but light on early-lowcap calls.",
+  "assessment": "Same-day digest checks out: all nine posts, links, and figures match live tweets, and the tape-versus-leverage framing is useful, but it stays a narrative scan with little lowcap first/not-first.",
   "flags": [],
   "avg_score": 3.67,
   "history": [
-    {
-      "date": "2026-10-27",
-      "score": 4,
-      "ts": "2026-10-27T19:00:08Z",
-      "harness": "grok"
-    },
     {
       "date": "2026-10-28",
       "score": 4,
@@ -184,6 +178,12 @@
       "date": "2026-11-26",
       "score": 4,
       "ts": "2026-11-26T19:55:37Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-27",
+      "score": 4,
+      "ts": "2026-11-27T19:57:57Z",
       "harness": "grok"
     }
   ]
